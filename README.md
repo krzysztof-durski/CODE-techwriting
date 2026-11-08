@@ -7,19 +7,18 @@
 
 # watchpapa.tv
 
-watchpapa.tv helps you follow movies and TV shows. It shows every upcoming episode and premiere on one calendar and keeps a rating diary of everything you watch.
-
 ![React 19](https://img.shields.io/badge/React-19-61dafb) ![Vite 8](https://img.shields.io/badge/Vite-8-646cff) ![Tailwind CSS 4](https://img.shields.io/badge/Tailwind-4-06b6d4) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers_%26_Pages-f38020) ![Hono 4](https://img.shields.io/badge/Hono-4-e36002) ![Supabase](https://img.shields.io/badge/Supabase-Postgres_%2B_Auth-3fcf8e)
+
+watchpapa.tv helps you follow movies and TV shows. It shows every upcoming episode and premiere on one calendar and keeps a rating diary of everything you watch.
 
 Visit the live site at [watchpapa.tv](https://watchpapa.tv). Krzysztof Durski created and owns the project.
 
-![The watchpapa.tv home page with a trending hero banner above rows of popular movies and shows](images/watchpapa-home.webp)
+![The watchpapa.tv home page with a trending hero banner above rows of popular movies and shows](docs/images/watchpapa-home.webp)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of contents
 
 - [About the project](#about-the-project)
-- [Usage](#usage)
 - [Documentation](#documentation)
 - [Change log](#change-log)
 - [Roadmap](#roadmap)
@@ -51,7 +50,7 @@ The project is live in production and under active development.
 - **Opt-in adult content.** Adult content is off by default. It needs your date of birth and uses filtering beyond TMDB's own flag.
 - **Plans and rewards.** Free, Premium, Pro and Pro+ plans exist, with referrals, reward codes and upgrades granted by administrators. Payments are not available yet.
 
-![The releases calendar for October 2026 with followed shows and movies on their air dates](images/watchpapa-calendar.webp)
+![The releases calendar for October 2026 with followed shows and movies on their air dates](docs/images/watchpapa-calendar.webp)
 
 ### How it works
 
@@ -97,60 +96,12 @@ Four design decisions shape the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-### Follow titles and use the calendar
-
-1. Create an account and choose a username.
-2. Search for a show or movie and open its page.
-3. Select **Follow**.
-4. Open **Calendar** to see the upcoming episodes and premieres of your followed titles.
-
-> [!NOTE]
-> Each plan has a follow limit. If you exceed the limit, the calendar stays blocked until you unfollow some titles or upgrade.
-
-![Search results for "blade runner" with Movies, Shows and People tabs, sorting and follow buttons](images/watchpapa-search.webp)
-
-### Rate and log what you watch
-
-1. Open a title.
-2. Rate it, log a watch or add it to a watchlist.
-
-Rating a title or logging a watch removes it from your watchlists. The site keeps your rewatches in a diary and keeps a history of your own rating. The share button creates image cards.
-
-Community ratings appear after 10 people rate a title. Until then, the page shows the TMDB average.
-
-![The Matrix detail page with a Where to watch panel and a rating and watchlist sidebar](images/watchpapa-movie.webp)
-
-### Import your history
-
-1. Open **Import**.
-2. Upload a Letterboxd export or a watchpapa CSV file. Your browser reads the file.
-3. Choose how to handle conflicts and which watchlist to use.
-4. Select the button that starts the import.
-
-The import runs as a background job, so you can close the tab. A status pill shows the progress. You can export all your data as a CSV file from the same page.
-
-### Choose your language, region and services
-
-1. Open **Settings**.
-2. Choose a content language and select translated or original titles.
-3. Choose the regions for release dates and **Where to watch**.
-4. Select your streaming services.
-
-You can also reorder or hide any row on the home page.
-
-> [!WARNING]
-> Adult content is off by default. You must enter a date of birth before you can turn it on.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- DOCUMENTATION -->
 ## Documentation
 
 | I want to | Read |
 |---|---|
+| Learn how to use the site | [how-to.md](docs/how-to.md) |
 | Look up a route, table or convention | [CONTEXT.md](https://github.com/watchpapa/watchpapa/blob/production/CONTEXT.md) |
 | Deploy, set secrets or restore a backup | [Documentation/deployment.md](https://github.com/watchpapa/watchpapa/blob/production/Documentation/deployment.md) |
 | See the database tables, policies and functions | [Documentation/database/schema.md](https://github.com/watchpapa/watchpapa/blob/production/Documentation/database/schema.md) |
@@ -185,7 +136,7 @@ You can also reorder or hide any row on the home page.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-watchpapa.tv is a personal project under an all-rights-reserved licence. The project does not accept outside contributions without written permission. To offer help, contact the owner through the [contact page](https://watchpapa.tv/contact) first. If the owner agrees, follow [contributing.md](contributing.md). It covers setup, configuration, development, deployment and troubleshooting.
+watchpapa.tv is a personal project under an all-rights-reserved licence. The project does not accept outside contributions without written permission. To offer help, contact the owner through the [contact page](https://watchpapa.tv/contact) first. If the owner agrees, follow [contributing.md](docs/contributing.md). It covers setup, configuration, development, deployment and troubleshooting.
 
 To report a bug or ask a question, [open an issue](https://github.com/watchpapa/watchpapa/issues) or use the contact page.
 
