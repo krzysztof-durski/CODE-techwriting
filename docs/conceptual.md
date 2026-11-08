@@ -4,6 +4,14 @@ watchpapa.tv records your relationship to a movie or show in three ways: a follo
 
 ## What the three records are
 
+A follow looks ahead, a watchlist plans and a rating looks back. Each record answers one question about a title:
+
+| Record | Question it answers | Where you see it |
+|---|---|---|
+| Follow | Am I waiting for this? | Releases calendar |
+| Watchlist entry | Do I plan to watch this? | Watchlists page |
+| Rating or watch log | Did I watch this, and what did I think? | Title page and profile |
+
 ## Why the site separates them
 
 ## What each record means
