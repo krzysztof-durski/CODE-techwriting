@@ -30,6 +30,12 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
   - [Reading the releases calendar](#reading-the-releases-calendar)
   - [Checking your follow limit](#checking-your-follow-limit)
   - [Unfollowing a title](#unfollowing-a-title)
+- [Rating a title and logging a watch](#rating-a-title-and-logging-a-watch)
+  - [Rating a title](#rating-a-title)
+  - [Changing or clearing a rating](#changing-or-clearing-a-rating)
+  - [Logging a watch](#logging-a-watch)
+  - [Logging another watch](#logging-another-watch)
+  - [Removing a watch](#removing-a-watch)
 
 ---
 
@@ -463,6 +469,77 @@ Congratulations. You followed a show or a movie, found its upcoming releases on 
 ---
 
 ## Rating a title and logging a watch
+
+A rating records what you think of a title. A watch log records when you saw it. This guide shows you how to rate a movie or a show, change or clear the rating, and log more than one watch. It does not cover watchlists or sharing.
+
+### Before you begin
+
+- Sign in to watchpapa.tv. If you have no account, read [Creating an account](#creating-an-account).
+- Choose a title that is already released. For a title that is not released yet, the page shows **Not yet released** instead of the hearts.
+
+### Rating a title
+
+1. Open a title page. Search for the title, as in steps one to three of [Following a show or movie and reading the releases calendar](#following-a-show-or-movie-and-reading-the-releases-calendar). This guide uses *The Matrix*.
+2. Find the **Your activity** card on the page. Before you rate, it shows five empty hearts and the label **Rate this movie**.
+
+   ![The Your activity card with five empty hearts and the Log watch, Watchlist and Share buttons](images/howto-rate-1-panel.webp)
+
+   > [!NOTE]
+   > Shows work the same way, with the label **Rate this show**. Season and episode pages show the hearts only. They have no **Log watch**, **Watchlist** or **Share** buttons.
+
+3. Move the pointer over the hearts. A score appears at the top right of the card. Each heart has two halves. The left half sets an odd score and the right half sets an even score, so the five hearts cover every score from one to 10. On a phone, tap a heart instead.
+4. Select the half heart that matches your score. For 7 out of 10, select the left half of the fourth heart.
+
+   ![The Your activity card showing a rating of 7 out of 10 and the Watched button in green](images/howto-rate-3-rated.webp)
+
+   > [!NOTE]
+   > Your first rating also logs a first watch with today's date. It also removes the title from your watchlists.
+
+   > [!NOTE]
+   > If you are not signed in, selecting a heart opens a prompt to create an account.
+
+### Changing or clearing a rating
+
+Once you rate a title, the hearts lock so that a stray tap cannot replace your score.
+
+1. Open the title page and find the **Your activity** card.
+2. To change the rating, select **Change** and then select a new score. To cancel the change, select **Cancel**.
+3. To remove the rating, select **Clear**.
+
+### Logging a watch
+
+1. Open the title page and find the **Your activity** card.
+2. Select **Log watch**. The button logs today's date and changes to **Watched**.
+
+### Logging another watch
+
+1. On the title page, select **Watched**. On a computer, the **Rewatch diary** opens as a panel. On a phone, it opens from the bottom of the screen.
+2. Under **Log another watch**, choose the date that you watched the title. You cannot choose a future date.
+3. Select **Log**. The button now reads **Watched** followed by the number of watches, for example **Watched · 2×**.
+
+   ![The Rewatch diary panel with two logged watches and the Watched · 2× button below it](images/howto-rate-4-diary.webp)
+
+### Removing a watch
+
+1. On the title page, select **Watched** to open the **Rewatch diary**.
+2. Select the trash can next to the date in the **History** list.
+
+   > [!NOTE]
+   > If you remove every entry, the title counts as unwatched again. Logging a watch also removes the title from any watchlist that holds it.
+
+### Summary
+
+Congratulations. You rated a title, logged your first watch and added a rewatch. watchpapa.tv saves both to your account, and every change to a rating keeps a history.
+
+### Next steps
+
+- [Create a watchlist for titles you plan to watch](#creating-and-using-watchlists)
+- [Get recommendations based on your ratings](#getting-recommendations)
+- [Follow a show or movie and read the releases calendar](#following-a-show-or-movie-and-reading-the-releases-calendar)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Creating and using watchlists
 
