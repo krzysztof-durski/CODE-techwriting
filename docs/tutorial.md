@@ -109,6 +109,17 @@ The page shows "This list is empty". *The Matrix* is gone from your watchlist. A
 
 ## 6. Get recommendations
 
+watchpapa.tv uses the titles that you rated 6 or higher to suggest more titles that you may like. Your rating of 7 is enough to start.
+
+1. Select **Popular** in the top navigation to open the home page. On a phone, select the **Home** tab.
+2. Scroll to the **Suggested For You** row.
+
+   ![The Suggested For You row with movies similar to the user's ratings](images/howto-recommend-1-row.webp)
+
+3. Select a title to open its page. From there you can follow it, rate it or add it to your watchlist.
+
+The row never suggests a title that you already rated, put on a watchlist or followed. To improve the suggestions, rate more titles that you like with at least 6 out of 10. The row changes as you rate more titles.
+
 ## Recap
 
 ## What's next
