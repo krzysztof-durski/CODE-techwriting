@@ -60,6 +60,18 @@ The button changes to **Following** and shows a check mark.
 
 ## 3. Read your releases calendar
 
+The releases calendar collects the upcoming episodes of every title that you follow. You do not need to remember air dates.
+
+1. Select the calendar icon at the top right to open **Releases Radar**. On a phone, select the **Radar** tab at the bottom of the screen.
+2. Find The Simpsons on the calendar. The show releases one episode a week, on Sundays. Each episode appears on its air date with a code such as `S38E6`, which means season 38, episode 6. Today is highlighted.
+
+   ![The November 2026 releases calendar with a weekly Simpsons episode on each Sunday and the Followed panel on the left](images/tutorial-follow-4-calendar.webp)
+
+3. Select the arrows next to the month name to look at earlier or later months. Select **Today** to return to the current month.
+4. Look at the **Followed** panel at the left of the calendar. It lists your followed show. The bar shows how many follows you have used out of the number that your plan allows.
+
+The calendar stays empty until you follow a title. Every show that you follow later adds its episodes here.
+
 ## 4. Save a movie to your watchlist
 
 ## 5. Rate the movie
