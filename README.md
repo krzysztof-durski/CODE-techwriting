@@ -101,7 +101,11 @@ Four design decisions shape the project.
 
 | I want to | Read |
 |---|---|
-| Learn how to use the site | [how-to.md](docs/how-to.md) |
+| Learn the site step by step | [Tutorial](docs/tutorial.md) |
+| Solve a specific task | [How-to guides](docs/how-to.md) |
+| Understand what the site is and why it works this way | [About watchpapa.tv](docs/about.md) |
+| Understand follows, watchlists and ratings | [About follows, watchlists and ratings](docs/conceptual.md) |
+| Set up a local copy and make a change | [Contributing guide](docs/contributing.md) |
 | Look up a route, table or convention | [CONTEXT.md](https://github.com/watchpapa/watchpapa/blob/production/CONTEXT.md) |
 | Deploy, set secrets or restore a backup | [Documentation/deployment.md](https://github.com/watchpapa/watchpapa/blob/production/Documentation/deployment.md) |
 | See the database tables, policies and functions | [Documentation/database/schema.md](https://github.com/watchpapa/watchpapa/blob/production/Documentation/database/schema.md) |
