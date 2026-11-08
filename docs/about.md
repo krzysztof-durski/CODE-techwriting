@@ -67,3 +67,7 @@ The site is live at [watchpapa.tv](https://watchpapa.tv) and under active develo
 
 ## Where to go next
 
+- [Tutorial](tutorial.md): follow a show, save a movie, rate it and get recommendations
+- [About follows, watchlists and ratings](conceptual.md): why the site keeps three kinds of records
+- [How-to guides](how-to.md): steps for specific tasks
+- [Contributing guide](contributing.md): set up a local copy and make a change
