@@ -90,6 +90,23 @@ The **My Watchlists** page shows **My Watchlist** with *The Matrix* on it.
 
 ## 5. Rate the movie
 
+A rating records what you think of a title. It also feeds your recommendations in the next step.
+
+1. Go back to the page of *The Matrix* and find the card with the heading **Rate this movie**. Before you rate, it shows five empty hearts.
+
+   ![The rating card with five empty hearts and the Log watch, Watchlisted and Share buttons](images/tutorial-rate-1-panel.webp)
+
+2. Move the pointer over the hearts. A score appears at the top right of the card. Each heart has two halves. The left half sets an odd score and the right half sets an even score, so the five hearts cover every score from one to 10. On a phone, tap a heart instead.
+3. Select the left half of the fourth heart. This gives the movie a score of 7 out of 10.
+
+   ![The rating card with the heading Your rating, a score of 7 out of 10 and the Watched button in green](images/tutorial-rate-3-rated.webp)
+
+The heading changes to **Your rating**, the score appears, and the **Watched** button turns green. Your first rating also logs a first watch with today's date.
+
+4. Open **Watchlists** again, as in step four.
+
+The page shows "This list is empty". *The Matrix* is gone from your watchlist. A rating means that you watched the title, so it no longer belongs on a list of things that you plan to watch.
+
 ## 6. Get recommendations
 
 ## Recap
