@@ -132,3 +132,12 @@ You also learned how the three lists fit together. Follows track what is coming.
 
 ## What's next
 
+Use the how-to guides to solve a specific problem:
+
+- [Unfollow a title or check your follow limit](how-to.md#following-a-show-or-movie-and-reading-the-releases-calendar)
+- [Change a rating or log a rewatch](how-to.md#rating-a-title-and-logging-a-watch)
+- [Create more watchlists](how-to.md#creating-and-using-watchlists)
+- [Find where to stream a title](how-to.md#finding-where-to-stream-a-title)
+- [Edit your profile](how-to.md#editing-your-profile)
+
+Need more help? Write to us through the [contact page](https://watchpapa.tv/contact).
