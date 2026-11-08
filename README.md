@@ -30,38 +30,22 @@ Visit the live site at [watchpapa.tv](https://watchpapa.tv). Krzysztof Durski cr
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-Keeping up with shows is hard. You finish a series and then must remember when the next episode arrives. A second show releases weekly on a different day. A film you want to see opens in autumn.
+Keeping up with shows is hard. With watchpapa.tv you follow every title that you are waiting for and see all release dates on one personal calendar. You can also rate, log and organize what you watch.
 
-With watchpapa.tv you can follow all of these titles and see their release dates on one personal calendar. You can also rate, log and organise what you watch.
+The site reads its movie and TV information live from The Movie Database (TMDB). watchpapa.tv stores only your own data, which is your ratings, follows and watchlists. The project is live in production and under active development.
 
-The site reads its movie and TV information live from The Movie Database (TMDB). Titles, dates, posters and cast stay current. watchpapa.tv stores only your own data, which is your ratings, follows and watchlists.
-
-The project is live in production and under active development.
-
-### Features
-
-- **Releases calendar.** The calendar shows a month grid on desktop and an agenda list or week view on a phone. You cannot newly follow a finished show or an already released film, so the calendar shows only titles worth waiting for.
-- **Detail pages.** Every movie, show, season, episode and person has a page. You can rate a title, log a watch, add it to a watchlist and see where to stream it in your regions. Logging several watches creates a rewatch diary.
-- **Discovery.** You can search movies, shows and people in one list. You can also browse daily trending titles, personal recommendations, collections, filmographies and age certifications.
-- **My Services.** This page filters popular, top-rated and suggested titles to the streaming services you pay for. It needs a Pro plan or higher.
-- **Library and profile.** You can keep several named watchlists and choose five favourites. A public profile shows your favourites and stats. You can also observe other people to see their activity, and you can share image cards.
-- **Import and export.** You can import your history from a Letterboxd file or a watchpapa file in comma-separated values (CSV) format. The import runs in the background, so you can close the tab.
-- **Language and region.** You choose a content language, translated or original titles, and the regions for release dates and streaming availability.
-- **Opt-in adult content.** Adult content is off by default. It needs your date of birth and uses filtering beyond TMDB's own flag.
-- **Plans and rewards.** Free, Premium, Pro and Pro+ plans exist, with referrals, reward codes and upgrades granted by administrators. Payments are not available yet.
-
-![The releases calendar for October 2026 with followed shows and movies on their air dates](docs/images/watchpapa-calendar.webp)
+To learn more about the features, the design decisions and the tools behind the site, read [About watchpapa.tv](docs/about.md).
 
 ### How it works
 
-The React frontend and the application programming interface (API) both run on Cloudflare. The API is a Cloudflare Worker. It reads movie and TV data from TMDB on request and caches the data at the edge. Supabase stores user data in a PostgreSQL database. Row-level security (RLS) lets each user read and write only their own rows.
+The React frontend and the application programming interface (API) both run on Cloudflare. The API is a Cloudflare Worker. It reads movie and TV data from TMDB on request. Supabase stores user data in a PostgreSQL database.
 
 ```mermaid
 flowchart LR
     B([Browser]) -->|loads app| P["Frontend<br/>React on Cloudflare Pages"]
     X([Social and chat crawlers]) -->|link previews| F["Pages Function<br/>real 404s and link-preview tags"]
     F -->|GET /api/meta| W
-    P -->|own user data, RLS-gated| S[("Supabase<br/>Postgres and Auth")]
+    P -->|own user data, row-level security| S[("Supabase<br/>Postgres and Auth")]
     P -->|content and multi-table reads<br/>signed-in token| W["Worker API<br/>Hono on Cloudflare Workers"]
     W -->|live content, edge-cached| T[TMDB API v3]
     W -->|SQL via Hyperdrive| S
@@ -70,29 +54,7 @@ flowchart LR
     S -.-> G
 ```
 
-Four design decisions shape the project.
-
-- No content database. Language and region travel as query parameters, so the edge cache keeps one copy per locale.
-- Built for the Workers Free plan. Every endpoint that sends many requests to other services has a cap. The caps keep each request within the plan's limits.
-- Stateless sign-in checks. The Worker verifies Supabase tokens locally. It reads a user's role from the database on every request.
-- Rules live in the database. RLS protects every table. Database triggers enforce plan limits, so the interface is not the only guard.
-
-### Built with
-
-* [React 19](https://react.dev/) and [React Router 7](https://reactrouter.com/)
-* [Vite 8](https://vite.dev/)
-* [Tailwind CSS 4](https://tailwindcss.com/)
-* [TipTap](https://tiptap.dev/) for the announcements editor
-* [react-easy-crop](https://github.com/ValentinH/react-easy-crop) for avatars
-* [Hono 4](https://hono.dev/) on [Cloudflare Workers](https://developers.cloudflare.com/workers/)
-* [Supabase](https://supabase.com/) for the database, sign-in and file storage
-* [postgres.js](https://github.com/porsager/postgres) over Cloudflare Hyperdrive
-* [jose](https://github.com/panva/jose) for token verification
-* [TMDB API v3](https://developer.themoviedb.org/) for movie, show and people data
-* [Resend](https://resend.com/) for sign-in emails
-* [Cloudflare Pages](https://pages.cloudflare.com/) for hosting
-* [Cloudflare R2](https://developers.cloudflare.com/r2/) for encrypted backups
-* [Vitest](https://vitest.dev/), [Playwright](https://playwright.dev/) and Node's built-in test runner
+*Figure 1. The parts of watchpapa.tv and the data that flows between them.*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
