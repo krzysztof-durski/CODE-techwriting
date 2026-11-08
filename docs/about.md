@@ -14,6 +14,8 @@ Keeping up with shows is hard. You finish a series and then must remember when t
 
 ## Who it is for
 
+The site is for anyone who follows several shows or films at once and wants one place to track them. You do not need technical knowledge. If you want to learn how follows, watchlists and ratings fit together, read [About follows, watchlists and ratings](conceptual.md).
+
 ## What it offers
 
 ## How it is built
