@@ -1,6 +1,6 @@
 # Contributing to watchpapa.tv
 
-This guide shows you how to set up a local copy of watchpapa.tv, make a change and check it. It also covers configuration, deployment and common setup problems.
+This guide shows you how to set up a local copy of watchpapa.tv, make a change and check it. It also covers configuration, deployment and common setup problems. You need basic knowledge of Git, npm and the command line.
 
 ## Table of contents
 
@@ -65,11 +65,16 @@ watchpapa.tv is a personal project under an all-rights-reserved license. The pro
    ```json
    {"status":"ok"}
    ```
-6. Start the frontend.
+6. Start the frontend from the repository root.
    ```sh
    cd Frontend && npm run dev
    ```
 7. Open `http://localhost:5173`. The home page shows live posters from TMDB. Vite forwards `/api` requests to the Worker, so you do not need to configure cross-origin access locally.
+
+### Next steps
+
+- [Make a change](#make-a-change)
+- [Run and test the project](#run-and-test-the-project)
 
 <p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
 
