@@ -14,6 +14,13 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 - [Creating an account](#creating-an-account)
 - [Signing in and out](#signing-in-and-out)
 - [Resetting a forgotten password](#resetting-a-forgotten-password)
+- [Editing your profile](#editing-your-profile)
+  - [Opening the Edit profile page](#opening-the-edit-profile-page)
+  - [Choosing an avatar](#choosing-an-avatar)
+  - [Setting your favorite titles](#setting-your-favorite-titles)
+  - [Choosing your profile banner](#choosing-your-profile-banner)
+  - [Writing your bio](#writing-your-bio)
+  - [Changing your username](#changing-your-username)
 
 ---
 
@@ -208,6 +215,103 @@ Congratulations. You chose a new password for your account. Use it the next time
 ---
 
 ## Editing your profile
+
+Your profile is the page that other people see. This guide shows you how to choose an avatar, set up to five favorite titles, pick a banner and write a short bio. It also shows you how to change your username. It does not cover privacy settings. For those, read [Making your account private or blocking a user](#making-your-account-private-or-blocking-a-user).
+
+### Before you begin
+
+- Sign in to watchpapa.tv.
+- Decide which title you want as your avatar. You can search for any movie or show.
+
+Each task below is independent. Do only the ones you need. Open the **Edit profile** page first for the avatar, favorites, banner and bio. Changing your username starts in Settings.
+
+### Opening the Edit profile page
+
+1. Select your avatar at the top right. On a phone, select the **You** tab.
+2. Select **Edit profile**. The page opens with four sections: **Avatar**, **Profile banner**, **Bio** and **Favourites**.
+
+### Choosing an avatar
+
+1. In the **Avatar** section, choose one of the options.
+
+   ![The Avatar section with the Initials, Poster and Photo options](images/howto-profile-1-avatar.webp)
+
+   - **Initials** shows the first letter of your username.
+   - **Poster** shows the poster of any movie or show. Select **Poster**, enter a title in the search field and select the result.
+   - **Photo** shows a picture that you upload.
+
+   > [!NOTE]
+   > **Photo** needs a Pro plan. On other plans, the option is locked and shows "Upload your own · Pro". Select it to open the plans page.
+
+2. If you chose **Photo**, select a JPEG, PNG or WebP file of 8 MB or less.
+3. Move the **Zoom** slider to crop the picture.
+4. Select **Save avatar**.
+
+   > [!NOTE]
+   > A larger file or a different file type shows an error message.
+
+### Setting your favorite titles
+
+You can set up to five favorites. They appear on your profile and on your profile card.
+
+1. In the **Favourites** section, select an empty slot. A **Pick a title** window opens.
+2. Enter the name of a movie or show and select it in the results.
+
+   ![The Favourites section with three favorite titles and two empty slots](images/howto-profile-3-favourites.webp)
+
+   ![The Pick a title window with the search term Arrival and matching movies](images/howto-profile-4-picker.webp)
+
+3. To replace a favorite, select its slot and pick another title.
+4. To remove a favorite, select the **×** at the corner of its poster.
+
+   > [!NOTE]
+   > You can mix movies and shows.
+
+### Choosing your profile banner
+
+1. In the **Profile banner** section, choose where the banner artwork comes from. Select **Auto** to use your first favorite, or select the poster of another favorite.
+2. To change the crop, select **Crop**.
+3. Move the **Zoom** slider.
+4. Select **Save banner**.
+
+   ![The Profile banner section with a banner from The Matrix and the choice of artwork](images/howto-profile-5-banner.webp)
+
+   > [!NOTE]
+   > If you have no favorites yet, the section shows "Add a favourite first". Complete [Setting your favorite titles](#setting-your-favorite-titles) first.
+
+### Writing your bio
+
+1. In the **Bio** section, enter a short text of up to 200 characters. A counter shows how many characters you used.
+2. Select **Save bio**. The button briefly reads **Saved**.
+
+   ![The Bio section with a short text and the Save bio button](images/howto-profile-2-bio.webp)
+
+3. To see the result, select **Back to profile**.
+
+### Changing your username
+
+1. Select your avatar and then **Settings**.
+2. In the **Profile** section, select **Change** next to **Username**.
+3. Enter the new username and select **Save**.
+
+   > [!NOTE]
+   > You can change your username only once every 90 days. After a change, the hint shows the date of your next change.
+
+   > [!NOTE]
+   > If another person uses the name already, the form shows "Username already taken." Choose another name.
+
+### Summary
+
+Congratulations. Your profile now shows your avatar, banner, bio and favorite titles. Changes save when you select the save button of a section, or at once for avatar, favorites and banner.
+
+### Next steps
+
+- [Share your profile card](#sharing-a-title-or-a-profile-card)
+- [Make your account private](#making-your-account-private-or-blocking-a-user)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Deleting your account
 
