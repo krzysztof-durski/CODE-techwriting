@@ -74,6 +74,11 @@ The database, not only the interface, decides who can read a rating. A rule in t
 
 ## What this means for you
 
+- You do not maintain your lists by hand. Rating a title updates your watchlists, and the calendar fills itself from your follows.
+- Your plan limits follows and watchlists. At a limit, you must give up one record before you can add another.
+- You control your audience. A private account and a block each limit who sees your ratings.
+- The site stores only your own records: your follows, watchlists, ratings and watches. Movie and show details come live from TMDB.
+
 ## Summary
 
 ## Further reading
