@@ -21,6 +21,7 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
   - [Choosing your profile banner](#choosing-your-profile-banner)
   - [Writing your bio](#writing-your-bio)
   - [Changing your username](#changing-your-username)
+- [Deleting your account](#deleting-your-account)
 
 ---
 
@@ -314,6 +315,59 @@ Congratulations. Your profile now shows your avatar, banner, bio and favorite ti
 ---
 
 ## Deleting your account
+
+Deleting your account removes your profile, ratings, watchlists and follows. This guide shows you how to download a copy of your data first and then delete the account. It does not cover signing out.
+
+> [!IMPORTANT]
+> Deleting an account cannot be undone.
+
+### Before you begin
+
+- Sign in to watchpapa.tv.
+- Decide whether you want a copy of your data. The copy is optional.
+
+### Steps
+
+1. Select your avatar and then **Settings**.
+2. Optional: download a copy of your data. In the **Your data** section, select **Download CSV** next to **Export**. The file contains your movie ratings and your movie watchlist items.
+
+   > [!NOTE]
+   > The export covers movies only. Ratings and watchlist entries for shows are not in the file.
+
+3. In the list of sections, select **Account**. It appears in red.
+4. Select **Delete my account**.
+
+   ![The Account section in red with the Delete my account button](images/howto-delete-1-section.webp)
+
+5. Read the message in the **Delete your account?** window. It says "This permanently deletes all your data. There is no undo."
+6. Select **Yes, delete everything**.
+
+   ![The Delete your account window with the Cancel and Yes, delete everything buttons](images/howto-delete-2-confirm.webp)
+
+   > [!NOTE]
+   > To keep your account, select **Cancel** or close the window.
+
+   > [!NOTE]
+   > If the deletion fails, the window shows an error message. Try again later, or write to us through the [contact page](https://watchpapa.tv/contact).
+
+7. Read the **Account deleted** message and select **OK**. The sign-in page opens.
+
+The message says "Your remaining data will be permanently removed within 30 days." The delay covers encrypted backups.
+
+> [!TIP]
+> If you want fewer emails, not a deleted account, turn off **Product updates & announcements** in the **Preferences** section of Settings.
+
+### Summary
+
+You deleted your account. watchpapa.tv no longer shows your profile, and your data leaves the backups within 30 days.
+
+### Next steps
+
+- [Create a new account](#creating-an-account)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Following a show or movie and reading the releases calendar
 
