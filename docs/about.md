@@ -10,6 +10,8 @@ The site reads its movie and TV information live from The Movie Database (TMDB).
 
 ## Why it exists
 
+Keeping up with shows is hard. You finish a series and then must remember when the next episode arrives. A second show releases weekly on a different day. A film that you want to see opens in autumn. Remembering all of this is work that a computer does better, so watchpapa.tv collects every release date on one personal calendar.
+
 ## Who it is for
 
 ## What it offers
