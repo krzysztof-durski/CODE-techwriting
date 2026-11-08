@@ -228,14 +228,12 @@ A nightly GitHub Actions job backs up the database. It runs `pg_dump`, encrypts 
 
 ## Troubleshooting
 
+These problems can appear while you work on a local copy. For problems on the live site, read the troubleshooting table in [Documentation/deployment.md](https://github.com/watchpapa/watchpapa/blob/production/Documentation/deployment.md).
+
 | Problem | What to check |
 |---|---|
-| The site loads but every API call fails | Set `VITE_API_BASE_URL` to `https://api.watchpapa.tv` in the Pages environment. Add your origin to `ALLOWED_ORIGINS`. |
-| Sign-in or database calls fail in the browser | Add `VITE_SUPABASE_URL` and `VITE_SUPABASE_PUBLISHABLE_KEY` to the Pages production environment. Make sure no `Frontend/wrangler.toml` file exists. |
 | The Worker returns 500 errors on user-data routes | Run `npx wrangler tail` and check the Hyperdrive binding ID in `wrangler.jsonc`. Also check that no query passes an array as a bind parameter. |
 | A background import stops | Run `npx wrangler tail` and look for `[IMPORT]` lines every minute. The next run retries a step that fails. |
-| Unknown URLs return 200 instead of 404 | Deploy `Frontend/functions/_middleware.js`. The Pages root directory must be `Frontend/`. |
-| The Supabase project is paused | The Free plan pauses inactive projects. The Worker's cron query normally prevents this. Restore the project in the Supabase dashboard. |
 
 <p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
 
