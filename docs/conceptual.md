@@ -81,5 +81,9 @@ The database, not only the interface, decides who can read a rating. A rule in t
 
 ## Summary
 
+A follow looks ahead, a watchlist plans and a rating looks back. watchpapa.tv keeps the three in step, so a title moves from "waiting" to "watched" without manual work, and your ratings shape what the site suggests next. You decide who sees those ratings.
+
+Now that you know how the records fit together, you can follow a show, save a movie and rate it in the [tutorial](tutorial.md).
+
 ## Further reading
 
