@@ -13,6 +13,7 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 
 - [Creating an account](#creating-an-account)
 - [Signing in and out](#signing-in-and-out)
+- [Resetting a forgotten password](#resetting-a-forgotten-password)
 
 ---
 
@@ -145,6 +146,66 @@ Congratulations. You can now sign in and out of watchpapa.tv on any device.
 ---
 
 ## Resetting a forgotten password
+
+If you forget your password, watchpapa.tv emails you a code and a link. Use either one to choose a new password. This guide takes about two minutes. It does not cover changing a password that you remember.
+
+### Before you begin
+
+- Have access to the email address of your account.
+- If you signed up with Google or GitHub, you do not need a password. Sign in with that provider instead.
+
+### Steps
+
+1. Open the sign-in page, as in [Signing in and out](#signing-in-and-out).
+2. Select **Forgot password?** below the password field.
+3. Enter your email address.
+4. Select **Send reset code**.
+
+   ![The Forgot your password page with an email address entered](images/howto-reset-1-request.webp)
+
+   > [!NOTE]
+   > The page shows the same message whether or not an account exists for that address: "If an account exists for that email, a reset code and link are on their way."
+
+5. Open your email inbox and find the message from watchpapa.tv. It contains a six-digit code and a link.
+6. Enter the code on the **Check your inbox** page.
+7. Select **Continue**.
+
+   ![The Check your inbox page with a six-digit reset code entered](images/howto-reset-2-code.webp)
+
+   > [!NOTE]
+   > If you prefer, skip steps six and seven. Select the link in the email instead. The **Choose a new password** page opens directly.
+
+   > [!NOTE]
+   > If the code does not arrive, select **Resend code**. If you entered the wrong address, select **Change** next to it and correct it.
+
+   > [!NOTE]
+   > If the home page opens after you enter the code, you are already signed in. Open `watchpapa.tv/reset-password` in the same browser tab to continue.
+
+8. On the **Choose a new password** page, enter a new password. The same five rules as at sign-up apply.
+9. Enter the new password again in **Repeat new password**.
+10. Select **Update password**.
+
+    ![The Choose a new password page with matching passwords that meet all five rules](images/howto-reset-3-new.webp)
+
+    > [!NOTE]
+    > If the new password appears on a list of known data breaches, the page asks you to choose a different one.
+
+    > [!NOTE]
+    > If you open `watchpapa.tv/reset-password` without a code or a link, the page shows **Reset link needed**. Select **Request a new reset code** to start again.
+
+The page shows "Password updated. Taking you to sign in…" and the sign-in page opens. watchpapa.tv signs you out of this browser, so you sign in again with the new password.
+
+### Summary
+
+Congratulations. You chose a new password for your account. Use it the next time you sign in.
+
+### Next steps
+
+- [Sign in with your new password](#signing-in-and-out)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Editing your profile
 
