@@ -14,6 +14,8 @@ A follow looks ahead, a watchlist plans and a rating looks back. Each record ans
 
 ## Why the site separates them
 
+Keeping up with shows is a memory problem. You must remember when the next episode arrives, which show airs on which day and when a film opens. A single list cannot hold all of that, because "waiting for," "planning to watch" and "already watched" are different states with different needs. A title moves from one state to the next, and watchpapa.tv keeps the records in step so that you do not have to.
+
 ## What each record means
 
 ## The path of a title
