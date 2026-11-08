@@ -38,6 +38,10 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
   - [Removing a watch](#removing-a-watch)
 - [Creating and using watchlists](#creating-and-using-watchlists)
 
+**Finding what to watch**
+
+- [Finding where to stream a title](#finding-where-to-stream-a-title)
+
 ---
 
 ## Creating an account
@@ -605,6 +609,63 @@ Congratulations. You added a title to a watchlist and learned how to manage your
 ---
 
 ## Finding where to stream a title
+
+The **Where to watch** panel shows which services stream, rent or sell a title in your countries. This guide shows you how to read the panel, compare countries and choose your own watch regions. It does not cover buying a plan for a streaming service.
+
+### Before you begin
+
+- Choose a movie or a show. You do not need an account to read the panel.
+
+### Steps
+
+1. Open the page of a movie or a show.
+2. Scroll down to the **Where to watch** panel.
+3. Read the groups. Each group lists services with their logos.
+   - **Stream** lists services that include the title in their subscription.
+   - **Free** and **Free with ads** list services that cost nothing.
+   - **Rent** and **Buy** list services that charge for the title.
+
+   ![The Where to watch panel with the tabs US and GB and the groups Stream, Rent and Buy](images/howto-stream-1-panel.webp)
+
+4. Select a country tab, such as **US** or **GB**, to compare services in another country.
+
+   > [!NOTE]
+   > If you have not chosen any watch regions, the panel shows a **Region** list instead of tabs. Choose a country in the list. Without an account, the panel remembers your choice during the visit.
+
+   > [!NOTE]
+   > If the title is not available in your regions, the panel shows "Not available in" and the names of your regions. Select **See where it's available** to see the countries that have it.
+
+5. To look at other countries, select **Other countries** below the panel. The **Available in other countries** window opens.
+6. Enter a country name in the search field, or use the arrows to move from one country to the next.
+
+   ![The Available in other countries window showing Andorra with two streaming services](images/howto-stream-2-other.webp)
+
+7. To choose your own regions, select your avatar and then **Settings**. In the **Streaming** section, find **Watch regions**.
+8. Select **+ Add a region** and choose a country. Repeat for up to five countries.
+
+   ![The Streaming section with the regions United States of America and United Kingdom](images/howto-stream-3-settings.webp)
+
+   > [!NOTE]
+   > To remove a region, select the **×** on its label.
+
+   > [!NOTE]
+   > If you set a **Country** in the **Content & region** section, watchpapa.tv uses it as your default streaming region.
+
+   > [!NOTE]
+   > With a Pro plan, you can also choose your own streaming services under **My streaming services**. watchpapa.tv then highlights them on every title and fills the **My Services** page. On other plans, the section shows **Upgrade to Pro to pick your services**.
+
+### Summary
+
+Congratulations. You can now see where a title streams in your countries. The data comes from JustWatch through TMDB, so availability can change.
+
+### Next steps
+
+- [Change your language and region](#changing-your-language-and-region)
+- [Create a watchlist](#creating-and-using-watchlists)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Getting recommendations
 
