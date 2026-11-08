@@ -74,6 +74,20 @@ The calendar stays empty until you follow a title. Every show that you follow la
 
 ## 4. Save a movie to your watchlist
 
+A watchlist holds titles that you plan to watch. It differs from a follow. A follow waits for something that is not released yet, and a watchlist holds something that you can watch today.
+
+1. Search for "The Matrix", as in step two, and select the movie.
+2. Find the card with the heading **Rate this movie**. It sits below the poster and holds the buttons **Log watch**, **Watchlist** and **Share**.
+3. Select **Watchlist**.
+
+   ![The rating card with the Watchlisted button and a bar that names the list My Watchlist](images/tutorial-watchlist-1-added.webp)
+
+The button changes to **Watchlisted** and shows the name of your list. A bar also shows the list name and the words "on your watchlist". watchpapa.tv created the list for you, and it is named **My Watchlist**.
+
+4. Select your avatar at the top right and then **Watchlists**. On a phone, select the **You** tab first.
+
+The **My Watchlists** page shows **My Watchlist** with *The Matrix* on it.
+
 ## 5. Rate the movie
 
 ## 6. Get recommendations
