@@ -42,6 +42,7 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 
 - [Finding where to stream a title](#finding-where-to-stream-a-title)
 - [Getting recommendations](#getting-recommendations)
+- [Changing your language and region](#changing-your-language-and-region)
 
 ---
 
@@ -721,6 +722,48 @@ Congratulations. Your home page now suggests titles based on what you rated. The
 ---
 
 ## Changing your language and region
+
+Your content language decides in which language titles, overviews and genres appear. Your country decides regional release dates. This guide shows you how to change both. It does not cover choosing several watch regions. For that, read [Finding where to stream a title](#finding-where-to-stream-a-title).
+
+### Before you begin
+
+- Sign in to watchpapa.tv.
+
+### Steps
+
+1. Select your avatar and then **Settings**. On a phone, select the **You** tab first.
+2. In the list of sections, select **Content & region**.
+3. Open the **Content language** list and choose a language.
+
+   ![The Content and region section with English as the content language and the country not set](images/howto-language-1-section.webp)
+
+   watchpapa.tv saves the choice at once. There is no save button. Titles, overviews and genres appear in the new language where TMDB has a translation.
+
+   > [!NOTE]
+   > If you choose a language other than English, a **Titles** row appears. Select **Everything in** and the language name to translate every title and its details. Select **Original** and the language name to keep the original title of films made in that language and show everything else in English.
+   >
+   > ![The Content and region section with German selected and the two Titles options](images/howto-language-2-german.webp)
+
+4. Open the **Country** list and choose your country. The default is **Not set**.
+
+   > [!NOTE]
+   > The country sets the regional release dates that you see. It is also your default streaming region.
+
+   > [!NOTE]
+   > To change the language back, choose **English (United States)** in the **Content language** list.
+
+### Summary
+
+Congratulations. watchpapa.tv now shows titles in your language and release dates for your country.
+
+### Next steps
+
+- [Choose your watch regions](#finding-where-to-stream-a-title)
+- [Customize the home page](#customizing-the-home-page)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Customizing the home page
 
