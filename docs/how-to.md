@@ -53,6 +53,9 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
   - [Controlling profile sharing](#controlling-profile-sharing)
   - [Blocking a person](#blocking-a-person)
   - [Unblocking a person](#unblocking-a-person)
+- [Inviting friends and claiming a reward code](#inviting-friends-and-claiming-a-reward-code)
+  - [Inviting a friend](#inviting-a-friend)
+  - [Claiming a reward code](#claiming-a-reward-code)
 
 ---
 
@@ -942,6 +945,60 @@ Congratulations. You control who can observe you, who can share your profile car
 ---
 
 ## Inviting friends and claiming a reward code
+
+You earn upgrades by inviting friends and by claiming reward codes. This guide shows you how to share your invite link and how to claim a code. It does not cover buying a plan. watchpapa.tv has no payments yet.
+
+### Before you begin
+
+- Sign in to watchpapa.tv.
+- For a reward code, have the code ready. A code comes from a promotion.
+
+### Inviting a friend
+
+1. Select your avatar and then **Settings**. On a phone, select the **You** tab first.
+2. In the list of sections, select **Plan & rewards**.
+3. Find **Invite friends**. Your personal code appears there, for example `ALEX7Q2K`.
+4. Select **Copy link** to copy the invite link. Select **Copy code** to copy only the code.
+
+   ![The Plan and rewards section with the invite code, the Copy code and Copy link buttons and the reward code field](images/howto-rewards-1-section.webp)
+
+   > [!TIP]
+   > For a shortcut, open your account menu and select **Invite friends**. The menu copies your invite link and shows "Link copied!".
+
+5. Send the link or the code to a friend.
+
+   > [!NOTE]
+   > When your friend opens the link, the sign-up form already contains your code. If your friend has only the code, your friend enters it in the **Referral or gift code** field at sign-up. Each account can use one code, and only at sign-up.
+
+   > [!NOTE]
+   > You both receive an upgrade of 30 days after your friend follows at least three shows or upcoming movies and signs in on at least two different days. The upgrade is automatic. The **Plans & Perks** page explains which plan you get.
+
+### Claiming a reward code
+
+1. Open the **Plan & rewards** section of Settings, as in [Inviting a friend](#inviting-a-friend).
+2. Enter the code in the **Claim a reward code** field.
+3. Select **Claim**. A message tells you which plan you received and for how many days.
+
+   ![The Plan and rewards section with the message Premium for 30 days applied](images/howto-rewards-2-claimed.webp)
+
+   > [!NOTE]
+   > If the code is wrong or expired, the section shows "Reward code not found or no longer active". If the code has no uses left, it says "This reward code has no uses remaining". If you used the code before, it says "You have already claimed this reward code". Each code works once per account.
+
+   > [!NOTE]
+   > When a temporary upgrade ends, you return to Premium if you are an Early Adopter, or to Free. watchpapa.tv deletes nothing. If you follow more titles than your plan allows, the releases calendar pauses until you unfollow enough titles. Extra watchlists stay, but you cannot create new ones.
+
+### Summary
+
+Congratulations. You shared your invite link and, if you had one, claimed a reward code. The **Current plan** row shows your plan and, for a timed upgrade, the end date.
+
+### Next steps
+
+- [Follow a show or movie and read the releases calendar](#following-a-show-or-movie-and-reading-the-releases-calendar)
+- [Create a watchlist](#creating-and-using-watchlists)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Sharing a title or a profile card
 
