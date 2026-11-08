@@ -18,6 +18,25 @@ You need no earlier knowledge of the site. The Free plan covers every step.
 
 ## 1. Create your account
 
+An account stores your follows, watchlists and ratings. Without one, the site cannot remember them.
+
+1. Open [watchpapa.tv](https://watchpapa.tv). If a banner asks about session storage, select **Accept cookies**. This keeps you signed in when you close the tab.
+2. Select **Register** at the top right. On a phone, open the menu first and then select **Register**.
+3. Enter your email address.
+4. Enter a password. A checklist under the field shows five rules, and each rule turns green when you meet it.
+5. Enter the same password in **Repeat password**.
+6. Select **Continue**.
+
+   ![Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password](images/howto-register-1-account.webp)
+
+7. Enter a username and your date of birth.
+8. Select the checkbox next to **I agree to the Terms and Privacy Policy**. Leave the two optional fields, the referral code and the product updates, as they are.
+9. Select **Create account**.
+10. Open your email inbox and find the message from watchpapa.tv. Enter the six-digit code on the **Check your inbox** page.
+11. Select **Verify email**.
+
+The home page opens, and a circle with the first letter of your username appears at the top right. You now have a verified account on the Free plan. This plan lets you follow three shows and one movie, and it gives you one watchlist.
+
 ## 2. Follow a show
 
 ## 3. Read your releases calendar
