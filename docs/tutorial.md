@@ -39,6 +39,25 @@ The home page opens, and a circle with the first letter of your username appears
 
 ## 2. Follow a show
 
+A follow tells watchpapa.tv that you want to know when new episodes arrive. Each followed show then appears on your personal calendar.
+
+1. Select the search field at the top of the page. On a phone, select the **Search** tab at the bottom.
+2. Enter "The Simpsons". Matching titles appear as you type.
+3. Select the first result, which has the label **TV**. The list also shows a movie, so check the label.
+
+   ![The search field with The Simpsons entered and matching shows and movies listed below it](images/tutorial-follow-1-search.webp)
+
+4. On the show page, select **Follow**.
+
+   ![The Simpsons page before following, with the Follow button below the title](images/tutorial-follow-2-show-page.webp)
+
+The button changes to **Following** and shows a check mark.
+
+![The same page after following, with the Following button in green](images/tutorial-follow-3-following.webp)
+
+> [!NOTE]
+> A follow tracks only upcoming releases. You cannot follow a show that has ended, and its button is locked.
+
 ## 3. Read your releases calendar
 
 ## 4. Save a movie to your watchlist
