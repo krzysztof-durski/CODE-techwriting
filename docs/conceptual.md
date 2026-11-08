@@ -64,6 +64,14 @@ The left side of the diagram looks ahead. An upcoming title that you follow reac
 
 ## Who can see your ratings
 
+Your ratings are visible to other people according to your account setting. Accounts are public unless you turn on **Private account**.
+
+- **Observing.** When you observe a person, you see their ratings in your activity feed and on the title pages that you open. Observing is one-way. The other person does not have to observe you back.
+- **Private accounts.** A private account hides its ratings until the owner accepts an observe request. A request stays pending until the owner accepts or denies it.
+- **Blocking.** Blocking a person removes any observe relationship between the two of you.
+
+The database, not only the interface, decides who can read a rating. A rule in the interface alone could be bypassed, and a rule in the database cannot.
+
 ## What this means for you
 
 ## Summary
