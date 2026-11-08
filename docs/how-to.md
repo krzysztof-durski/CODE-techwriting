@@ -45,6 +45,10 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 - [Changing your language and region](#changing-your-language-and-region)
 - [Customizing the home page](#customizing-the-home-page)
 
+**People, privacy and plans**
+
+- [Observing other people](#observing-other-people)
+
 ---
 
 ## Creating an account
@@ -816,6 +820,63 @@ Congratulations. Your home page now shows the rows that you want in the order th
 ---
 
 ## Observing other people
+
+When you observe a person, you see their ratings in your activity feed and on the title pages that you open. This guide shows you how to find a person, observe them and handle requests to observe you. It does not cover blocking people.
+
+### Before you begin
+
+- Sign in to watchpapa.tv.
+- Know the username of the person you want to observe, or part of it.
+
+### Steps
+
+1. Select your avatar and then **Find People**. On a phone, select the **You** tab first.
+2. Enter a username in the **Search usernames** field. Results appear as you type.
+
+   ![The Find People page with the search jo and the result cinephile_jo with an Observe button](images/howto-observe-1-find.webp)
+
+3. Select the name of a person to open their profile.
+4. Select **Observe**.
+
+   ![The profile of cinephile_jo with the Observe and Block buttons](images/howto-observe-2-profile.webp)
+
+   The button changes to **Observing**.
+
+   ![The same profile after observing, with the Observing button in green](images/howto-observe-3-observing.webp)
+
+   > [!NOTE]
+   > If the person has a private account, the button reads **Request to observe**. Select it. The button changes to **Requested**, and the person must accept before you see their ratings. To cancel the request, select **Requested** again.
+   >
+   > ![The profile of a private account with the Request to observe button](images/howto-observe-5-private.webp)
+
+   > [!TIP]
+   > In the search results, the button next to a name reads **Observe** or **Request**. You can select it without opening the profile.
+
+   > [!NOTE]
+   > To stop observing a person, open their profile and select **Observing** again.
+
+5. To read the ratings of the people you observe, select your avatar and then **Activity**.
+
+   > [!NOTE]
+   > If you observe nobody yet, the page shows "Nothing here yet". Select **Find people** to start.
+
+6. If you have a private account, other people ask to observe you. A number appears next to **Observe Requests** in your account menu. Select **Observe Requests**.
+7. Select **Accept** to allow the request, or **Deny** to refuse it.
+
+   ![The Observe Requests page with a request from private_pat and the Accept and Deny buttons](images/howto-observe-4-requests.webp)
+
+### Summary
+
+Congratulations. You observe people whose taste you like, and you decide who can observe you.
+
+### Next steps
+
+- [Make your account private](#making-your-account-private-or-blocking-a-user)
+- [Rate a title and log a watch](#rating-a-title-and-logging-a-watch)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Making your account private or blocking a user
 
