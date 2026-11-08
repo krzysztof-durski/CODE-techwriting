@@ -56,6 +56,9 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 - [Inviting friends and claiming a reward code](#inviting-friends-and-claiming-a-reward-code)
   - [Inviting a friend](#inviting-a-friend)
   - [Claiming a reward code](#claiming-a-reward-code)
+- [Sharing a title or a profile card](#sharing-a-title-or-a-profile-card)
+  - [Sharing a title](#sharing-a-title)
+  - [Sharing your profile card](#sharing-your-profile-card)
 
 ---
 
@@ -1002,3 +1005,61 @@ Congratulations. You shared your invite link and, if you had one, claimed a rewa
 
 ## Sharing a title or a profile card
 
+A share card is an image that shows a title or your profile. You can post it in stories, posts or chats. This guide shows you how to create a card for a title and for your profile. It does not cover sharing a link.
+
+### Before you begin
+
+- Sign in to watchpapa.tv.
+- For a profile card, add favorite titles and ratings first, so that the card has content.
+
+### Sharing a title
+
+1. Open the page of a movie or a show.
+2. In the **Your activity** card, select **Share**. The **Share movie** window opens. For a show, it is named **Share show**.
+3. Under **Details**, choose how much the card shows.
+   - **Minimal** shows the poster, the title and your rating.
+   - **Standard** adds the year.
+   - **Rich** adds the genres.
+4. Optional: enter a short text of up to 125 characters in **Add a thought**.
+
+   ![The Share movie window with a card preview for The Matrix, the detail levels and the Download button](images/howto-share-1-movie.webp)
+
+5. Select **Download** to save the image.
+
+   > [!NOTE]
+   > If your device supports sharing, a **Share** button appears next to **Download**. Select it to send the card directly to another app.
+
+   > [!NOTE]
+   > If you rated the title, the card shows your rating.
+
+   > [!NOTE]
+   > Season and episode pages have no **Share** button. Open the show page instead.
+
+### Sharing your profile card
+
+1. Select your avatar and then **View profile**.
+2. Select **Share** in the header of your profile. The **Share profile** window opens.
+3. Choose a format.
+   - **Story · 9:16** fits phone stories.
+   - **Square · 1:1** fits most posts.
+   - **Wide · 16:9** fits wide screens.
+4. Select **Share** to send the card to another app, or select **Download** to save the image.
+
+   ![The Share profile window with the Story format and a preview of the profile card](images/howto-share-2-profile.webp)
+
+   > [!NOTE]
+   > The card contains your avatar, bio, favorite titles and rating statistics.
+
+   > [!NOTE]
+   > Only you can share your profile, unless you turn on **Allow profile sharing** in the **Privacy** section of Settings. With that switch on, other people see a **Share** button on your profile too.
+
+### Summary
+
+Congratulations. You created a share card for a title and for your profile. The cards use the same artwork as the app, so they look alike in every format.
+
+### Next steps
+
+- [Edit your profile](#editing-your-profile)
+- [Control who can share your profile](#making-your-account-private-or-blocking-a-user)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
