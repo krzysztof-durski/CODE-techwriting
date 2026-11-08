@@ -18,6 +18,19 @@ The site is for anyone who follows several shows or films at once and wants one 
 
 ## What it offers
 
+- **A releases calendar** with the upcoming episodes and premieres of the titles that you follow.
+- **A page for every title**, where you rate it, log a watch, save it to a watchlist and see where to stream it.
+- **Discovery** through search, daily trending titles, personal recommendations, collections and filmographies.
+- **A library and a profile** with several named watchlists, five favorites and a public profile.
+- **Observing other people** to see their ratings, and privacy controls over your own.
+- **Import and export** of your history from a Letterboxd or CSV file.
+- **Your language and region** for titles, release dates and streaming availability.
+- **Plans and rewards** with different limits. Payments for paid plans are not available yet.
+
+Adult content is off by default. It needs your date of birth before you can turn it on.
+
+![The releases calendar for October 2026 with followed shows and movies on their air dates](images/watchpapa-calendar.webp)
+
 ## How it is built
 
 ## Status and ownership
