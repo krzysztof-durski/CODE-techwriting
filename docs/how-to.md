@@ -12,6 +12,7 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 **Your account**
 
 - [Creating an account](#creating-an-account)
+- [Signing in and out](#signing-in-and-out)
 
 ---
 
@@ -94,6 +95,54 @@ Congratulations. You now have a verified watchpapa.tv account and you are signed
 ---
 
 ## Signing in and out
+
+Sign in to use your follows, ratings and watchlists on any device. This guide shows you how to sign in with an email address or with Google or GitHub, and how to sign out. It does not cover creating an account or resetting a password.
+
+### Before you begin
+
+- Have a verified account. If you have no account, read [Creating an account](#creating-an-account).
+
+### Steps
+
+1. Open [watchpapa.tv](https://watchpapa.tv).
+2. Select **Sign in** at the top right. On a phone, select the **Sign in** tab at the bottom of the screen.
+3. Enter your email address.
+4. Enter your password. To check what you typed, select the eye icon at the right end of the field.
+5. Select **Sign in**.
+
+   ![The sign-in form with an email address and a password entered](images/howto-signin-1-form.webp)
+
+   The home page opens.
+
+   > [!NOTE]
+   > If you created your account with Google or GitHub, select **Google** or **GitHub** below **or continue with** instead of entering a password. You return to watchpapa.tv after the provider confirms who you are.
+
+   > [!NOTE]
+   > If the form shows "Wrong email or password.", check both entries for typing errors. If you forgot the password, read [Resetting a forgotten password](#resetting-a-forgotten-password).
+
+   > [!NOTE]
+   > If you never verified your email address, the **Check your inbox** page opens instead. Enter the six-digit code from your email and select **Verify email**. If the code has expired, select **Resend code**.
+
+6. To sign out, select your avatar at the top right. On a phone, select the **You** tab at the bottom of the screen.
+7. Select **Sign out** at the bottom of the menu.
+
+   ![The account menu with the Sign out item at the bottom](images/howto-signin-2-menu.webp)
+
+   > [!NOTE]
+   > The first time you visit, a banner asks about session storage. If you select **Accept cookies**, you stay signed in across tabs and browser restarts. If you select **Decline**, your session ends when you close the tab, so you must sign in again.
+
+### Summary
+
+Congratulations. You can now sign in and out of watchpapa.tv on any device.
+
+### Next steps
+
+- [Reset a forgotten password](#resetting-a-forgotten-password)
+- [Edit your profile](#editing-your-profile)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Resetting a forgotten password
 
