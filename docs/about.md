@@ -63,5 +63,7 @@ The [README](../README.md) shows the architecture in a diagram. The [contributin
 
 ## Status and ownership
 
+The site is live at [watchpapa.tv](https://watchpapa.tv) and under active development. Krzysztof Durski created and owns the project. It is a personal project under an all-rights-reserved license.
+
 ## Where to go next
 
