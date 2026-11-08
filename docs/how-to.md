@@ -43,6 +43,7 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 - [Finding where to stream a title](#finding-where-to-stream-a-title)
 - [Getting recommendations](#getting-recommendations)
 - [Changing your language and region](#changing-your-language-and-region)
+- [Customizing the home page](#customizing-the-home-page)
 
 ---
 
@@ -766,6 +767,53 @@ Congratulations. watchpapa.tv now shows titles in your language and release date
 ---
 
 ## Customizing the home page
+
+You can change the order of the rows on your home page and hide rows that you do not use. This guide shows you how to do both and how to adjust the related preferences. It does not cover the content of the rows.
+
+### Before you begin
+
+- Sign in to watchpapa.tv.
+
+### Steps
+
+1. Select your avatar and then **Settings**. On a phone, select the **You** tab first.
+2. In the list of sections, select **Home page**. The **Rows** list shows every row in its current order.
+
+   ![The Home page section with seven rows, each with arrows and a Shown button](images/howto-homepage-1-rows.webp)
+
+3. Select the up arrow or the down arrow next to a row to move it. The first row appears at the top of the home page.
+4. Select **Shown** next to a row to hide it. The button changes to **Hidden**. Select it again to show the row.
+
+   watchpapa.tv saves each change at once.
+
+   > [!NOTE]
+   > The rows **Popular · On Your Services** and **Suggested For You · On Your Services** need a Pro plan and chosen streaming services. Without them, these rows have nothing to show.
+
+   > [!NOTE]
+   > When watchpapa.tv adds a new row, it appears at the end of your list.
+
+5. In the list of sections, select **Preferences** to adjust related settings.
+
+   ![The Preferences section with the Show adult content and Product updates switches](images/howto-homepage-2-preferences.webp)
+
+   > [!NOTE]
+   > **Show adult content** appears only if your date of birth shows that you are 18 or older. When you turn it on, two more switches appear: **Adult tab in navigation** and **Blur NSFW posters**.
+
+   > [!NOTE]
+   > With a Pro plan, a **Phone bottom bar — middle button** list appears. Choose **My Services** or **Search** for the button between **Browse** and **Radar** on your phone.
+
+### Summary
+
+Congratulations. Your home page now shows the rows that you want in the order that you want.
+
+### Next steps
+
+- [Get recommendations](#getting-recommendations)
+- [Change your language and region](#changing-your-language-and-region)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Observing other people
 
