@@ -23,6 +23,14 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
   - [Changing your username](#changing-your-username)
 - [Deleting your account](#deleting-your-account)
 
+**Tracking what you watch**
+
+- [Following a show or movie and reading the releases calendar](#following-a-show-or-movie-and-reading-the-releases-calendar)
+  - [Following a show or a movie](#following-a-show-or-a-movie)
+  - [Reading the releases calendar](#reading-the-releases-calendar)
+  - [Checking your follow limit](#checking-your-follow-limit)
+  - [Unfollowing a title](#unfollowing-a-title)
+
 ---
 
 ## Creating an account
@@ -370,6 +378,89 @@ You deleted your account. watchpapa.tv no longer shows your profile, and your da
 ---
 
 ## Following a show or movie and reading the releases calendar
+
+When you follow a show or a movie, its upcoming releases appear on your releases calendar. This guide shows you how to follow a show or a movie, read the calendar and unfollow a title. It does not cover importing a watch history.
+
+### Before you begin
+
+- Sign in to watchpapa.tv. If you have no account, read [Creating an account](#creating-an-account).
+- Know the name of a show that is still releasing episodes, or of a movie that is not released yet.
+
+> [!NOTE]
+> The Free plan lets you follow three shows and one movie. The Premium plan allows 10 follows in total. The Pro plan allows 100 shows and 100 movies.
+
+### Following a show or a movie
+
+1. Select the search field at the top of the page. On a smaller screen, select the search icon at the top or the **Search** tab at the bottom.
+2. Enter the name of the show or movie, such as "Grey's Anatomy". Matching titles appear as you type.
+3. Select the show or movie in the list.
+
+   ![The search field with Grey's Anatomy entered and three matching shows listed below it](images/howto-follow-1-search.webp)
+
+4. On the show or movie page, select **Follow**.
+
+   ![The Grey's Anatomy page before following, with the Follow button below the title](images/howto-follow-2-show-page.webp)
+
+   The button changes to **Following** and shows a check mark.
+
+   ![The same page after following, with the Following button in green](images/howto-follow-3-following.webp)
+
+   > [!NOTE]
+   > You can also select **Follow** on a title card in lists such as **Popular**. This works for shows and movies.
+
+   > [!NOTE]
+   > If you are not signed in, **Follow** opens a prompt to create an account or sign in.
+
+   > [!NOTE]
+   > You cannot start following a show that has ended or a movie that is already released. A follow tracks only upcoming releases. In that case, the button is locked and shows **Ended**, **Canceled** or **Released**. Choose a show that is still running or a movie that is not released yet.
+   >
+   > ![The Breaking Bad page with a locked Ended button](images/howto-follow-5-ended.webp)
+
+   > [!NOTE]
+   > If you reach the limit of your plan, a message tells you so and the follow does not save. Unfollow a title that you no longer need, or read the **Plan & rewards** page.
+
+### Reading the releases calendar
+
+1. Select the calendar icon at the top right to open **Releases Radar**. On a narrow window, open your account menu and select **Releases Radar**. On a phone, select the **Radar** tab at the bottom of the screen.
+2. Find your show or movie on the calendar. Each episode appears on its air date with a code such as `S2E3`, which means season two, episode three. A movie appears in the same way, under the movie title. Today is highlighted.
+
+   ![The October 2026 releases calendar with episodes of two followed shows and the Followed panel on the left](images/howto-follow-4-calendar.webp)
+
+3. Select an entry to open its page.
+4. Select the arrows next to the month name to see earlier or later months. Select **Today** to return to the current month.
+
+   > [!NOTE]
+   > On a phone, the calendar shows a list. Select **Week** to see one week at a time, and select **List** to go back.
+
+   > [!NOTE]
+   > If a show releases two or more episodes of one season on the same day, the calendar shows one entry named **Season** and the season number. Select it to open the season page.
+
+   > [!NOTE]
+   > If you follow more titles than your plan allows, the calendar shows "You're over your follow limit" and stays blocked. Select **Manage follows** and unfollow titles until you are under the limit. This can happen after a temporary upgrade ends.
+
+### Checking your follow limit
+
+1. Check the **Followed** panel at the left of the calendar. The bars show how many follows you have used. For example, **2/3** next to **Shows** means two of three.
+
+### Unfollowing a title
+
+1. In the **Followed** panel at the left of the calendar, select the minus button next to the name of the show or movie. The title stays visible for five seconds with an **Undo** button. After that, the unfollow is final.
+
+   > [!TIP]
+   > You can also unfollow from the title page. Select **Following** to turn it back to **Follow**.
+
+### Summary
+
+Congratulations. You followed a show or a movie, found its upcoming releases on the releases calendar and learned how to unfollow. The calendar updates whenever you follow or unfollow a title.
+
+### Next steps
+
+- [Rate a title and log a watch](#rating-a-title-and-logging-a-watch)
+- Open **Follows** in your account menu to manage all your follows in one place.
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Rating a title and logging a watch
 
