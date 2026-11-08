@@ -18,6 +18,32 @@ Keeping up with shows is a memory problem. You must remember when the next episo
 
 ## What each record means
 
+### Follows
+
+A follow tells watchpapa.tv that you are waiting for a title. Every followed title appears on your releases calendar on its release date.
+
+The site accepts a new follow only while something is still to come, which means a show that has not ended or a movie that has not been released. The reason is the job of a follow: it tells you when something arrives. A finished show has nothing to announce, so a follow on it would only use up one of your limited follows. A follow that you already have stays, even if the show later ends or the movie is released.
+
+Your plan sets how many follows you can have. The database enforces this limit, not only the interface.
+
+### Watchlists
+
+A watchlist holds titles that you intend to watch. You can keep several named lists, and your plan sets how many. A follow waits for a date, and a watchlist holds a decision.
+
+When you rate a title or log a watch, the site removes the title from every watchlist. The reason is that a watchlist should show only what is left to watch. The site keeps it true without any tidying from you.
+
+### Ratings and watches
+
+A rating records what you think of a title. A watch log records when you saw it. They are separate because you can watch a title without rating it, and you can watch it more than once. Several logged watches form a rewatch diary.
+
+A score runs from one to 10. Your first rating also counts as your first watch. The site keeps a history of your ratings, so a change does not erase what you thought before.
+
+The community rating of a title appears after 10 people rate it. Until then, the page shows the average from The Movie Database (TMDB).
+
+### Recommendations
+
+The titles that you rate 6 out of 10 or higher become the starting point for the **Suggested For You** row. The row never suggests a title that you already rated, listed or followed, because a suggestion should show you something new.
+
 ## The path of a title
 
 ## Who can see your ratings
