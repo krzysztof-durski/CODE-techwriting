@@ -10,6 +10,12 @@ This tutorial takes about 20 minutes. It teaches the main ideas of the site. It 
 
 ## Prerequisites
 
+- A web browser on a computer or a phone. This tutorial uses the computer layout and names the phone differences.
+- An email address that you can open right now. watchpapa.tv sends you a code to verify it.
+- An age of at least 16 years.
+
+You need no earlier knowledge of the site. The Free plan covers every step.
+
 ## 1. Create your account
 
 ## 2. Follow a show
