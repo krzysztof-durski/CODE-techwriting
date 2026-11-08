@@ -18,7 +18,7 @@ This guide shows you how to set up a local copy of watchpapa.tv, make a change a
 
 ## Before you start
 
-watchpapa.tv is a personal project under an all-rights-reserved licence. The project does not accept outside contributions without written permission. To offer help, contact the owner through the [contact page](https://watchpapa.tv/contact) first.
+watchpapa.tv is a personal project under an all-rights-reserved license. The project does not accept outside contributions without written permission. To offer help, contact the owner through the [contact page](https://watchpapa.tv/contact) first.
 
 > [!NOTE]
 > This file belongs to the technical documentation module. Links to files such as `CONTEXT.md`, `Documentation/` and the migrations point to the original watchpapa.tv repository. Some of these links may not work.
@@ -31,7 +31,7 @@ watchpapa.tv is a personal project under an all-rights-reserved licence. The pro
   ```sh
   node --version   # should print v22.x
   ```
-* A [TMDB API key](https://www.themoviedb.org/settings/api)
+* An API key for [The Movie Database (TMDB)](https://www.themoviedb.org/settings/api)
 * A Supabase project that has the watchpapa schema. You need its URL, publishable key and session-pooler connection string. The numbered files in [Backend/src/db/migrations/](https://github.com/watchpapa/watchpapa/tree/production/Backend/src/db/migrations) create the schema.
 
 ### Installation
@@ -103,7 +103,7 @@ watchpapa/
 │   └── src/lib/              #   API client, Supabase client, TMDB image URLs
 ├── worker/                   # Cloudflare Worker API (Hono)
 │   ├── src/routes/           #   one file per route group, admin routes in routes/admin/
-│   ├── src/tmdb/             #   TMDB client, normalisation, recommendations, adult-content filter
+│   ├── src/tmdb/             #   TMDB client, normalization, recommendations, adult-content filter
 │   ├── src/import/           #   CSV import: resolve titles, commit rows
 │   ├── test/                 #   Vitest unit tests
 │   └── wrangler.jsonc        #   bindings, variables, cron trigger, routes
@@ -127,7 +127,7 @@ Follow these rules when you change code.
 
 ## Make a change
 
-1. Agree the change with the owner. See [Before you start](#before-you-start).
+1. Agree on the change with the owner. See [Before you start](#before-you-start).
 2. Create a branch for your change. A push to the `production` branch deploys automatically, so do not push to it directly.
 3. Make the change and follow the [code rules](#code-rules).
 4. Run the tests that cover your change. See [Run the tests](#run-the-tests).
@@ -154,7 +154,7 @@ A clear commit message tells the next reader what changed and why. Follow these 
    | `feat` | A new feature |
    | `fix` | A bug fix |
    | `docs` | A documentation change |
-   | `refactor` | A code change that does not alter behaviour |
+   | `refactor` | A code change that does not alter behavior |
    | `test` | A new or updated test |
    | `chore` | Build, tooling or dependency work |
 
