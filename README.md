@@ -19,6 +19,7 @@ Visit the live site at [watchpapa.tv](https://watchpapa.tv). Krzysztof Durski cr
 ## Table of contents
 
 - [About the project](#about-the-project)
+- [Getting started](#getting-started)
 - [Documentation](#documentation)
 - [Change log](#change-log)
 - [Roadmap](#roadmap)
@@ -55,6 +56,21 @@ flowchart LR
 ```
 
 *Figure 1. The parts of watchpapa.tv and the data that flows between them.*
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting started
+
+You can try watchpapa.tv in about 20 minutes. You need:
+
+- An email address that you can open. watchpapa.tv sends you a code to verify it.
+- An age of at least 16 years.
+
+1. Open [watchpapa.tv](https://watchpapa.tv).
+2. Follow the [tutorial](docs/tutorial.md). It starts with creating your account and guides you to a followed show, a rated movie and your first recommendations.
+
+To set up a local copy for development, read the [contributing guide](docs/contributing.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
