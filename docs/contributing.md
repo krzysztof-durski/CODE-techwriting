@@ -23,6 +23,8 @@ watchpapa.tv is a personal project under an all-rights-reserved license. The pro
 > [!NOTE]
 > This file belongs to the technical documentation module. Links to files such as `CONTEXT.md`, `Documentation/` and the migrations point to the original watchpapa.tv repository. Some of these links may not work.
 
+<p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
+
 ## Set up a local copy
 
 ### Prerequisites
@@ -120,6 +122,8 @@ watchpapa/
 └── CONTEXT.md                # codebase reference: routes, schema, conventions
 ```
 
+<p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
+
 ## Code rules
 
 Follow these rules when you change code.
@@ -130,6 +134,8 @@ Follow these rules when you change code.
 - Add a new numbered migration file. Do not edit an existing one.
 - Update [CONTEXT.md](https://github.com/watchpapa/watchpapa/blob/production/CONTEXT.md) after every meaningful change.
 
+<p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
+
 ## Make a change
 
 1. Agree on the change with the owner. See [Before you start](#before-you-start).
@@ -139,6 +145,8 @@ Follow these rules when you change code.
 5. Update `CONTEXT.md` and any other documentation that the change affects.
 6. Commit your work. Follow the [commit message rules](#write-commit-messages). If an AI tool helped, add a `Co-authored-by` line that names the tool.
 7. Open a pull request and describe what you changed and why.
+
+<p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
 
 ## Write commit messages
 
@@ -180,6 +188,8 @@ fails with a 500 error. Pass a comma-separated string instead.
 Closes #12
 ```
 
+<p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
+
 ## Run and test the project
 
 Run `npm install` once in the repository root before you run the root test suites.
@@ -214,6 +224,8 @@ If Workers Builds is unavailable, run the **Deploy Worker (manual backup)** work
 
 A nightly GitHub Actions job backs up the database. It runs `pg_dump`, encrypts the dump with `age` and uploads it to a private Cloudflare R2 bucket. The bucket keeps backups for 30 days. The Supabase Free plan has no built-in backups. [Documentation/deployment.md](https://github.com/watchpapa/watchpapa/blob/production/Documentation/deployment.md) describes the secrets and the restore steps.
 
+<p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
+
 ## Troubleshooting
 
 | Problem | What to check |
@@ -224,6 +236,8 @@ A nightly GitHub Actions job backs up the database. It runs `pg_dump`, encrypts 
 | A background import stops | Run `npx wrangler tail` and look for `[IMPORT]` lines every minute. The next run retries a step that fails. |
 | Unknown URLs return 200 instead of 404 | Deploy `Frontend/functions/_middleware.js`. The Pages root directory must be `Frontend/`. |
 | The Supabase project is paused | The Free plan pauses inactive projects. The Worker's cron query normally prevents this. Restore the project in the Supabase dashboard. |
+
+<p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
 
 ## Report a bug or ask a question
 
