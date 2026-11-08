@@ -11,7 +11,7 @@ This guide shows you how to set up a local copy of watchpapa.tv, make a change a
 - [Code rules](#code-rules)
 - [Make a change](#make-a-change)
 - [Write commit messages](#write-commit-messages)
-- [Run the tests](#run-the-tests)
+- [Run and test the project](#run-and-test-the-project)
 - [Deployment](#deployment)
 - [Troubleshooting](#troubleshooting)
 - [Report a bug or ask a question](#report-a-bug-or-ask-a-question)
@@ -82,7 +82,7 @@ watchpapa.tv is a personal project under an all-rights-reserved license. The pro
 | Worker settings | `vars` in [worker/wrangler.jsonc](https://github.com/watchpapa/watchpapa/blob/production/worker/wrangler.jsonc) | `ALLOWED_ORIGINS`, `SUPABASE_URL`, `BATCH_MAX`, `BATCH_SUBREQ_BUDGET`, `IMPORT_CHUNK_MAX`, `RELEASES_MAX_SHOWS`, `SITEMAP_PAGES`, `RECOMMENDATIONS_MAX_SEEDS`, `RECOMMENDATIONS_PROVIDER_CHECK_MAX`, `SHOW_STATUS_BACKFILL_MAX` |
 | Rate limits and cron | `worker/wrangler.jsonc` | The `RL_GLOBAL` and `RL_MUTATION` bindings, and a cron trigger that runs every minute |
 | Frontend settings | `Frontend/.env` locally. Pages environment variables in production. | `VITE_SUPABASE_URL`, `VITE_SUPABASE_PUBLISHABLE_KEY`, `VITE_API_BASE_URL` |
-| Test settings | Root `.env` | `DATABASE_URL`, `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, `TMDB_API_KEY_SECRET` |
+| Test settings | Root `.env` | `DATABASE_URL`, `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, `TMDB_API_KEY_SECRET`. The smoke tests also read `VITE_SUPABASE_PUBLISHABLE_KEY` from `Frontend/.env`. |
 | Backup and deploy secrets | GitHub Actions secrets | `SUPABASE_DB_POOLER_URL`, `AGE_PUBLIC_KEY`, `R2_*`, `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` |
 | Database schema | `Backend/src/db/migrations/` | Numbered SQL migrations that you only append to |
 
@@ -130,7 +130,7 @@ Follow these rules when you change code.
 1. Agree on the change with the owner. See [Before you start](#before-you-start).
 2. Create a branch for your change. A push to the `production` branch deploys automatically, so do not push to it directly.
 3. Make the change and follow the [code rules](#code-rules).
-4. Run the tests that cover your change. See [Run the tests](#run-the-tests).
+4. Run the tests that cover your change. See [Run and test the project](#run-and-test-the-project).
 5. Update `CONTEXT.md` and any other documentation that the change affects.
 6. Commit your work. Follow the [commit message rules](#write-commit-messages). If an AI tool helped, add a `Co-authored-by` line that names the tool.
 7. Open a pull request and describe what you changed and why.
@@ -175,7 +175,7 @@ fails with a 500 error. Pass a comma-separated string instead.
 Closes #12
 ```
 
-## Run the tests
+## Run and test the project
 
 Run `npm install` once in the repository root before you run the root test suites.
 
@@ -190,7 +190,8 @@ Run `npm install` once in the repository root before you run the root test suite
 | `npm run test:unit` | root | Tests the breached-password check and the password-write guard |
 | `npm run test:e2e` | root | Runs Playwright against the real interface with all network calls mocked. Run `cd Frontend && npx playwright install chromium` first. |
 | `npm run test:backup` | root | Tests the backup pipeline and runs a restore test. Needs Docker and [`age`](https://github.com/FiloSottile/age). |
-| `npm run test:smoke` | root | Checks the live Supabase project and Worker. Creates and deletes one temporary user. |
+| `npm run test:smoke` | root | Checks the live Supabase project and a Worker. Creates and deletes one temporary user. The Worker is `https://api.watchpapa.tv` unless you set `WORKER_URL`. |
+| `npm run test:py` | root | Runs the pytest check that `TMDB_API_KEY_SECRET` is set. Run `pip install -r requirements-dev.txt` first. |
 
 <p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
 
