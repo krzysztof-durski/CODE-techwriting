@@ -46,6 +46,22 @@ The titles that you rate 6 out of 10 or higher become the starting point for the
 
 ## The path of a title
 
+The diagram shows how a title moves between the records.
+
+```mermaid
+flowchart LR
+    U["Upcoming title"] -->|"Follow"| C["Releases calendar"]
+    C -->|"Release date arrives"| T["Released title"]
+    T -->|"Add to watchlist"| W["Watchlist"]
+    W -->|"Rate or log a watch"| H["Watched"]
+    T -->|"Rate or log a watch"| H
+    H -->|"Rated 6 or higher"| S["Suggested titles"]
+```
+
+*Figure 1. The path of a title through follows, watchlists and ratings. Each box is a state, and each arrow names the action that moves the title.*
+
+The left side of the diagram looks ahead. An upcoming title that you follow reaches the calendar and then becomes a released title. The right side looks back. A released title goes straight to "Watched," or it waits on a watchlist first. Every watched title that you rate 6 or higher feeds the suggestions, and these lead you to new titles to follow or save.
+
 ## Who can see your ratings
 
 ## What this means for you
