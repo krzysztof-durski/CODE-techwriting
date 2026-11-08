@@ -122,5 +122,13 @@ The row never suggests a title that you already rated, put on a watchlist or fol
 
 ## Recap
 
+Congratulations. You created an account and built a small watch tracker. Your account now holds:
+
+- A followed show, whose episodes appear on your releases calendar.
+- A rated movie with a first watch logged.
+- A row of recommendations that match your taste.
+
+You also learned how the three lists fit together. Follows track what is coming. Watchlists hold what you plan to watch. Ratings record what you watched, and they shape your recommendations.
+
 ## What's next
 
