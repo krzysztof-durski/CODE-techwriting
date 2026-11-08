@@ -33,6 +33,34 @@ Adult content is off by default. It needs your date of birth before you can turn
 
 ## How it is built
 
+The website and its application programming interface (API) both run on Cloudflare. The API is a Worker, which is a small program that runs on Cloudflare's servers. The Worker reads movie data from TMDB when you ask for it. Supabase stores user data in a PostgreSQL database.
+
+Four design decisions shape the project:
+
+- **No content database.** The site never copies movies, shows or people, so the information cannot go stale.
+- **Built for a free hosting plan.** Every part that sends many requests to other services has a cap, so each request stays within the plan's limits.
+- **Rules live in the database.** Row-level security (RLS) lets each person read and write only their own records, and database triggers enforce plan limits. The interface is not the only guard.
+- **Stateless sign-in checks.** The Worker verifies a sign-in token itself and does not keep session data.
+
+The [README](../README.md) shows the architecture in a diagram. The [contributing guide](contributing.md) describes the project layout.
+
+### Tools
+
+* [React 19](https://react.dev/) and [React Router 7](https://reactrouter.com/)
+* [Vite 8](https://vite.dev/)
+* [Tailwind CSS 4](https://tailwindcss.com/)
+* [TipTap](https://tiptap.dev/) for the announcements editor
+* [react-easy-crop](https://github.com/ValentinH/react-easy-crop) for avatars
+* [Hono 4](https://hono.dev/) on [Cloudflare Workers](https://developers.cloudflare.com/workers/)
+* [Supabase](https://supabase.com/) for the database, sign-in and file storage
+* [postgres.js](https://github.com/porsager/postgres) over Cloudflare Hyperdrive
+* [jose](https://github.com/panva/jose) for token verification
+* [TMDB API v3](https://developer.themoviedb.org/) for movie, show and people data
+* [Resend](https://resend.com/) for sign-in emails
+* [Cloudflare Pages](https://pages.cloudflare.com/) for hosting
+* [Cloudflare R2](https://developers.cloudflare.com/r2/) for encrypted backups
+* [Vitest](https://vitest.dev/), [Playwright](https://playwright.dev/) and Node's built-in test runner
+
 ## Status and ownership
 
 ## Where to go next
