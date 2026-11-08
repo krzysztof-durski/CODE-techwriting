@@ -48,6 +48,11 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 **People, privacy and plans**
 
 - [Observing other people](#observing-other-people)
+- [Making your account private or blocking a user](#making-your-account-private-or-blocking-a-user)
+  - [Making your account private](#making-your-account-private)
+  - [Controlling profile sharing](#controlling-profile-sharing)
+  - [Blocking a person](#blocking-a-person)
+  - [Unblocking a person](#unblocking-a-person)
 
 ---
 
@@ -879,6 +884,62 @@ Congratulations. You observe people whose taste you like, and you decide who can
 ---
 
 ## Making your account private or blocking a user
+
+Privacy settings decide who can observe you and see your ratings. This guide shows you how to make your account private, how to control profile sharing, and how to block and unblock a person. It does not cover deleting your account.
+
+### Before you begin
+
+- Sign in to watchpapa.tv.
+
+### Making your account private
+
+1. Select your avatar and then **Settings**. On a phone, select the **You** tab first.
+2. In the list of sections, select **Privacy**.
+3. To make your account private, turn on **Private account**. People must then request to observe you, and your ratings stay hidden until you approve them.
+
+   ![The Privacy section with Private account off, Allow profile sharing on and one blocked user](images/howto-privacy-1-section.webp)
+
+   > [!NOTE]
+   > You answer requests on the **Observe Requests** page. Read [Observing other people](#observing-other-people).
+
+### Controlling profile sharing
+
+1. Open the **Privacy** section of Settings, as in [Making your account private](#making-your-account-private).
+2. To let other people create your profile card, turn on **Allow profile sharing**. Turn it off so that only you can create the card.
+
+### Blocking a person
+
+1. Open the profile of the person. Use **Find People** to locate the profile, as in [Observing other people](#observing-other-people).
+2. Select **Block**.
+
+   ![A profile with the Observe and Block buttons](images/howto-privacy-2-block.webp)
+
+3. Read the message "Block this user? Any observe relationship between you will be removed." Select **OK**.
+
+   The **Block** button changes to **Unblock**.
+
+   > [!NOTE]
+   > To keep the person, select **Cancel** in the message. Nothing changes.
+
+### Unblocking a person
+
+1. Select **Unblock** on the profile of the person. You can also open the **Privacy** section of Settings, find the name under **Blocked users** and select **Unblock**.
+
+   > [!NOTE]
+   > If you blocked nobody, **Blocked users** shows "No blocked users".
+
+### Summary
+
+Congratulations. You control who can observe you, who can share your profile card and who you blocked.
+
+### Next steps
+
+- [Share a profile card](#sharing-a-title-or-a-profile-card)
+- [Edit your profile](#editing-your-profile)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Inviting friends and claiming a reward code
 
