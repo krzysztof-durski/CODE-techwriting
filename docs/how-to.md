@@ -36,6 +36,7 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
   - [Logging a watch](#logging-a-watch)
   - [Logging another watch](#logging-another-watch)
   - [Removing a watch](#removing-a-watch)
+- [Creating and using watchlists](#creating-and-using-watchlists)
 
 ---
 
@@ -542,6 +543,66 @@ Congratulations. You rated a title, logged your first watch and added a rewatch.
 ---
 
 ## Creating and using watchlists
+
+A watchlist holds titles that you plan to watch. This guide shows you how to add a title to a list, create more lists, and sort, rename and delete them. It does not cover recommendations or following titles.
+
+### Before you begin
+
+- Sign in to watchpapa.tv.
+- Know your plan's limit. The Free plan allows one watchlist, Premium allows three, and Pro and Pro+ allow 10.
+
+### Steps
+
+1. Open the page of a movie or a show, as in [Following a show or movie and reading the releases calendar](#following-a-show-or-movie-and-reading-the-releases-calendar).
+2. In the **Your activity** card, select **Watchlist**.
+
+   If you have no list yet, watchpapa.tv creates a list named **My Watchlist** and adds the title. If you already have lists, it adds the title to your first list. A bar shows the name of the list and the words "on your watchlist". The button changes to **Watchlisted**.
+
+   ![The Your activity card with the Watchlisted button and a bar that names the list Weekend picks](images/howto-watchlist-1-added.webp)
+
+   > [!NOTE]
+   > If you have more than one list, select the list name in the bar to open the list of your watchlists. Select a list to add or remove the title. A title can be on several lists. On a phone, the lists open in a sheet from the bottom.
+
+   > [!NOTE]
+   > To remove a title from a list, select **Watchlisted**. In the bar that appears, select the list name and then select the list to clear its check mark.
+
+   > [!NOTE]
+   > If you are not signed in, **Watchlist** opens a prompt to create an account.
+
+3. To open your lists, select your avatar and then **Watchlists**. On a phone, select the **You** tab first. The **My Watchlists** page shows one tab for each list.
+
+   ![The My Watchlists page with a list named Weekend picks and three titles](images/howto-watchlist-2-page.webp)
+
+4. To create another list, select **New list**.
+5. Enter a name of up to 60 characters.
+6. Select **Create**.
+
+   ![The New list form with the name Rainy day films entered above the list tabs](images/howto-watchlist-3-new.webp)
+
+   > [!NOTE]
+   > If you reached the limit of your plan, a message tells you how many watchlists your plan allows. Delete a list that you no longer need, or read the **Plan & rewards** page.
+
+7. To change the order of the titles, select **Sort by** and choose **Date added** or **Rating**.
+8. To mark a title as seen, select **Watched** below its poster. watchpapa.tv logs a watch and takes the title off the list.
+9. To remove a title without logging a watch, point to its poster and select the trash can. Then select **Remove**. On a touch screen, the trash can is always visible.
+10. To rename a list, select **Rename**, enter the new name and select **Save**.
+11. To delete a list, select **Delete**. Then confirm in the **Delete this watchlist?** window.
+
+    > [!NOTE]
+    > Deleting a list removes the list and its entries. Your ratings and watch history stay.
+
+### Summary
+
+Congratulations. You added a title to a watchlist and learned how to manage your lists. Rating a title or logging a watch takes it off the list automatically.
+
+### Next steps
+
+- [Rate a title and log a watch](#rating-a-title-and-logging-a-watch)
+- [Find where to stream a title](#finding-where-to-stream-a-title)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Finding where to stream a title
 
