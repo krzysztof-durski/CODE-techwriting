@@ -41,6 +41,7 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 **Finding what to watch**
 
 - [Finding where to stream a title](#finding-where-to-stream-a-title)
+- [Getting recommendations](#getting-recommendations)
 
 ---
 
@@ -668,6 +669,56 @@ Congratulations. You can now see where a title streams in your countries. The da
 ---
 
 ## Getting recommendations
+
+The **Suggested For You** row on the home page shows titles that match your taste. This guide shows you how to make the row appear and how to improve it. It does not cover the **Popular** row, which shows trending titles.
+
+### Before you begin
+
+- Sign in to watchpapa.tv.
+- Rate at least a few titles. Read [Rating a title and logging a watch](#rating-a-title-and-logging-a-watch).
+
+### Steps
+
+1. Rate movies and shows that you like. Give each at least 6 out of 10. watchpapa.tv uses up to 10 of these titles as the starting point for suggestions.
+
+   > [!NOTE]
+   > Titles that you rated 5 or lower do not shape the suggestions. Ratings of seasons and episodes do not count either.
+
+   > [!NOTE]
+   > A title that you marked as watched on a watchlist, without a rating, also counts as a starting point. watchpapa.tv uses up to 10 of them.
+
+2. Select **Popular** in the top navigation to open the home page. On a phone, select the **Home** tab.
+3. Scroll to the **Suggested For You** row.
+
+   ![The Suggested For You row with movies similar to the user's ratings](images/howto-recommend-1-row.webp)
+
+4. Scroll the row sideways. Select the arrow at the right end to load more titles.
+5. Select a title to open its page. From there you can follow it, rate it or add it to a watchlist.
+
+   > [!NOTE]
+   > watchpapa.tv never suggests a title that you already rated, put on a watchlist or followed.
+
+   > [!NOTE]
+   > If the row does not appear, you have not rated any title with 6 out of 10 or more yet. The row also disappears when you hide it. To bring it back, select **Hidden** next to **Suggested For You** in the **Home page** section of Settings.
+
+   > [!NOTE]
+   > With a Pro plan and chosen streaming services, a second row named **Suggested For You · On Your Services** shows only titles on your services.
+
+   > [!NOTE]
+   > If you turned on **Show adult content** in Settings, suggestions can include adult titles.
+
+### Summary
+
+Congratulations. Your home page now suggests titles based on what you rated. The row changes as you rate more titles.
+
+### Next steps
+
+- [Customize the home page](#customizing-the-home-page)
+- [Find where to stream a suggested title](#finding-where-to-stream-a-title)
+
+<p align="right">(<a href="#how-to-guides">back to top</a>)</p>
+
+---
 
 ## Changing your language and region
 
