@@ -88,6 +88,6 @@ Now that you know how the records fit together, you can follow a show, save a mo
 ## Further reading
 
 - [Tutorial](tutorial.md): follow a show, save a movie, rate it and get recommendations
-- [How-to guides](how-to.md): steps for each task, such as [creating watchlists](how-to-tracking.md#creating-and-using-watchlists) and [rating a title](how-to-tracking.md#rating-a-title)
+- [How-to guides](how-to.md): steps for each task, such as [creating watchlists](How-Tos/how-to-tracking.md#creating-and-using-watchlists) and [rating a title](How-Tos/how-to-tracking.md#rating-a-title)
 - [About watchpapa.tv](about.md): what the site is and who it is for
 - [README](../README.md): the system architecture and the project overview

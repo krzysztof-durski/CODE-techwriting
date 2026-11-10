@@ -7,7 +7,7 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 > [!NOTE]
 > <sub>Some features depend on your plan. The Free plan allows three followed shows, one followed movie and one watchlist. Premium and Pro allow more. The [Plans & Perks](https://watchpapa.tv/subscription) page lists every limit.</sub>
 
-This page is part of the [how-to guides](how-to.md).
+This page is part of the [how-to guides](../how-to.md).
 
 ## Table of contents
 
@@ -39,7 +39,7 @@ When you observe a person, you see their ratings in your activity feed and on th
 3. Select the name of a person to open their profile.
 4. Select **Observe**.
 
-   <img src="images/howto-observe-2-profile.webp" alt="The profile of cinephile_jo with the Observe and Block buttons" width="720">
+   <img src="../images/howto-observe-2-profile.webp" alt="The profile of cinephile_jo with the Observe and Block buttons" width="720">
 
    *Figure 1. A profile with the Observe and Block buttons.*
 
@@ -89,7 +89,7 @@ Privacy settings decide who can observe you and see your ratings. This guide sho
 2. In the list of sections, select **Privacy**.
 3. Turn on **Private account**. People must request to observe you, and your ratings stay hidden until you accept.
 
-   <img src="images/howto-privacy-1-section.webp" alt="The Privacy section with Private account off, Allow profile sharing on and one blocked user" width="720">
+   <img src="../images/howto-privacy-1-section.webp" alt="The Privacy section with Private account off, Allow profile sharing on and one blocked user" width="720">
 
    *Figure 2. The Privacy section of Settings.*
 
@@ -146,7 +146,7 @@ You earn upgrades by inviting friends and by claiming reward codes. This guide s
 3. Find **Invite friends**. Your personal code appears there, for example `ALEX7Q2K`.
 4. Select **Copy link** to copy the invite link. Select **Copy code** to copy only the code.
 
-   <img src="images/howto-rewards-1-section.webp" alt="The Plan and rewards section with the invite code, the Copy code and Copy link buttons and the reward code field" width="720">
+   <img src="../images/howto-rewards-1-section.webp" alt="The Plan and rewards section with the invite code, the Copy code and Copy link buttons and the reward code field" width="720">
 
    *Figure 3. The Plan & rewards section.*
 
@@ -205,7 +205,7 @@ A share card is an image that shows a title or your profile. You can post it in 
    - **Rich** adds the genres.
 4. Optional: enter a short text of up to 125 characters in **Add a thought**.
 
-   <img src="images/howto-share-1-movie.webp" alt="The Share movie window with a card preview for The Matrix, the detail levels and the Download button" width="640">
+   <img src="../images/howto-share-1-movie.webp" alt="The Share movie window with a card preview for The Matrix, the detail levels and the Download button" width="640">
 
    *Figure 4. The Share movie window.*
 
@@ -230,7 +230,7 @@ A share card is an image that shows a title or your profile. You can post it in 
    - **Wide · 16:9** fits wide screens.
 4. Select **Share** to send the card to another app, or select **Download** to save the image.
 
-   <img src="images/howto-share-2-profile.webp" alt="The Share profile window with the Story format and a preview of the profile card" width="640">
+   <img src="../images/howto-share-2-profile.webp" alt="The Share profile window with the Story format and a preview of the profile card" width="640">
 
    *Figure 5. The Share profile window.*
 

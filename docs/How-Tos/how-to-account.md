@@ -7,7 +7,7 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 > [!NOTE]
 > <sub>Some features depend on your plan. The Free plan allows three followed shows, one followed movie and one watchlist. Premium and Pro allow more. The [Plans & Perks](https://watchpapa.tv/subscription) page lists every limit.</sub>
 
-This page is part of the [how-to guides](how-to.md).
+This page is part of the [how-to guides](../how-to.md).
 
 ## Table of contents
 
@@ -48,7 +48,7 @@ A free account lets you follow shows, rate what you watch and keep a personal re
 5. Repeat the password in **Repeat password**.
 6. Select **Continue**.
 
-   <img src="images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="310">
+   <img src="../images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="310">
 
    *Figure 1. Step one of the sign-up form.*
 
@@ -221,7 +221,7 @@ Each task is independent. Avatar, favorites, banner and bio start on the **Edit 
 
 1. In the **Avatar** section, choose one of the options.
 
-   <img src="images/howto-profile-1-avatar.webp" alt="The Avatar section with the Initials, Poster and Photo options" width="720">
+   <img src="../images/howto-profile-1-avatar.webp" alt="The Avatar section with the Initials, Poster and Photo options" width="720">
 
    *Figure 2. The three avatar options.*
 
@@ -246,7 +246,7 @@ You can set up to five favorites. They appear on your profile and on your profil
 1. In the **Favourites** section, select an empty slot. A **Pick a title** window opens.
 2. Enter the name of a movie or show and select it in the results.
 
-   <img src="images/howto-profile-3-favourites.webp" alt="The Favourites section with three favorite titles and two empty slots" width="720">
+   <img src="../images/howto-profile-3-favourites.webp" alt="The Favourites section with three favorite titles and two empty slots" width="720">
 
    *Figure 3. The Favourites section with five slots.*
 
