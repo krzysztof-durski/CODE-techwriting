@@ -48,9 +48,10 @@ A free account lets you follow shows, rate what you watch and keep a personal re
 5. Repeat the password in **Repeat password**.
 6. Select **Continue**.
 
-   <img src="../images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="435">
-
-   *Figure 1. Step one of the sign-up form.*
+   <p align="center">
+     <img src="../images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="435"><br>
+     <em>Figure 1. Step one of the sign-up form.</em>
+   </p>
 
 > [!NOTE]
 > <sub>If your password appears on a list of known data breaches, the form shows the message "This password has appeared in a known data breach." Choose a different password.</sub>
@@ -221,9 +222,10 @@ Each task is independent. Avatar, favorites, banner and bio start on the **Edit 
 
 1. In the **Avatar** section, choose one of the options.
 
-   <img src="../images/howto-profile-1-avatar.webp" alt="The Avatar section with the Initials, Poster and Photo options" width="720">
-
-   *Figure 2. The three avatar options.*
+   <p align="center">
+     <img src="../images/howto-profile-1-avatar.webp" alt="The Avatar section with the Initials, Poster and Photo options" width="720"><br>
+     <em>Figure 2. The three avatar options.</em>
+   </p>
 
    - **Initials** shows the first letter of your username.
    - **Poster** shows the poster of any movie or show. Select **Poster**, enter a title in the search field and select the result.
@@ -246,9 +248,10 @@ You can set up to five favorites. They appear on your profile and on your profil
 1. In the **Favourites** section, select an empty slot. A **Pick a title** window opens.
 2. Enter the name of a movie or show and select it in the results.
 
-   <img src="../images/howto-profile-3-favourites.webp" alt="The Favourites section with three favorite titles and two empty slots" width="720">
-
-   *Figure 3. The Favourites section with five slots.*
+   <p align="center">
+     <img src="../images/howto-profile-3-favourites.webp" alt="The Favourites section with three favorite titles and two empty slots" width="720"><br>
+     <em>Figure 3. The Favourites section with five slots.</em>
+   </p>
 
 3. To replace a favorite, select its slot and pick another title.
 4. To remove a favorite, select the **×** at the corner of its poster.

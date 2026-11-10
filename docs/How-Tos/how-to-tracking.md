@@ -42,9 +42,10 @@ When you follow a show or a movie, its upcoming releases appear on your releases
 2. Enter a title, such as "Grey's Anatomy", and select it in the list.
 3. On the title page, select **Follow**.
 
-   <img src="../images/howto-follow-2-show-page.webp" alt="The Grey&#x27;s Anatomy page before following, with the Follow button below the title" width="720">
-
-   *Figure 1. A show page with the Follow button.*
+   <p align="center">
+     <img src="../images/howto-follow-2-show-page.webp" alt="The Grey&#x27;s Anatomy page before following, with the Follow button below the title" width="720"><br>
+     <em>Figure 1. A show page with the Follow button.</em>
+   </p>
 
    The button changes to **Following** and shows a check mark.
 
@@ -65,9 +66,10 @@ When you follow a show or a movie, its upcoming releases appear on your releases
 1. Select the calendar icon at the top right. On a narrow window, open your account menu and select **Releases Radar**. On a phone, select the **Radar** tab.
 2. Find your title. Each episode sits on its air date with a code such as `S2E3` (season two, episode three). A movie appears the same way, under its title.
 
-   <img src="../images/howto-follow-4-calendar.webp" alt="The October 2026 releases calendar with episodes of two followed shows and the Followed panel on the left" width="720">
-
-   *Figure 2. The releases calendar with the Followed panel.*
+   <p align="center">
+     <img src="../images/howto-follow-4-calendar.webp" alt="The October 2026 releases calendar with episodes of two followed shows and the Followed panel on the left" width="720"><br>
+     <em>Figure 2. The releases calendar with the Followed panel.</em>
+   </p>
 
 3. Select an entry to open its page.
 4. Use the arrows next to the month name to change months. Select **Today** to return.
@@ -119,9 +121,10 @@ A rating records what you think of a title. A watch log records when you saw it.
 1. Open a title page, as in [Following a show or a movie](#following-a-show-or-a-movie). This guide uses *The Matrix*.
 2. Find the card with the heading **Rate this movie**. It shows five empty hearts.
 
-   <img src="../images/howto-rate-1-panel.webp" alt="The rating card with five empty hearts and the Log watch, Watchlist and Share buttons" width="670">
-
-   *Figure 3. The rating card before a rating.*
+   <p align="center">
+     <img src="../images/howto-rate-1-panel.webp" alt="The rating card with five empty hearts and the Log watch, Watchlist and Share buttons" width="670"><br>
+     <em>Figure 3. The rating card before a rating.</em>
+   </p>
 
 > [!NOTE]
 > <sub>Shows work the same way, with the label **Rate this show**. Season and episode pages show the hearts only. They have no **Log watch**, **Watchlist** or **Share** buttons.</sub>
@@ -154,9 +157,10 @@ Once you rate a title, the hearts lock so that a stray tap cannot replace your s
 2. Under **Log another watch**, choose the date. It cannot be in the future.
 3. Select **Log**. The button now reads **Watched** followed by the number of watches, for example **Watched · 2×**.
 
-   <img src="../images/howto-rate-4-diary.webp" alt="The Rewatch diary panel with two logged watches and the Watched · 2× button below it" width="501">
-
-   *Figure 4. The Rewatch diary with two logged watches.*
+   <p align="center">
+     <img src="../images/howto-rate-4-diary.webp" alt="The Rewatch diary panel with two logged watches and the Watched · 2× button below it" width="501"><br>
+     <em>Figure 4. The Rewatch diary with two logged watches.</em>
+   </p>
 
 ### Removing a watch
 
@@ -207,9 +211,10 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
 
 3. To open your lists, select your avatar and then **Watchlists**. On a phone, select the **You** tab first. Each list has its own tab.
 
-   <img src="../images/howto-watchlist-2-page.webp" alt="The My Watchlists page with a list named Weekend picks and three titles" width="720">
-
-   *Figure 5. The My Watchlists page.*
+   <p align="center">
+     <img src="../images/howto-watchlist-2-page.webp" alt="The My Watchlists page with a list named Weekend picks and three titles" width="720"><br>
+     <em>Figure 5. The My Watchlists page.</em>
+   </p>
 
 4. To create another list, select **New list**.
 5. Enter a name of up to 60 characters.

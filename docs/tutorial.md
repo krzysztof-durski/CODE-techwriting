@@ -6,9 +6,10 @@ In this tutorial, you start with no account and finish with a working watch trac
 
 This tutorial takes about 20 minutes. It teaches the main ideas of the site. It does not cover every option. When you need to solve one specific problem later, use the [how-to guides](how-to.md).
 
-<img src="images/howto-register-4-home.webp" alt="The watchpapa.tv home page after sign-up, with the account circle at the top right" width="720">
-
-*Figure 1. The home page after sign-up.*
+<p align="center">
+  <img src="images/howto-register-4-home.webp" alt="The watchpapa.tv home page after sign-up, with the account circle at the top right" width="720"><br>
+  <em>Figure 1. The home page after sign-up.</em>
+</p>
 
 ## Prerequisites
 
@@ -29,9 +30,10 @@ An account stores your follows, watchlists and ratings. Without one, the site ca
 5. Enter the same password in **Repeat password**.
 6. Select **Continue**.
 
-   <img src="images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="435">
-
-   *Figure 2. Step one of the sign-up form.*
+   <p align="center">
+     <img src="images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="435"><br>
+     <em>Figure 2. Step one of the sign-up form.</em>
+   </p>
 
 7. Enter a username and your date of birth.
 8. Select the checkbox next to **I agree to the Terms and Privacy Policy**. Leave the two optional fields, the referral code and the product updates, as they are.
@@ -49,21 +51,24 @@ A follow tells watchpapa.tv that you want to know when new episodes arrive. Each
 2. Enter "The Simpsons". Matching titles appear as you type.
 3. Select the first result, which has the label **TV**. The list also shows a movie, so check the label.
 
-   <img src="images/tutorial-follow-1-search.webp" alt="The search field with The Simpsons entered and matching shows and movies listed below it" width="720">
-
-   *Figure 3. Search results for The Simpsons.*
+   <p align="center">
+     <img src="images/tutorial-follow-1-search.webp" alt="The search field with The Simpsons entered and matching shows and movies listed below it" width="720"><br>
+     <em>Figure 3. Search results for The Simpsons.</em>
+   </p>
 
 4. On the show page, select **Follow**.
 
-   <img src="images/tutorial-follow-2-show-page.webp" alt="The Simpsons page before following, with the Follow button below the title" width="720">
-
-   *Figure 4. The show page before following.*
+   <p align="center">
+     <img src="images/tutorial-follow-2-show-page.webp" alt="The Simpsons page before following, with the Follow button below the title" width="720"><br>
+     <em>Figure 4. The show page before following.</em>
+   </p>
 
 The button changes to **Following** and shows a check mark.
 
-<img src="images/tutorial-follow-3-following.webp" alt="The same page after following, with the Following button in green" width="720">
-
-*Figure 5. The show page after following.*
+<p align="center">
+  <img src="images/tutorial-follow-3-following.webp" alt="The same page after following, with the Following button in green" width="720"><br>
+  <em>Figure 5. The show page after following.</em>
+</p>
 
 > [!NOTE]
 > A follow tracks only upcoming releases. You cannot follow a show that has ended, and its button is locked.
@@ -75,9 +80,10 @@ The releases calendar collects the upcoming episodes of every title that you fol
 1. Select the calendar icon at the top right to open **Releases Radar**. On a phone, select the **Radar** tab at the bottom of the screen.
 2. Find The Simpsons on the calendar. The show releases one episode a week, on Sundays. Each episode appears on its air date with a code such as `S38E6`, which means season 38, episode 6. Today is highlighted.
 
-   <img src="images/tutorial-follow-4-calendar.webp" alt="The November 2026 releases calendar with a weekly Simpsons episode on each Sunday and the Followed panel on the left" width="720">
-
-   *Figure 6. The releases calendar with a weekly Simpsons episode.*
+   <p align="center">
+     <img src="images/tutorial-follow-4-calendar.webp" alt="The November 2026 releases calendar with a weekly Simpsons episode on each Sunday and the Followed panel on the left" width="720"><br>
+     <em>Figure 6. The releases calendar with a weekly Simpsons episode.</em>
+   </p>
 
 3. Select the arrows next to the month name to look at earlier or later months. Select **Today** to return to the current month.
 4. Look at the **Followed** panel at the left of the calendar. It lists your followed show. The bar shows how many follows you have used out of the number that your plan allows.
@@ -92,9 +98,10 @@ A watchlist holds titles that you plan to watch. It differs from a follow. A fol
 2. Find the card with the heading **Rate this movie**. It sits below the poster and holds the buttons **Log watch**, **Watchlist** and **Share**.
 3. Select **Watchlist**.
 
-   <img src="images/tutorial-watchlist-1-added.webp" alt="The rating card with the Watchlisted button and a bar that names the list My Watchlist" width="720">
-
-   *Figure 7. The rating card after adding The Matrix to a watchlist.*
+   <p align="center">
+     <img src="images/tutorial-watchlist-1-added.webp" alt="The rating card with the Watchlisted button and a bar that names the list My Watchlist" width="720"><br>
+     <em>Figure 7. The rating card after adding The Matrix to a watchlist.</em>
+   </p>
 
 The button changes to **Watchlisted** and shows the name of your list. A bar also shows the list name and the words "on your watchlist". watchpapa.tv created the list for you, and it is named **My Watchlist**.
 
@@ -108,16 +115,18 @@ A rating records what you think of a title. It also feeds your recommendations i
 
 1. Go back to the page of *The Matrix* and find the card with the heading **Rate this movie**. Before you rate, it shows five empty hearts.
 
-   <img src="images/tutorial-rate-1-panel.webp" alt="The rating card with five empty hearts and the Log watch, Watchlisted and Share buttons" width="641">
-
-   *Figure 8. The rating card before a rating.*
+   <p align="center">
+     <img src="images/tutorial-rate-1-panel.webp" alt="The rating card with five empty hearts and the Log watch, Watchlisted and Share buttons" width="641"><br>
+     <em>Figure 8. The rating card before a rating.</em>
+   </p>
 
 2. Move the pointer over the hearts. A score appears at the top right of the card. Each heart has two halves. The left half sets an odd score and the right half sets an even score, so the five hearts cover every score from one to 10. On a phone, tap a heart instead.
 3. Select the left half of the fourth heart. This gives the movie a score of 7 out of 10.
 
-   <img src="images/tutorial-rate-3-rated.webp" alt="The rating card with the heading Your rating, a score of 7 out of 10 and the Watched button in green" width="544">
-
-   *Figure 9. The rating card with a score of 7 out of 10.*
+   <p align="center">
+     <img src="images/tutorial-rate-3-rated.webp" alt="The rating card with the heading Your rating, a score of 7 out of 10 and the Watched button in green" width="544"><br>
+     <em>Figure 9. The rating card with a score of 7 out of 10.</em>
+   </p>
 
 The heading changes to **Your rating**, the score appears, and the **Watched** button turns green. Your first rating also logs a first watch with today's date.
 
@@ -132,9 +141,10 @@ watchpapa.tv uses the titles that you rated 6 or higher to suggest more titles t
 1. Select **Popular** in the top navigation to open the home page. On a phone, select the **Home** tab.
 2. Scroll to the **Suggested For You** row.
 
-   <img src="images/howto-recommend-1-row.webp" alt="The Suggested For You row with movies similar to the user&#x27;s ratings" width="720">
-
-   *Figure 10. The Suggested For You row.*
+   <p align="center">
+     <img src="images/howto-recommend-1-row.webp" alt="The Suggested For You row with movies similar to the user&#x27;s ratings" width="720"><br>
+     <em>Figure 10. The Suggested For You row.</em>
+   </p>
 
 3. Select a title to open its page. From there you can follow it, rate it or add it to your watchlist.
 

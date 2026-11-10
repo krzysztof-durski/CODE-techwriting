@@ -29,9 +29,10 @@ The site is for anyone who follows several shows or films at once and wants one 
 
 Adult content is off by default. It needs your date of birth before you can turn it on.
 
-![The releases calendar for October 2026 with followed shows and movies on their air dates](images/watchpapa-calendar.webp)
-
-*Figure 1. The releases calendar with followed titles on their air dates.*
+<p align="center">
+  <img src="images/watchpapa-calendar.webp" alt="The releases calendar for October 2026 with followed shows and movies on their air dates"><br>
+  <em>Figure 1. The releases calendar with followed titles on their air dates.</em>
+</p>
 
 ## How it is built
 

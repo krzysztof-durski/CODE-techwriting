@@ -13,9 +13,10 @@ watchpapa.tv helps you follow movies and TV shows. It shows every upcoming episo
 
 Visit the live site at [watchpapa.tv](https://watchpapa.tv). Krzysztof Durski created and owns the project.
 
-![The watchpapa.tv home page with a trending hero banner above rows of popular movies and shows](docs/images/watchpapa-home.webp)
-
-*Figure 1. The watchpapa.tv home page.*
+<p align="center">
+  <img src="docs/images/watchpapa-home.webp" alt="The watchpapa.tv home page with a trending hero banner above rows of popular movies and shows"><br>
+  <em>Figure 1. The watchpapa.tv home page.</em>
+</p>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of contents

@@ -35,9 +35,10 @@ The **Where to watch** panel shows which services stream, rent or sell a title i
    - **Free** and **Free with ads** list services that cost nothing.
    - **Rent** and **Buy** list services that charge for the title.
 
-   <img src="../images/howto-stream-1-panel.webp" alt="The Where to watch panel with the tabs US and GB and the groups Stream, Rent and Buy" width="720">
-
-   *Figure 1. The Where to watch panel.*
+   <p align="center">
+     <img src="../images/howto-stream-1-panel.webp" alt="The Where to watch panel with the tabs US and GB and the groups Stream, Rent and Buy" width="720"><br>
+     <em>Figure 1. The Where to watch panel.</em>
+   </p>
 
 4. Select a country tab, such as **US** or **GB**, to compare services in another country.
 
@@ -95,9 +96,10 @@ The **Suggested For You** row on the home page shows titles that match your tast
 2. Select **Popular** in the top navigation to open the home page. On a phone, select the **Home** tab.
 3. Scroll to the **Suggested For You** row.
 
-   <img src="../images/howto-recommend-1-row.webp" alt="The Suggested For You row with movies similar to the user&#x27;s ratings" width="720">
-
-   *Figure 2. The Suggested For You row.*
+   <p align="center">
+     <img src="../images/howto-recommend-1-row.webp" alt="The Suggested For You row with movies similar to the user&#x27;s ratings" width="720"><br>
+     <em>Figure 2. The Suggested For You row.</em>
+   </p>
 
 4. Scroll the row sideways. Select the arrow at the right end to load more titles.
 5. Select a title to open its page. From there you can follow it, rate it or add it to a watchlist.
@@ -180,9 +182,10 @@ You can change the order of the rows on your home page and hide rows that you do
 1. Select your avatar and then **Settings**. On a phone, select the **You** tab first.
 2. In the list of sections, select **Home page**. The **Rows** list shows every row in its current order.
 
-   <img src="../images/howto-homepage-1-rows.webp" alt="The Home page section with seven rows, each with arrows and a Shown button" width="720">
-
-   *Figure 3. The Home page section with the list of rows.*
+   <p align="center">
+     <img src="../images/howto-homepage-1-rows.webp" alt="The Home page section with seven rows, each with arrows and a Shown button" width="720"><br>
+     <em>Figure 3. The Home page section with the list of rows.</em>
+   </p>
 
 3. Use the arrows next to a row to move it. The first row appears at the top.
 4. Select **Shown** next to a row to hide it. The button changes to **Hidden**. Select it again to show the row.
