@@ -5,7 +5,7 @@ These guides show you how to complete common tasks on watchpapa.tv. Each guide l
 Screenshots show a demo account with real titles from The Movie Database (TMDB).
 
 > [!NOTE]
-> Some features depend on your plan. The Free plan allows three followed shows, one followed movie and one watchlist. Premium and Pro allow more. The [Plans & Perks](https://watchpapa.tv/subscription) page lists every limit.
+> <sub>Some features depend on your plan. The Free plan allows three followed shows, one followed movie and one watchlist. Premium and Pro allow more. The [Plans & Perks](https://watchpapa.tv/subscription) page lists every limit.</sub>
 
 ## Table of contents
 
@@ -85,35 +85,35 @@ A free account lets you follow shows, rate what you watch and keep a personal re
    *Figure 1. Step one of the sign-up form.*
 
 > [!NOTE]
-> If your password appears on a list of known data breaches, the form shows the message "This password has appeared in a known data breach." Choose a different password.
+> <sub>If your password appears on a list of known data breaches, the form shows the message "This password has appeared in a known data breach." Choose a different password.</sub>
 
 > [!TIP]
-> To sign up with an existing account, select **Google** or **GitHub** below **or continue with** instead of entering a password. After you sign in with the provider, the **Almost there** page opens. Enter a username, enter your date of birth, accept the terms and select **Finish setup**. Skip the remaining steps in this guide.
+> <sub>To sign up with an existing account, select **Google** or **GitHub** below **or continue with** instead of entering a password. After you sign in with the provider, the **Almost there** page opens. Enter a username, enter your date of birth, accept the terms and select **Finish setup**. Skip the remaining steps in this guide.</sub>
 
 7. Enter a username of four to 50 letters, numbers, underscores or hyphens.
 8. Enter your date of birth.
 
 > [!NOTE]
-> If you are younger than 16, the form shows "You must be at least 16 years old to register." You cannot create an account.
+> <sub>If you are younger than 16, the form shows "You must be at least 16 years old to register." You cannot create an account.</sub>
 
 9. Optional: enter a referral or gift code.
 
 > [!IMPORTANT]
-> You can enter a referral code only while you register. The app has no way to add a code later. If you opened a referral link, the code is already filled in.
+> <sub>You can enter a referral code only while you register. The app has no way to add a code later. If you opened a referral link, the code is already filled in.</sub>
 
 10. Select **I agree to the Terms and Privacy Policy**.
 11. Optional: select the product updates checkbox for occasional emails.
 12. Select **Create account**.
 
 > [!NOTE]
-> If the email address already has an account, the form returns to step one and shows "This email is already in use. Try signing in instead." Select **Sign in** and use that account.
+> <sub>If the email address already has an account, the form returns to step one and shows "This email is already in use. Try signing in instead." Select **Sign in** and use that account.</sub>
 
 13. In your inbox, copy the six-digit code from watchpapa.tv.
 14. Enter the code on the **Check your inbox** page.
 15. Select **Verify email**.
 
 > [!NOTE]
-> If the code does not arrive, wait 30 seconds. Then select **Resend code**. If you entered the wrong address, select **Not you?** and correct it.
+> <sub>If the code does not arrive, wait 30 seconds. Then select **Resend code**. If you entered the wrong address, select **Not you?** and correct it.</sub>
 
 The home page opens. A circle at the top right shows the first letter of your username.
 
@@ -150,19 +150,19 @@ Sign in to use your follows, ratings and watchlists on any device. This guide sh
    The home page opens.
 
 > [!NOTE]
-> If you created your account with Google or GitHub, select **Google** or **GitHub** below **or continue with** instead of entering a password. You return to watchpapa.tv after the provider confirms who you are.
+> <sub>If you created your account with Google or GitHub, select **Google** or **GitHub** below **or continue with** instead of entering a password. You return to watchpapa.tv after the provider confirms who you are.</sub>
 
 > [!NOTE]
-> If the form shows "Wrong email or password.", check both entries for typing errors. If you forgot the password, read [Resetting a forgotten password](#resetting-a-forgotten-password).
+> <sub>If the form shows "Wrong email or password.", check both entries for typing errors. If you forgot the password, read [Resetting a forgotten password](#resetting-a-forgotten-password).</sub>
 
 > [!NOTE]
-> If you never verified your email, the **Check your inbox** page opens. Enter the code from your email and select **Verify email**. If the code expired, select **Resend code**.
+> <sub>If you never verified your email, the **Check your inbox** page opens. Enter the code from your email and select **Verify email**. If the code expired, select **Resend code**.</sub>
 
 6. To sign out, select your avatar at the top right. On a phone, select the **You** tab.
 7. Select **Sign out** at the bottom of the menu.
 
 > [!NOTE]
-> The first time you visit, a banner asks about session storage. If you select **Accept cookies**, you stay signed in across tabs and browser restarts. If you select **Decline**, your session ends when you close the tab, so you must sign in again.
+> <sub>The first time you visit, a banner asks about session storage. If you select **Accept cookies**, you stay signed in across tabs and browser restarts. If you select **Decline**, your session ends when you close the tab, so you must sign in again.</sub>
 
 ### Summary
 
@@ -194,30 +194,30 @@ If you forget your password, watchpapa.tv emails you a code and a link. Use eith
 4. Select **Send reset code**.
 
 > [!NOTE]
-> The page shows the same message whether or not an account exists for that address: "If an account exists for that email, a reset code and link are on their way."
+> <sub>The page shows the same message whether or not an account exists for that address: "If an account exists for that email, a reset code and link are on their way."</sub>
 
 5. In your inbox, copy the six-digit code from watchpapa.tv.
 6. Enter the code on the **Check your inbox** page.
 7. Select **Continue**.
 
 > [!NOTE]
-> To skip steps six and seven, select the link in the email. The **Choose a new password** page opens directly.
+> <sub>To skip steps six and seven, select the link in the email. The **Choose a new password** page opens directly.</sub>
 
 > [!NOTE]
-> If the code does not arrive, select **Resend code**. If you entered the wrong address, select **Change** next to it and correct it.
+> <sub>If the code does not arrive, select **Resend code**. If you entered the wrong address, select **Change** next to it and correct it.</sub>
 
 > [!NOTE]
-> If the home page opens after you enter the code, you are already signed in. Open `watchpapa.tv/reset-password` in the same browser tab to continue.
+> <sub>If the home page opens after you enter the code, you are already signed in. Open `watchpapa.tv/reset-password` in the same browser tab to continue.</sub>
 
 8. On the **Choose a new password** page, enter a password that meets the sign-up rules.
 9. Enter the new password again in **Repeat new password**.
 10. Select **Update password**.
 
 > [!NOTE]
-> If the new password appears on a list of known data breaches, the page asks you to choose a different one.
+> <sub>If the new password appears on a list of known data breaches, the page asks you to choose a different one.</sub>
 
 > [!NOTE]
-> If you open `watchpapa.tv/reset-password` without a code or a link, the page shows **Reset link needed**. Select **Request a new reset code** to start again.
+> <sub>If you open `watchpapa.tv/reset-password` without a code or a link, the page shows **Reset link needed**. Select **Request a new reset code** to start again.</sub>
 
 The page shows "Password updated. Taking you to sign in…" and the sign-in page opens. watchpapa.tv signs you out of this browser, so you sign in again with the new password.
 
@@ -262,14 +262,14 @@ Each task is independent. Avatar, favorites, banner and bio start on the **Edit 
    - **Photo** shows a picture that you upload.
 
 > [!NOTE]
-> **Photo** needs a Pro plan. On other plans, the option is locked and shows "Upload your own · Pro". Select it to open the plans page.
+> <sub>**Photo** needs a Pro plan. On other plans, the option is locked and shows "Upload your own · Pro". Select it to open the plans page.</sub>
 
 2. If you chose **Photo**, select a JPEG, PNG or WebP file of 8 MB or less.
 3. Move the **Zoom** slider to crop the picture.
 4. Select **Save avatar**.
 
 > [!NOTE]
-> A larger file or a different file type shows an error message.
+> <sub>A larger file or a different file type shows an error message.</sub>
 
 ### Setting your favorite titles
 
@@ -286,7 +286,7 @@ You can set up to five favorites. They appear on your profile and on your profil
 4. To remove a favorite, select the **×** at the corner of its poster.
 
 > [!NOTE]
-> You can mix movies and shows.
+> <sub>You can mix movies and shows.</sub>
 
 ### Choosing your profile banner
 
@@ -296,7 +296,7 @@ You can set up to five favorites. They appear on your profile and on your profil
 4. Select **Save banner**.
 
 > [!NOTE]
-> If you have no favorites yet, the section shows "Add a favourite first". Complete [Setting your favorite titles](#setting-your-favorite-titles) first.
+> <sub>If you have no favorites yet, the section shows "Add a favourite first". Complete [Setting your favorite titles](#setting-your-favorite-titles) first.</sub>
 
 ### Writing your bio
 
@@ -311,10 +311,10 @@ You can set up to five favorites. They appear on your profile and on your profil
 3. Enter the new username and select **Save**.
 
 > [!NOTE]
-> You can change your username only once every 90 days. After a change, the hint shows the date of your next change.
+> <sub>You can change your username only once every 90 days. After a change, the hint shows the date of your next change.</sub>
 
 > [!NOTE]
-> If another person uses the name already, the form shows "Username already taken." Choose another name.
+> <sub>If another person uses the name already, the form shows "Username already taken." Choose another name.</sub>
 
 ### Summary
 
@@ -334,7 +334,7 @@ Congratulations. Your profile now shows your avatar, banner, bio and favorite ti
 Deleting your account removes your profile, ratings, watchlists and follows. This guide shows you how to download a copy of your data first and then delete the account. It does not cover signing out.
 
 > [!IMPORTANT]
-> Deleting an account cannot be undone.
+> <sub>Deleting an account cannot be undone.</sub>
 
 ### Before you begin
 
@@ -347,24 +347,24 @@ Deleting your account removes your profile, ratings, watchlists and follows. Thi
 2. Optional: download a copy of your data as a comma-separated values (CSV) file. In the **Your data** section, select **Download CSV** next to **Export**. The file holds your movie ratings and watchlist items.
 
 > [!NOTE]
-> The export covers movies only. Ratings and watchlist entries for shows are not in the file.
+> <sub>The export covers movies only. Ratings and watchlist entries for shows are not in the file.</sub>
 
 3. In the list of sections, select **Account**. It appears in red.
 4. Select **Delete my account**.
 5. In the **Delete your account?** window, select **Yes, delete everything**.
 
 > [!NOTE]
-> To keep your account, select **Cancel** or close the window.
+> <sub>To keep your account, select **Cancel** or close the window.</sub>
 
 > [!NOTE]
-> If the deletion fails, the window shows an error message. Try again later, or write to us through the [contact page](https://watchpapa.tv/contact).
+> <sub>If the deletion fails, the window shows an error message. Try again later, or write to us through the [contact page](https://watchpapa.tv/contact).</sub>
 
 6. In the **Account deleted** message, select **OK**. The sign-in page opens.
 
 The message says "Your remaining data will be permanently removed within 30 days." The delay covers encrypted backups.
 
 > [!TIP]
-> If you want fewer emails, not a deleted account, turn off **Product updates & announcements** in the **Preferences** section of Settings.
+> <sub>If you want fewer emails, not a deleted account, turn off **Product updates & announcements** in the **Preferences** section of Settings.</sub>
 
 ### Summary
 
@@ -388,7 +388,7 @@ When you follow a show or a movie, its upcoming releases appear on your releases
 - Know the name of a show that is still releasing episodes, or of a movie that is not released yet.
 
 > [!NOTE]
-> The Free plan lets you follow three shows and one movie. The Premium plan allows 10 follows in total. The Pro plan allows 100 shows and 100 movies.
+> <sub>The Free plan lets you follow three shows and one movie. The Premium plan allows 10 follows in total. The Pro plan allows 100 shows and 100 movies.</sub>
 
 ### Following a show or a movie
 
@@ -403,16 +403,16 @@ When you follow a show or a movie, its upcoming releases appear on your releases
    The button changes to **Following** and shows a check mark.
 
 > [!NOTE]
-> You can also select **Follow** on a title card in lists such as **Popular**.
+> <sub>You can also select **Follow** on a title card in lists such as **Popular**.</sub>
 
 > [!NOTE]
-> If you are not signed in, **Follow** opens a prompt to create an account or sign in.
+> <sub>If you are not signed in, **Follow** opens a prompt to create an account or sign in.</sub>
 
 > [!NOTE]
-> A follow tracks only upcoming releases. For a show that has ended or a movie that is released, the button is locked and shows **Ended**, **Canceled** or **Released**.
+> <sub>A follow tracks only upcoming releases. For a show that has ended or a movie that is released, the button is locked and shows **Ended**, **Canceled** or **Released**.</sub>
 
 > [!NOTE]
-> If you reach your plan's limit, the follow does not save. Unfollow a title or read the **Plan & rewards** page.
+> <sub>If you reach your plan's limit, the follow does not save. Unfollow a title or read the **Plan & rewards** page.</sub>
 
 ### Reading the releases calendar
 
@@ -427,13 +427,13 @@ When you follow a show or a movie, its upcoming releases appear on your releases
 4. Use the arrows next to the month name to change months. Select **Today** to return.
 
 > [!NOTE]
-> On a phone, the calendar shows a list. Select **Week** to see one week at a time, and select **List** to go back.
+> <sub>On a phone, the calendar shows a list. Select **Week** to see one week at a time, and select **List** to go back.</sub>
 
 > [!NOTE]
-> If a show releases several episodes of a season on one day, the calendar shows one **Season** entry. Select it to open the season page.
+> <sub>If a show releases several episodes of a season on one day, the calendar shows one **Season** entry. Select it to open the season page.</sub>
 
 > [!NOTE]
-> If you follow more titles than your plan allows, the calendar shows "You're over your follow limit" and stays blocked. Select **Manage follows** and unfollow titles until you are under the limit. This can happen after a temporary upgrade ends.
+> <sub>If you follow more titles than your plan allows, the calendar shows "You're over your follow limit" and stays blocked. Select **Manage follows** and unfollow titles until you are under the limit. This can happen after a temporary upgrade ends.</sub>
 
 ### Checking your follow limit
 
@@ -444,7 +444,7 @@ When you follow a show or a movie, its upcoming releases appear on your releases
 1. In the **Followed** panel, select the minus button next to the title. **Undo** stays available for five seconds.
 
 > [!TIP]
-> You can also unfollow from the title page. Select **Following** to turn it back to **Follow**.
+> <sub>You can also unfollow from the title page. Select **Following** to turn it back to **Follow**.</sub>
 
 ### Summary
 
@@ -478,16 +478,16 @@ A rating records what you think of a title. A watch log records when you saw it.
    *Figure 6. The rating card before a rating.*
 
 > [!NOTE]
-> Shows work the same way, with the label **Rate this show**. Season and episode pages show the hearts only. They have no **Log watch**, **Watchlist** or **Share** buttons.
+> <sub>Shows work the same way, with the label **Rate this show**. Season and episode pages show the hearts only. They have no **Log watch**, **Watchlist** or **Share** buttons.</sub>
 
 3. Point at the hearts. A score shows at the top right of the card. Each heart has two halves: the left half sets an odd score and the right half an even score, so five hearts cover one to 10. On a phone, tap a heart.
 4. Select the half heart that matches your score. For 7 out of 10, select the left half of the fourth heart.
 
 > [!NOTE]
-> Your first rating also logs a first watch with today's date. It also removes the title from your watchlists.
+> <sub>Your first rating also logs a first watch with today's date. It also removes the title from your watchlists.</sub>
 
 > [!NOTE]
-> If you are not signed in, selecting a heart opens a prompt to create an account.
+> <sub>If you are not signed in, selecting a heart opens a prompt to create an account.</sub>
 
 ### Changing or clearing a rating
 
@@ -518,7 +518,7 @@ Once you rate a title, the hearts lock so that a stray tap cannot replace your s
 2. Select the trash can next to the date in the **History** list.
 
 > [!NOTE]
-> If you remove every entry, the title counts as unwatched again. Logging a watch also removes the title from any watchlist that holds it.
+> <sub>If you remove every entry, the title counts as unwatched again. Logging a watch also removes the title from any watchlist that holds it.</sub>
 
 ### Summary
 
@@ -551,13 +551,13 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
    watchpapa.tv adds the title to your first list, or creates **My Watchlist** if you have none. The button changes to **Watchlisted**, and a bar shows the list name.
 
 > [!NOTE]
-> With several lists, select the list name in the bar, then select a list to add or remove the title. A title can be on several lists.
+> <sub>With several lists, select the list name in the bar, then select a list to add or remove the title. A title can be on several lists.</sub>
 
 > [!NOTE]
-> To remove a title from a list, select **Watchlisted**. In the bar that appears, select the list name and then select the list to clear its check mark.
+> <sub>To remove a title from a list, select **Watchlisted**. In the bar that appears, select the list name and then select the list to clear its check mark.</sub>
 
 > [!NOTE]
-> If you are not signed in, **Watchlist** opens a prompt to create an account.
+> <sub>If you are not signed in, **Watchlist** opens a prompt to create an account.</sub>
 
 3. To open your lists, select your avatar and then **Watchlists**. On a phone, select the **You** tab first. Each list has its own tab.
 
@@ -570,7 +570,7 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
 6. Select **Create**.
 
 > [!NOTE]
-> If you reached the limit of your plan, a message tells you how many watchlists your plan allows. Delete a list that you no longer need, or read the **Plan & rewards** page.
+> <sub>If you reached the limit of your plan, a message tells you how many watchlists your plan allows. Delete a list that you no longer need, or read the **Plan & rewards** page.</sub>
 
 7. To change the order of the titles, select **Sort by** and choose **Date added** or **Rating**.
 8. To mark a title as seen, select **Watched** below its poster. watchpapa.tv logs a watch and takes the title off the list.
@@ -579,7 +579,7 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
 11. To delete a list, select **Delete**. Then confirm in the **Delete this watchlist?** window.
 
 > [!NOTE]
-> Deleting a list removes the list and its entries. Your ratings and watch history stay.
+> <sub>Deleting a list removes the list and its entries. Your ratings and watch history stay.</sub>
 
 ### Summary
 
@@ -618,23 +618,23 @@ The **Where to watch** panel shows which services stream, rent or sell a title i
 4. Select a country tab, such as **US** or **GB**, to compare services in another country.
 
 > [!NOTE]
-> If you have not chosen any watch regions, the panel shows a **Region** list instead of tabs. Choose a country in the list. Without an account, the panel remembers your choice during the visit.
+> <sub>If you have not chosen any watch regions, the panel shows a **Region** list instead of tabs. Choose a country in the list. Without an account, the panel remembers your choice during the visit.</sub>
 
 > [!NOTE]
-> If the title is not available in your regions, the panel shows "Not available in" and the names of your regions. Select **See where it's available** to see the countries that have it.
+> <sub>If the title is not available in your regions, the panel shows "Not available in" and the names of your regions. Select **See where it's available** to see the countries that have it.</sub>
 
 5. For other countries, select **Other countries** below the panel. Search for a country or use the arrows.
 6. To choose your regions, select your avatar and then **Settings**. In the **Streaming** section, find **Watch regions**.
 7. Select **+ Add a region** and choose a country. Repeat for up to five countries.
 
 > [!NOTE]
-> To remove a region, select the **×** on its label.
+> <sub>To remove a region, select the **×** on its label.</sub>
 
 > [!NOTE]
-> If you set a **Country** in the **Content & region** section, watchpapa.tv uses it as your default streaming region.
+> <sub>If you set a **Country** in the **Content & region** section, watchpapa.tv uses it as your default streaming region.</sub>
 
 > [!NOTE]
-> With a Pro plan, you can also choose your own streaming services under **My streaming services**. watchpapa.tv then highlights them on every title and fills the **My Services** page. On other plans, the section shows **Upgrade to Pro to pick your services**.
+> <sub>With a Pro plan, you can also choose your own streaming services under **My streaming services**. watchpapa.tv then highlights them on every title and fills the **My Services** page. On other plans, the section shows **Upgrade to Pro to pick your services**.</sub>
 
 ### Summary
 
@@ -663,10 +663,10 @@ The **Suggested For You** row on the home page shows titles that match your tast
 1. Rate titles that you like at least 6 out of 10. watchpapa.tv uses up to 10 of them as the starting point.
 
 > [!NOTE]
-> Titles that you rated 5 or lower do not shape the suggestions. Ratings of seasons and episodes do not count either.
+> <sub>Titles that you rated 5 or lower do not shape the suggestions. Ratings of seasons and episodes do not count either.</sub>
 
 > [!NOTE]
-> A title that you marked as watched on a watchlist, without a rating, also counts as a starting point. watchpapa.tv uses up to 10 of them.
+> <sub>A title that you marked as watched on a watchlist, without a rating, also counts as a starting point. watchpapa.tv uses up to 10 of them.</sub>
 
 2. Select **Popular** in the top navigation to open the home page. On a phone, select the **Home** tab.
 3. Scroll to the **Suggested For You** row.
@@ -679,16 +679,16 @@ The **Suggested For You** row on the home page shows titles that match your tast
 5. Select a title to open its page. From there you can follow it, rate it or add it to a watchlist.
 
 > [!NOTE]
-> watchpapa.tv never suggests a title that you already rated, put on a watchlist or followed.
+> <sub>watchpapa.tv never suggests a title that you already rated, put on a watchlist or followed.</sub>
 
 > [!NOTE]
-> If the row does not appear, you have not rated any title with 6 out of 10 or more yet. The row also disappears when you hide it. To bring it back, select **Hidden** next to **Suggested For You** in the **Home page** section of Settings.
+> <sub>If the row does not appear, you have not rated any title with 6 out of 10 or more yet. The row also disappears when you hide it. To bring it back, select **Hidden** next to **Suggested For You** in the **Home page** section of Settings.</sub>
 
 > [!NOTE]
-> With a Pro plan and chosen streaming services, a second row named **Suggested For You · On Your Services** shows only titles on your services.
+> <sub>With a Pro plan and chosen streaming services, a second row named **Suggested For You · On Your Services** shows only titles on your services.</sub>
 
 > [!NOTE]
-> If you turned on **Show adult content** in Settings, suggestions can include adult titles.
+> <sub>If you turned on **Show adult content** in Settings, suggestions can include adult titles.</sub>
 
 ### Summary
 
@@ -720,15 +720,15 @@ Your content language decides in which language titles, overviews and genres app
    The choice saves at once. Titles, overviews and genres change where TMDB has a translation.
 
 > [!NOTE]
-> If you choose a language other than English, a **Titles** row appears. Select **Everything in** and the language name to translate every title and its details. Select **Original** and the language name to keep the original title of films made in that language and show everything else in English.
+> <sub>If you choose a language other than English, a **Titles** row appears. Select **Everything in** and the language name to translate every title and its details. Select **Original** and the language name to keep the original title of films made in that language and show everything else in English.</sub>
 
 4. Open the **Country** list and choose your country. The default is **Not set**.
 
 > [!NOTE]
-> The country sets the regional release dates that you see. It is also your default streaming region.
+> <sub>The country sets the regional release dates that you see. It is also your default streaming region.</sub>
 
 > [!NOTE]
-> To change the language back, choose **English (United States)** in the **Content language** list.
+> <sub>To change the language back, choose **English (United States)** in the **Content language** list.</sub>
 
 ### Summary
 
@@ -766,18 +766,18 @@ You can change the order of the rows on your home page and hide rows that you do
    watchpapa.tv saves each change at once.
 
 > [!NOTE]
-> The rows **Popular · On Your Services** and **Suggested For You · On Your Services** need a Pro plan and chosen streaming services. Without them, these rows have nothing to show.
+> <sub>The rows **Popular · On Your Services** and **Suggested For You · On Your Services** need a Pro plan and chosen streaming services. Without them, these rows have nothing to show.</sub>
 
 > [!NOTE]
-> When watchpapa.tv adds a new row, it appears at the end of your list.
+> <sub>When watchpapa.tv adds a new row, it appears at the end of your list.</sub>
 
 5. In the list of sections, select **Preferences** to adjust related settings.
 
 > [!NOTE]
-> **Show adult content** appears only if your date of birth shows that you are 18 or older. When you turn it on, two more switches appear: **Adult tab in navigation** and **Blur NSFW posters**.
+> <sub>**Show adult content** appears only if your date of birth shows that you are 18 or older. When you turn it on, two more switches appear: **Adult tab in navigation** and **Blur NSFW posters**.</sub>
 
 > [!NOTE]
-> With a Pro plan, a **Phone bottom bar — middle button** list appears. Choose **My Services** or **Search** for the button between **Browse** and **Radar** on your phone.
+> <sub>With a Pro plan, a **Phone bottom bar — middle button** list appears. Choose **My Services** or **Search** for the button between **Browse** and **Radar** on your phone.</sub>
 
 ### Summary
 
@@ -815,18 +815,18 @@ When you observe a person, you see their ratings in your activity feed and on th
    The button changes to **Observing**.
 
 > [!NOTE]
-> If the person has a private account, the button reads **Request to observe**. Select it. The button changes to **Requested**, and the person must accept before you see their ratings. To cancel the request, select **Requested** again.
+> <sub>If the person has a private account, the button reads **Request to observe**. Select it. The button changes to **Requested**, and the person must accept before you see their ratings. To cancel the request, select **Requested** again.</sub>
 
 > [!TIP]
-> In the search results, the button next to a name reads **Observe** or **Request**. You can select it without opening the profile.
+> <sub>In the search results, the button next to a name reads **Observe** or **Request**. You can select it without opening the profile.</sub>
 
 > [!NOTE]
-> To stop observing a person, open their profile and select **Observing** again.
+> <sub>To stop observing a person, open their profile and select **Observing** again.</sub>
 
 5. To read the ratings of the people you observe, select your avatar and then **Activity**.
 
 > [!NOTE]
-> If you observe nobody yet, the page shows "Nothing here yet". Select **Find people** to start.
+> <sub>If you observe nobody yet, the page shows "Nothing here yet". Select **Find people** to start.</sub>
 
 6. If your account is private, a number appears next to **Observe Requests** in your account menu. Select **Observe Requests**.
 7. Select **Accept** to allow the request, or **Deny** to refuse it.
@@ -863,7 +863,7 @@ Privacy settings decide who can observe you and see your ratings. This guide sho
    *Figure 13. The Privacy section of Settings.*
 
 > [!NOTE]
-> You answer requests on the **Observe Requests** page. Read [Observing other people](#observing-other-people).
+> <sub>You answer requests on the **Observe Requests** page. Read [Observing other people](#observing-other-people).</sub>
 
 ### Controlling profile sharing
 
@@ -877,14 +877,14 @@ Privacy settings decide who can observe you and see your ratings. This guide sho
 3. In the "Block this user?" message, select **OK**. The button changes to **Unblock**, and any observe relationship between you ends.
 
 > [!NOTE]
-> To keep the person, select **Cancel** in the message. Nothing changes.
+> <sub>To keep the person, select **Cancel** in the message. Nothing changes.</sub>
 
 ### Unblocking a person
 
 1. Select **Unblock** on the profile of the person. You can also open the **Privacy** section of Settings, find the name under **Blocked users** and select **Unblock**.
 
 > [!NOTE]
-> If you blocked nobody, **Blocked users** shows "No blocked users".
+> <sub>If you blocked nobody, **Blocked users** shows "No blocked users".</sub>
 
 ### Summary
 
@@ -920,15 +920,15 @@ You earn upgrades by inviting friends and by claiming reward codes. This guide s
    *Figure 14. The Plan & rewards section.*
 
 > [!TIP]
-> For a shortcut, open your account menu and select **Invite friends**. The menu copies your invite link and shows "Link copied!".
+> <sub>For a shortcut, open your account menu and select **Invite friends**. The menu copies your invite link and shows "Link copied!".</sub>
 
 5. Send the link or the code to a friend.
 
 > [!NOTE]
-> When your friend opens the link, the sign-up form already contains your code. If your friend has only the code, your friend enters it in the **Referral or gift code** field at sign-up. Each account can use one code, and only at sign-up.
+> <sub>When your friend opens the link, the sign-up form already contains your code. If your friend has only the code, your friend enters it in the **Referral or gift code** field at sign-up. Each account can use one code, and only at sign-up.</sub>
 
 > [!NOTE]
-> You both receive an upgrade of 30 days after your friend follows at least three shows or upcoming movies and signs in on at least two different days. The upgrade is automatic. The **Plans & Perks** page explains which plan you get.
+> <sub>You both receive an upgrade of 30 days after your friend follows at least three shows or upcoming movies and signs in on at least two different days. The upgrade is automatic. The **Plans & Perks** page explains which plan you get.</sub>
 
 ### Claiming a reward code
 
@@ -937,10 +937,10 @@ You earn upgrades by inviting friends and by claiming reward codes. This guide s
 3. Select **Claim**. A message tells you which plan you received and for how many days.
 
 > [!NOTE]
-> If the code is wrong or expired, the section shows "Reward code not found or no longer active". If the code has no uses left, it says "This reward code has no uses remaining". If you used the code before, it says "You have already claimed this reward code". Each code works once per account.
+> <sub>If the code is wrong or expired, the section shows "Reward code not found or no longer active". If the code has no uses left, it says "This reward code has no uses remaining". If you used the code before, it says "You have already claimed this reward code". Each code works once per account.</sub>
 
 > [!NOTE]
-> When a temporary upgrade ends, you return to Premium if you are an Early Adopter, or to Free. watchpapa.tv deletes nothing. If you follow more titles than your plan allows, the releases calendar pauses until you unfollow enough titles. Extra watchlists stay but you cannot create new ones.
+> <sub>When a temporary upgrade ends, you return to Premium if you are an Early Adopter, or to Free. watchpapa.tv deletes nothing. If you follow more titles than your plan allows, the releases calendar pauses until you unfollow enough titles. Extra watchlists stay but you cannot create new ones.</sub>
 
 ### Summary
 
@@ -981,13 +981,13 @@ A share card is an image that shows a title or your profile. You can post it in 
 5. Select **Download** to save the image.
 
 > [!NOTE]
-> If your device supports sharing, a **Share** button appears next to **Download**. Select it to send the card directly to another app.
+> <sub>If your device supports sharing, a **Share** button appears next to **Download**. Select it to send the card directly to another app.</sub>
 
 > [!NOTE]
-> If you rated the title, the card shows your rating.
+> <sub>If you rated the title, the card shows your rating.</sub>
 
 > [!NOTE]
-> Season and episode pages have no **Share** button. Open the show page instead.
+> <sub>Season and episode pages have no **Share** button. Open the show page instead.</sub>
 
 ### Sharing your profile card
 
@@ -1004,10 +1004,10 @@ A share card is an image that shows a title or your profile. You can post it in 
    *Figure 16. The Share profile window.*
 
 > [!NOTE]
-> The card contains your avatar, bio, favorite titles and rating statistics.
+> <sub>The card contains your avatar, bio, favorite titles and rating statistics.</sub>
 
 > [!NOTE]
-> Only you can share your profile, unless you turn on **Allow profile sharing** in the **Privacy** section of Settings. With that switch on, other people see a **Share** button on your profile too.
+> <sub>Only you can share your profile, unless you turn on **Allow profile sharing** in the **Privacy** section of Settings. With that switch on, other people see a **Share** button on your profile too.</sub>
 
 ### Summary
 
