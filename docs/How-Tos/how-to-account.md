@@ -48,7 +48,7 @@ A free account lets you follow shows, rate what you watch and keep a personal re
 5. Repeat the password in **Repeat password**.
 6. Select **Continue**.
 
-   <img src="../images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="310">
+   <img src="../images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="435">
 
    *Figure 1. Step one of the sign-up form.*
 

@@ -205,7 +205,7 @@ A share card is an image that shows a title or your profile. You can post it in 
    - **Rich** adds the genres.
 4. Optional: enter a short text of up to 125 characters in **Add a thought**.
 
-   <img src="../images/howto-share-1-movie.webp" alt="The Share movie window with a card preview for The Matrix, the detail levels and the Download button" width="640">
+   <img src="../images/howto-share-1-movie.webp" alt="The Share movie window with a card preview for The Matrix, the detail levels and the Download button" width="720">
 
    *Figure 4. The Share movie window.*
 
@@ -230,7 +230,7 @@ A share card is an image that shows a title or your profile. You can post it in 
    - **Wide · 16:9** fits wide screens.
 4. Select **Share** to send the card to another app, or select **Download** to save the image.
 
-   <img src="../images/howto-share-2-profile.webp" alt="The Share profile window with the Story format and a preview of the profile card" width="640">
+   <img src="../images/howto-share-2-profile.webp" alt="The Share profile window with the Story format and a preview of the profile card" width="720">
 
    *Figure 5. The Share profile window.*
 

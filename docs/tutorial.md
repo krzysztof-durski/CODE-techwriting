@@ -29,7 +29,7 @@ An account stores your follows, watchlists and ratings. Without one, the site ca
 5. Enter the same password in **Repeat password**.
 6. Select **Continue**.
 
-   <img src="images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="310">
+   <img src="images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="435">
 
    *Figure 2. Step one of the sign-up form.*
 
@@ -75,7 +75,7 @@ The releases calendar collects the upcoming episodes of every title that you fol
 1. Select the calendar icon at the top right to open **Releases Radar**. On a phone, select the **Radar** tab at the bottom of the screen.
 2. Find The Simpsons on the calendar. The show releases one episode a week, on Sundays. Each episode appears on its air date with a code such as `S38E6`, which means season 38, episode 6. Today is highlighted.
 
-   <img src="images/tutorial-follow-4-calendar.webp" alt="The November 2026 releases calendar with a weekly Simpsons episode on each Sunday and the Followed panel on the left" width="640">
+   <img src="images/tutorial-follow-4-calendar.webp" alt="The November 2026 releases calendar with a weekly Simpsons episode on each Sunday and the Followed panel on the left" width="720">
 
    *Figure 6. The releases calendar with a weekly Simpsons episode.*
 
@@ -108,14 +108,14 @@ A rating records what you think of a title. It also feeds your recommendations i
 
 1. Go back to the page of *The Matrix* and find the card with the heading **Rate this movie**. Before you rate, it shows five empty hearts.
 
-   <img src="images/tutorial-rate-1-panel.webp" alt="The rating card with five empty hearts and the Log watch, Watchlisted and Share buttons" width="458">
+   <img src="images/tutorial-rate-1-panel.webp" alt="The rating card with five empty hearts and the Log watch, Watchlisted and Share buttons" width="641">
 
    *Figure 8. The rating card before a rating.*
 
 2. Move the pointer over the hearts. A score appears at the top right of the card. Each heart has two halves. The left half sets an odd score and the right half sets an even score, so the five hearts cover every score from one to 10. On a phone, tap a heart instead.
 3. Select the left half of the fourth heart. This gives the movie a score of 7 out of 10.
 
-   <img src="images/tutorial-rate-3-rated.webp" alt="The rating card with the heading Your rating, a score of 7 out of 10 and the Watched button in green" width="389">
+   <img src="images/tutorial-rate-3-rated.webp" alt="The rating card with the heading Your rating, a score of 7 out of 10 and the Watched button in green" width="544">
 
    *Figure 9. The rating card with a score of 7 out of 10.*
 

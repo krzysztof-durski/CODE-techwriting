@@ -180,7 +180,7 @@ You can change the order of the rows on your home page and hide rows that you do
 1. Select your avatar and then **Settings**. On a phone, select the **You** tab first.
 2. In the list of sections, select **Home page**. The **Rows** list shows every row in its current order.
 
-   <img src="../images/howto-homepage-1-rows.webp" alt="The Home page section with seven rows, each with arrows and a Shown button" width="696">
+   <img src="../images/howto-homepage-1-rows.webp" alt="The Home page section with seven rows, each with arrows and a Shown button" width="720">
 
    *Figure 3. The Home page section with the list of rows.*
 

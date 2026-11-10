@@ -65,7 +65,7 @@ When you follow a show or a movie, its upcoming releases appear on your releases
 1. Select the calendar icon at the top right. On a narrow window, open your account menu and select **Releases Radar**. On a phone, select the **Radar** tab.
 2. Find your title. Each episode sits on its air date with a code such as `S2E3` (season two, episode three). A movie appears the same way, under its title.
 
-   <img src="../images/howto-follow-4-calendar.webp" alt="The October 2026 releases calendar with episodes of two followed shows and the Followed panel on the left" width="640">
+   <img src="../images/howto-follow-4-calendar.webp" alt="The October 2026 releases calendar with episodes of two followed shows and the Followed panel on the left" width="720">
 
    *Figure 2. The releases calendar with the Followed panel.*
 
@@ -119,7 +119,7 @@ A rating records what you think of a title. A watch log records when you saw it.
 1. Open a title page, as in [Following a show or a movie](#following-a-show-or-a-movie). This guide uses *The Matrix*.
 2. Find the card with the heading **Rate this movie**. It shows five empty hearts.
 
-   <img src="../images/howto-rate-1-panel.webp" alt="The rating card with five empty hearts and the Log watch, Watchlist and Share buttons" width="478">
+   <img src="../images/howto-rate-1-panel.webp" alt="The rating card with five empty hearts and the Log watch, Watchlist and Share buttons" width="670">
 
    *Figure 3. The rating card before a rating.*
 
@@ -154,7 +154,7 @@ Once you rate a title, the hearts lock so that a stray tap cannot replace your s
 2. Under **Log another watch**, choose the date. It cannot be in the future.
 3. Select **Log**. The button now reads **Watched** followed by the number of watches, for example **Watched · 2×**.
 
-   <img src="../images/howto-rate-4-diary.webp" alt="The Rewatch diary panel with two logged watches and the Watched · 2× button below it" width="357">
+   <img src="../images/howto-rate-4-diary.webp" alt="The Rewatch diary panel with two logged watches and the Watched · 2× button below it" width="501">
 
    *Figure 4. The Rewatch diary with two logged watches.*
 
@@ -207,7 +207,7 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
 
 3. To open your lists, select your avatar and then **Watchlists**. On a phone, select the **You** tab first. Each list has its own tab.
 
-   <img src="../images/howto-watchlist-2-page.webp" alt="The My Watchlists page with a list named Weekend picks and three titles" width="640">
+   <img src="../images/howto-watchlist-2-page.webp" alt="The My Watchlists page with a list named Weekend picks and three titles" width="720">
 
    *Figure 5. The My Watchlists page.*
 
