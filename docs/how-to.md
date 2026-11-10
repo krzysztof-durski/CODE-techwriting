@@ -103,8 +103,6 @@ A free account lets you follow shows, rate what you watch and keep a personal re
 11. Leave the product updates checkbox clear, unless you want occasional emails. This checkbox is optional.
 12. Select **Create account**.
 
-    ![Step two of the sign-up form with a username, a date of birth and the terms checkbox selected](images/howto-register-2-about-you.webp)
-
     > [!NOTE]
     > If the email address already has an account, the form returns to step one and shows "This email is already in use. Try signing in instead." Select **Sign in** and use that account.
 
@@ -112,14 +110,10 @@ A free account lets you follow shows, rate what you watch and keep a personal re
 14. Enter the code on the **Check your inbox** page.
 15. Select **Verify email**.
 
-    ![The Check your inbox page with a six-digit code entered](images/howto-register-3-verify.webp)
-
     > [!NOTE]
     > If the code does not arrive, wait 30 seconds. Then select **Resend code**. If you entered the wrong address, select **Not you?** and correct it.
 
 The home page opens, and your avatar appears in a circle at the top right. Until you choose a picture, the circle shows the first letter of your username.
-
-![The home page after sign-up, with the account circle at the top right](images/howto-register-4-home.webp)
 
 ### Summary
 
@@ -151,8 +145,6 @@ Sign in to use your follows, ratings and watchlists on any device. This guide sh
 4. Enter your password. To check what you typed, select the eye icon at the right end of the field.
 5. Select **Sign in**.
 
-   ![The sign-in form with an email address and a password entered](images/howto-signin-1-form.webp)
-
    The home page opens.
 
    > [!NOTE]
@@ -166,8 +158,6 @@ Sign in to use your follows, ratings and watchlists on any device. This guide sh
 
 6. To sign out, select your avatar at the top right. On a phone, select the **You** tab at the bottom of the screen.
 7. Select **Sign out** at the bottom of the menu.
-
-   ![The account menu with the Sign out item at the bottom](images/howto-signin-2-menu.webp)
 
    > [!NOTE]
    > The first time you visit, a banner asks about session storage. If you select **Accept cookies**, you stay signed in across tabs and browser restarts. If you select **Decline**, your session ends when you close the tab, so you must sign in again.
@@ -201,16 +191,12 @@ If you forget your password, watchpapa.tv emails you a code and a link. Use eith
 3. Enter your email address.
 4. Select **Send reset code**.
 
-   ![The Forgot your password page with an email address entered](images/howto-reset-1-request.webp)
-
    > [!NOTE]
    > The page shows the same message whether or not an account exists for that address: "If an account exists for that email, a reset code and link are on their way."
 
 5. Open your email inbox and find the message from watchpapa.tv. It contains a six-digit code and a link.
 6. Enter the code on the **Check your inbox** page.
 7. Select **Continue**.
-
-   ![The Check your inbox page with a six-digit reset code entered](images/howto-reset-2-code.webp)
 
    > [!NOTE]
    > If you prefer, skip steps six and seven. Select the link in the email instead. The **Choose a new password** page opens directly.
@@ -224,8 +210,6 @@ If you forget your password, watchpapa.tv emails you a code and a link. Use eith
 8. On the **Choose a new password** page, enter a new password. The same five rules as at sign-up apply.
 9. Enter the new password again in **Repeat new password**.
 10. Select **Update password**.
-
-    ![The Choose a new password page with matching passwords that meet all five rules](images/howto-reset-3-new.webp)
 
     > [!NOTE]
     > If the new password appears on a list of known data breaches, the page asks you to choose a different one.
@@ -292,8 +276,6 @@ You can set up to five favorites. They appear on your profile and on your profil
 
    ![The Favourites section with three favorite titles and two empty slots](images/howto-profile-3-favourites.webp)
 
-   ![The Pick a title window with the search term Arrival and matching movies](images/howto-profile-4-picker.webp)
-
 3. To replace a favorite, select its slot and pick another title.
 4. To remove a favorite, select the **×** at the corner of its poster.
 
@@ -307,8 +289,6 @@ You can set up to five favorites. They appear on your profile and on your profil
 3. Move the **Zoom** slider.
 4. Select **Save banner**.
 
-   ![The Profile banner section with a banner from The Matrix and the choice of artwork](images/howto-profile-5-banner.webp)
-
    > [!NOTE]
    > If you have no favorites yet, the section shows "Add a favourite first". Complete [Setting your favorite titles](#setting-your-favorite-titles) first.
 
@@ -316,9 +296,6 @@ You can set up to five favorites. They appear on your profile and on your profil
 
 1. In the **Bio** section, enter a short text of up to 200 characters. A counter shows how many characters you used.
 2. Select **Save bio**. The button briefly reads **Saved**.
-
-   ![The Bio section with a short text and the Save bio button](images/howto-profile-2-bio.webp)
-
 3. To see the result, select **Back to profile**.
 
 ### Changing your username
@@ -368,13 +345,8 @@ Deleting your account removes your profile, ratings, watchlists and follows. Thi
 
 3. In the list of sections, select **Account**. It appears in red.
 4. Select **Delete my account**.
-
-   ![The Account section in red with the Delete my account button](images/howto-delete-1-section.webp)
-
 5. Read the message in the **Delete your account?** window. It says "This permanently deletes all your data. There is no undo."
 6. Select **Yes, delete everything**.
-
-   ![The Delete your account window with the Cancel and Yes, delete everything buttons](images/howto-delete-2-confirm.webp)
 
    > [!NOTE]
    > To keep your account, select **Cancel** or close the window.
@@ -418,16 +390,11 @@ When you follow a show or a movie, its upcoming releases appear on your releases
 1. Select the search field at the top of the page. On a smaller screen, select the search icon at the top or the **Search** tab at the bottom.
 2. Enter the name of the show or movie, such as "Grey's Anatomy". Matching titles appear as you type.
 3. Select the show or movie in the list.
-
-   ![The search field with Grey's Anatomy entered and three matching shows listed below it](images/howto-follow-1-search.webp)
-
 4. On the show or movie page, select **Follow**.
 
    ![The Grey's Anatomy page before following, with the Follow button below the title](images/howto-follow-2-show-page.webp)
 
    The button changes to **Following** and shows a check mark.
-
-   ![The same page after following, with the Following button in green](images/howto-follow-3-following.webp)
 
    > [!NOTE]
    > You can also select **Follow** on a title card in lists such as **Popular**. This works for shows and movies.
@@ -437,8 +404,6 @@ When you follow a show or a movie, its upcoming releases appear on your releases
 
    > [!NOTE]
    > You cannot start following a show that has ended or a movie that is already released. A follow tracks only upcoming releases. In that case, the button is locked and shows **Ended**, **Canceled** or **Released**. Choose a show that is still running or a movie that is not released yet.
-   >
-   > ![The Breaking Bad page with a locked Ended button](images/howto-follow-5-ended.webp)
 
    > [!NOTE]
    > If you reach the limit of your plan, a message tells you so and the follow does not save. Unfollow a title that you no longer need, or read the **Plan & rewards** page.
@@ -508,8 +473,6 @@ A rating records what you think of a title. A watch log records when you saw it.
 3. Move the pointer over the hearts. A score appears at the top right of the card. Each heart has two halves. The left half sets an odd score and the right half sets an even score, so the five hearts cover every score from one to 10. On a phone, tap a heart instead.
 4. Select the half heart that matches your score. For 7 out of 10, select the left half of the fourth heart.
 
-   ![The Your activity card showing a rating of 7 out of 10 and the Watched button in green](images/howto-rate-3-rated.webp)
-
    > [!NOTE]
    > Your first rating also logs a first watch with today's date. It also removes the title from your watchlists.
 
@@ -575,8 +538,6 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
 
    If you have no list yet, watchpapa.tv creates a list named **My Watchlist** and adds the title. If you already have lists, it adds the title to your first list. A bar shows the name of the list and the words "on your watchlist". The button changes to **Watchlisted**.
 
-   ![The Your activity card with the Watchlisted button and a bar that names the list Weekend picks](images/howto-watchlist-1-added.webp)
-
    > [!NOTE]
    > If you have more than one list, select the list name in the bar to open the list of your watchlists. Select a list to add or remove the title. A title can be on several lists. On a phone, the lists open in a sheet from the bottom.
 
@@ -593,8 +554,6 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
 4. To create another list, select **New list**.
 5. Enter a name of up to 60 characters.
 6. Select **Create**.
-
-   ![The New list form with the name Rainy day films entered above the list tabs](images/howto-watchlist-3-new.webp)
 
    > [!NOTE]
    > If you reached the limit of your plan, a message tells you how many watchlists your plan allows. Delete a list that you no longer need, or read the **Plan & rewards** page.
@@ -650,13 +609,8 @@ The **Where to watch** panel shows which services stream, rent or sell a title i
 
 5. To look at other countries, select **Other countries** below the panel. The **Available in other countries** window opens.
 6. Enter a country name in the search field, or use the arrows to move from one country to the next.
-
-   ![The Available in other countries window showing Andorra with two streaming services](images/howto-stream-2-other.webp)
-
 7. To choose your own regions, select your avatar and then **Settings**. In the **Streaming** section, find **Watch regions**.
 8. Select **+ Add a region** and choose a country. Repeat for up to five countries.
-
-   ![The Streaming section with the regions United States of America and United Kingdom](images/howto-stream-3-settings.webp)
 
    > [!NOTE]
    > To remove a region, select the **×** on its label.
@@ -746,14 +700,10 @@ Your content language decides in which language titles, overviews and genres app
 2. In the list of sections, select **Content & region**.
 3. Open the **Content language** list and choose a language.
 
-   ![The Content and region section with English as the content language and the country not set](images/howto-language-1-section.webp)
-
    watchpapa.tv saves the choice at once. There is no save button. Titles, overviews and genres appear in the new language where TMDB has a translation.
 
    > [!NOTE]
    > If you choose a language other than English, a **Titles** row appears. Select **Everything in** and the language name to translate every title and its details. Select **Original** and the language name to keep the original title of films made in that language and show everything else in English.
-   >
-   > ![The Content and region section with German selected and the two Titles options](images/howto-language-2-german.webp)
 
 4. Open the **Country** list and choose your country. The default is **Not set**.
 
@@ -804,8 +754,6 @@ You can change the order of the rows on your home page and hide rows that you do
 
 5. In the list of sections, select **Preferences** to adjust related settings.
 
-   ![The Preferences section with the Show adult content and Product updates switches](images/howto-homepage-2-preferences.webp)
-
    > [!NOTE]
    > **Show adult content** appears only if your date of birth shows that you are 18 or older. When you turn it on, two more switches appear: **Adult tab in navigation** and **Blur NSFW posters**.
 
@@ -838,9 +786,6 @@ When you observe a person, you see their ratings in your activity feed and on th
 
 1. Select your avatar and then **Find People**. On a phone, select the **You** tab first.
 2. Enter a username in the **Search usernames** field. Results appear as you type.
-
-   ![The Find People page with the search jo and the result cinephile_jo with an Observe button](images/howto-observe-1-find.webp)
-
 3. Select the name of a person to open their profile.
 4. Select **Observe**.
 
@@ -848,12 +793,8 @@ When you observe a person, you see their ratings in your activity feed and on th
 
    The button changes to **Observing**.
 
-   ![The same profile after observing, with the Observing button in green](images/howto-observe-3-observing.webp)
-
    > [!NOTE]
    > If the person has a private account, the button reads **Request to observe**. Select it. The button changes to **Requested**, and the person must accept before you see their ratings. To cancel the request, select **Requested** again.
-   >
-   > ![The profile of a private account with the Request to observe button](images/howto-observe-5-private.webp)
 
    > [!TIP]
    > In the search results, the button next to a name reads **Observe** or **Request**. You can select it without opening the profile.
@@ -868,8 +809,6 @@ When you observe a person, you see their ratings in your activity feed and on th
 
 6. If you have a private account, other people ask to observe you. A number appears next to **Observe Requests** in your account menu. Select **Observe Requests**.
 7. Select **Accept** to allow the request, or **Deny** to refuse it.
-
-   ![The Observe Requests page with a request from private_pat and the Accept and Deny buttons](images/howto-observe-4-requests.webp)
 
 ### Summary
 
@@ -912,9 +851,6 @@ Privacy settings decide who can observe you and see your ratings. This guide sho
 
 1. Open the profile of the person. Use **Find People** to locate the profile, as in [Observing other people](#observing-other-people).
 2. Select **Block**.
-
-   ![A profile with the Observe and Block buttons](images/howto-privacy-2-block.webp)
-
 3. Read the message "Block this user? Any observe relationship between you will be removed." Select **OK**.
 
    The **Block** button changes to **Unblock**.
@@ -976,8 +912,6 @@ You earn upgrades by inviting friends and by claiming reward codes. This guide s
 1. Open the **Plan & rewards** section of Settings, as in [Inviting a friend](#inviting-a-friend).
 2. Enter the code in the **Claim a reward code** field.
 3. Select **Claim**. A message tells you which plan you received and for how many days.
-
-   ![The Plan and rewards section with the message Premium for 30 days applied](images/howto-rewards-2-claimed.webp)
 
    > [!NOTE]
    > If the code is wrong or expired, the section shows "Reward code not found or no longer active". If the code has no uses left, it says "This reward code has no uses remaining". If you used the code before, it says "You have already claimed this reward code". Each code works once per account.
