@@ -33,8 +33,8 @@ watchpapa.tv is a personal project under an all-rights-reserved license. The pro
   ```sh
   node --version   # should print v22.x
   ```
-* An API key for [The Movie Database (TMDB)](https://www.themoviedb.org/settings/api)
-* A Supabase project that has the watchpapa schema. You need its URL, publishable key and session-pooler connection string. The numbered files in [Backend/src/db/migrations/](https://github.com/watchpapa/watchpapa/tree/production/Backend/src/db/migrations) create the schema.
+* An application programming interface (API) key for [The Movie Database (TMDB)](https://www.themoviedb.org/settings/api)
+* A Supabase project that has the watchpapa schema. You need its uniform resource locator (URL), publishable key and session-pooler connection string. The numbered files in [Backend/src/db/migrations/](https://github.com/watchpapa/watchpapa/tree/production/Backend/src/db/migrations) create the schema.
 
 ### Installation
 
@@ -91,7 +91,7 @@ watchpapa.tv is a personal project under an all-rights-reserved license. The pro
 | Frontend settings | `Frontend/.env` locally. Pages environment variables in production. | `VITE_SUPABASE_URL`, `VITE_SUPABASE_PUBLISHABLE_KEY`, `VITE_API_BASE_URL` |
 | Test settings | Root `.env` | `DATABASE_URL`, `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, `TMDB_API_KEY_SECRET`. The smoke tests also read `VITE_SUPABASE_PUBLISHABLE_KEY` from `Frontend/.env`. |
 | Backup and deploy secrets | GitHub Actions secrets | `SUPABASE_DB_POOLER_URL`, `AGE_PUBLIC_KEY`, `R2_*`, `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` |
-| Database schema | `Backend/src/db/migrations/` | Numbered SQL migrations that you only append to |
+| Database schema | `Backend/src/db/migrations/` | Numbered Structured Query Language (SQL) migrations that you only append to |
 
 > [!IMPORTANT]
 > In production, set `VITE_API_BASE_URL` to `https://api.watchpapa.tv`. The frontend calls the Worker from another origin. Without this value, the app cannot reach the API.
@@ -111,7 +111,7 @@ watchpapa/
 ├── worker/                   # Cloudflare Worker API (Hono)
 │   ├── src/routes/           #   one file per route group, admin routes in routes/admin/
 │   ├── src/tmdb/             #   TMDB client, normalization, recommendations, adult-content filter
-│   ├── src/import/           #   CSV import: resolve titles, commit rows
+│   ├── src/import/           #   comma-separated values (CSV) import: resolve titles, commit rows
 │   ├── test/                 #   Vitest unit tests
 │   └── wrangler.jsonc        #   bindings, variables, cron trigger, routes
 ├── Backend/src/db/migrations/  # numbered SQL migrations
@@ -143,7 +143,7 @@ Follow these rules when you change code.
 3. Make the change and follow the [code rules](#code-rules).
 4. Run the tests that cover your change. See [Run and test the project](#run-and-test-the-project).
 5. Update `CONTEXT.md` and any other documentation that the change affects.
-6. Commit your work. Follow the [commit message rules](#write-commit-messages). If an AI tool helped, add a `Co-authored-by` line that names the tool.
+6. Commit your work. Follow the [commit message rules](#write-commit-messages). If an artificial intelligence (AI) tool helped, add a `Co-authored-by` line that names the tool.
 7. Open a pull request and describe what you changed and why.
 
 <p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
@@ -232,7 +232,7 @@ These problems can appear while you work on a local copy. For problems on the li
 
 | Problem | What to check |
 |---|---|
-| The Worker returns 500 errors on user-data routes | Run `npx wrangler tail` and check the Hyperdrive binding ID in `wrangler.jsonc`. Also check that no query passes an array as a bind parameter. |
+| The Worker returns 500 errors on user-data routes | Run `npx wrangler tail` and check the Hyperdrive binding identifier (ID) in `wrangler.jsonc`. Also check that no query passes an array as a bind parameter. |
 | A background import stops | Run `npx wrangler tail` and look for `[IMPORT]` lines every minute. The next run retries a step that fails. |
 
 <p align="right">(<a href="#contributing-to-watchpapatv">back to top</a>)</p>
