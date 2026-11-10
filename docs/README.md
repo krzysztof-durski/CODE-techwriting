@@ -5,7 +5,11 @@ This is the table of contents for all watchpapa.tv documentation. Pick the docum
 ## For users
 
 - [Tutorial](tutorial.md): create an account, follow a show, save a movie, rate it and get recommendations. Start here if you are new to the site.
-- [How-to guides](how-to.md): steps for specific tasks, such as creating watchlists, editing your profile or finding where to stream a title.
+- [How-to guides](how-to.md): steps for specific tasks, split into four pages.
+  - [Your account](how-to-account.md): create an account, sign in, reset a password, edit your profile and delete your account.
+  - [Tracking what you watch](how-to-tracking.md): follow titles, read the releases calendar, rate titles, log watches and keep watchlists.
+  - [Finding what to watch](how-to-finding.md): find where a title streams, get recommendations, set your language and region and customize the home page.
+  - [People, privacy and plans](how-to-people.md): observe people, control your privacy, invite friends, claim reward codes and share cards.
 
 ## Background
 
