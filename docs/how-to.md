@@ -836,7 +836,7 @@ You earn upgrades by inviting friends and by claiming reward codes. This guide s
 
    **Note:** If the code is wrong or expired, the section shows "Reward code not found or no longer active". If the code has no uses left, it says "This reward code has no uses remaining". If you used the code before, it says "You have already claimed this reward code". Each code works once per account.
 
-   **Note:** When a temporary upgrade ends, you return to Premium if you are an Early Adopter, or to Free. watchpapa.tv deletes nothing. If you follow more titles than your plan allows, the releases calendar pauses until you unfollow enough titles. Extra watchlists stay, but you cannot create new ones.
+   **Note:** When a temporary upgrade ends, you return to Premium if you are an Early Adopter, or to Free. watchpapa.tv deletes nothing. If you follow more titles than your plan allows, the releases calendar pauses until you unfollow enough titles. Extra watchlists stay but you cannot create new ones.
 
 ### Summary
 

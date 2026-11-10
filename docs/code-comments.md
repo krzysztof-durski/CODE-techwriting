@@ -146,7 +146,7 @@ function buildUrl(path, params, apiKey, language = "en-US") {
 }
 ```
 
-The code sets `language` right after `api_key` and before the other parameters. That order looks like a style choice, but it is not. The comment says that Cloudflare's edge cache uses the full URL as its key, so a stable position keeps the cache working. A developer who reorders those lines could break the cache without any error message.
+The code sets `language` right after `api_key` and before the other parameters. That order looks like a style choice but it is not. The comment says that Cloudflare's edge cache uses the full URL as its key, so a stable position keeps the cache working. A developer who reorders those lines could break the cache without any error message.
 
 ## Explain why a variable lives outside the function
 
