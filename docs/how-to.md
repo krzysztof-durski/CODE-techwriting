@@ -605,10 +605,9 @@ The **Where to watch** panel shows which services stream, rent or sell a title i
    > [!NOTE]
    > If the title is not available in your regions, the panel shows "Not available in" and the names of your regions. Select **See where it's available** to see the countries that have it.
 
-5. To look at other countries, select **Other countries** below the panel. The **Available in other countries** window opens.
-6. Enter a country name in the search field, or use the arrows to move from one country to the next.
-7. To choose your own regions, select your avatar and then **Settings**. In the **Streaming** section, find **Watch regions**.
-8. Select **+ Add a region** and choose a country. Repeat for up to five countries.
+5. For other countries, select **Other countries** below the panel. Search for a country or use the arrows.
+6. To choose your regions, select your avatar and then **Settings**. In the **Streaming** section, find **Watch regions**.
+7. Select **+ Add a region** and choose a country. Repeat for up to five countries.
 
    > [!NOTE]
    > To remove a region, select the **×** on its label.
@@ -643,7 +642,7 @@ The **Suggested For You** row on the home page shows titles that match your tast
 
 ### Steps
 
-1. Rate movies and shows that you like. Give each at least 6 out of 10. watchpapa.tv uses up to 10 of these titles as the starting point for suggestions.
+1. Rate titles that you like at least 6 out of 10. watchpapa.tv uses up to 10 of them as the starting point.
 
    > [!NOTE]
    > Titles that you rated 5 or lower do not shape the suggestions. Ratings of seasons and episodes do not count either.
@@ -698,7 +697,7 @@ Your content language decides in which language titles, overviews and genres app
 2. In the list of sections, select **Content & region**.
 3. Open the **Content language** list and choose a language.
 
-   watchpapa.tv saves the choice at once. There is no save button. Titles, overviews and genres appear in the new language where TMDB has a translation.
+   The choice saves at once. Titles, overviews and genres change where TMDB has a translation.
 
    > [!NOTE]
    > If you choose a language other than English, a **Titles** row appears. Select **Everything in** and the language name to translate every title and its details. Select **Original** and the language name to keep the original title of films made in that language and show everything else in English.
@@ -739,7 +738,7 @@ You can change the order of the rows on your home page and hide rows that you do
 
    <img src="images/howto-homepage-1-rows.webp" alt="The Home page section with seven rows, each with arrows and a Shown button" width="696">
 
-3. Select the up arrow or the down arrow next to a row to move it. The first row appears at the top of the home page.
+3. Use the arrows next to a row to move it. The first row appears at the top.
 4. Select **Shown** next to a row to hide it. The button changes to **Hidden**. Select it again to show the row.
 
    watchpapa.tv saves each change at once.
@@ -805,7 +804,7 @@ When you observe a person, you see their ratings in your activity feed and on th
    > [!NOTE]
    > If you observe nobody yet, the page shows "Nothing here yet". Select **Find people** to start.
 
-6. If you have a private account, other people ask to observe you. A number appears next to **Observe Requests** in your account menu. Select **Observe Requests**.
+6. If your account is private, a number appears next to **Observe Requests** in your account menu. Select **Observe Requests**.
 7. Select **Accept** to allow the request, or **Deny** to refuse it.
 
 ### Summary
@@ -833,7 +832,7 @@ Privacy settings decide who can observe you and see your ratings. This guide sho
 
 1. Select your avatar and then **Settings**. On a phone, select the **You** tab first.
 2. In the list of sections, select **Privacy**.
-3. To make your account private, turn on **Private account**. People must then request to observe you, and your ratings stay hidden until you approve them.
+3. Turn on **Private account**. People must request to observe you, and your ratings stay hidden until you accept.
 
    <img src="images/howto-privacy-1-section.webp" alt="The Privacy section with Private account off, Allow profile sharing on and one blocked user" width="720">
 
@@ -849,9 +848,7 @@ Privacy settings decide who can observe you and see your ratings. This guide sho
 
 1. Open the profile of the person. Use **Find People** to locate the profile, as in [Observing other people](#observing-other-people).
 2. Select **Block**.
-3. Read the message "Block this user? Any observe relationship between you will be removed." Select **OK**.
-
-   The **Block** button changes to **Unblock**.
+3. In the "Block this user?" message, select **OK**. The button changes to **Unblock**, and any observe relationship between you ends.
 
    > [!NOTE]
    > To keep the person, select **Cancel** in the message. Nothing changes.
@@ -942,7 +939,7 @@ A share card is an image that shows a title or your profile. You can post it in 
 ### Sharing a title
 
 1. Open the page of a movie or a show.
-2. In the **Your activity** card, select **Share**. The **Share movie** window opens. For a show, it is named **Share show**.
+2. In the rating card, select **Share**. The **Share movie** window opens (**Share show** for a show).
 3. Under **Details**, choose how much the card shows.
    - **Minimal** shows the poster, the title and your rating.
    - **Standard** adds the year.
