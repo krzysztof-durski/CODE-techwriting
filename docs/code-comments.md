@@ -40,7 +40,7 @@ export function escapeText(text) {
 }
 ```
 
-The comment lists the rules of the ICS serializer, the part of the code that writes calendar files. The date shows when they were decided. Two of the rules appear in the code below it. The rule "TEXT values escape backslash, semicolon, comma and newline" is the `TEXT_ESCAPES` table. The rule "invalid input throws a RangeError" is the `throw new RangeError` line. The comment lives in the test file because the tests check each rule.
+The comment lists the rules of the iCalendar (ICS) serializer, the part of the code that writes calendar files. The date shows when they were decided. Two of the rules appear in the code below it. The rule "TEXT values escape backslash, semicolon, comma and newline" is the `TEXT_ESCAPES` table. The rule "invalid input throws a RangeError" is the `throw new RangeError` line. The comment lives in the test file because the tests check each rule.
 
 ## Explain a security choice and what happens when it fails
 
@@ -87,7 +87,7 @@ export function todayKey() {
 }
 ```
 
-A developer might replace this function with `toISOString()`, which looks shorter. The comment explains why that would be wrong: `toISOString()` uses UTC, so the date can be off by one day for users in other time zones around midnight. The function builds the date from `getFullYear()`, `getMonth()` and `getDate()`, which use the local time zone.
+A developer might replace this function with `toISOString()`, which looks shorter. The comment explains why that would be wrong: `toISOString()` uses Coordinated Universal Time (UTC), so the date can be off by one day for users in other time zones around midnight. The function builds the date from `getFullYear()`, `getMonth()` and `getDate()`, which use the local time zone.
 
 ## Say why a check reads the database
 
@@ -146,7 +146,7 @@ function buildUrl(path, params, apiKey, language = "en-US") {
 }
 ```
 
-The code sets `language` right after `api_key` and before the other parameters. That order looks like a style choice but it is not. The comment says that Cloudflare's edge cache uses the full URL as its key, so a stable position keeps the cache working. A developer who reorders those lines could break the cache without any error message.
+The code sets `language` right after `api_key` and before the other parameters. That order looks like a style choice but it is not. The comment says that Cloudflare's edge cache uses the full uniform resource locator (URL) as its key, so a stable position keeps the cache working. A developer who reorders those lines could break the cache without any error message.
 
 ## Explain why a variable lives outside the function
 
