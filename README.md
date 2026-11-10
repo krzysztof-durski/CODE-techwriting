@@ -15,6 +15,8 @@ Visit the live site at [watchpapa.tv](https://watchpapa.tv). Krzysztof Durski cr
 
 ![The watchpapa.tv home page with a trending hero banner above rows of popular movies and shows](docs/images/watchpapa-home.webp)
 
+*Figure 1. The watchpapa.tv home page.*
+
 <!-- TABLE OF CONTENTS -->
 ## Table of contents
 
@@ -55,7 +57,7 @@ flowchart LR
     S -.-> G
 ```
 
-*Figure 1. The parts of watchpapa.tv and the data that flows between them.*
+*Figure 2. The parts of watchpapa.tv and the data that flows between them.*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

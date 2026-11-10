@@ -31,6 +31,8 @@ Adult content is off by default. It needs your date of birth before you can turn
 
 ![The releases calendar for October 2026 with followed shows and movies on their air dates](images/watchpapa-calendar.webp)
 
+*Figure 1. The releases calendar with followed titles on their air dates.*
+
 ## How it is built
 
 The website and its application programming interface (API) both run on Cloudflare. The API is a Worker, which is a small program that runs on Cloudflare's servers. The Worker reads movie data from TMDB when you ask for it. Supabase stores user data in a PostgreSQL database.
