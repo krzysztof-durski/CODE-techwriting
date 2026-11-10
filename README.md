@@ -49,7 +49,7 @@ flowchart LR
     P -->|own user data, row-level security| S[("Supabase<br/>Postgres and Auth")]
     P -->|content and multi-table reads<br/>signed-in token| W["Worker API<br/>Hono on Cloudflare Workers"]
     W -->|live content, edge-cached| T[TMDB API v3]
-    W -->|SQL via Hyperdrive| S
+    W -->|database queries via Hyperdrive| S
     C[Cron trigger<br/>every minute] -->|advances import jobs| W
     G["GitHub Actions<br/>nightly"] -->|pg_dump, age-encrypted| R[("Cloudflare R2<br/>30-day retention")]
     S -.-> G
@@ -105,7 +105,7 @@ To set up a local copy for development, read the [contributing guide](docs/contr
 
 - [x] Live TMDB content through a Cloudflare Worker
 - [x] Releases calendar, ratings, watchlists and rewatch diary
-- [x] Letterboxd and CSV import as background jobs
+- [x] Letterboxd and comma-separated values (CSV) import as background jobs
 - [x] Language, region, streaming-service and adult-content preferences
 - [x] My Services page, collections and certifications
 - [x] Plans, reward codes, referrals and bulk tier rewards
@@ -144,6 +144,6 @@ Copyright © 2026 Krzysztof Durski. All rights reserved. See [`LICENSE`](https:/
 <!-- AI USAGE -->
 ## AI usage
 
-AI tools (Cursor and Claude Code) helped with brainstorming, implementation, debugging and documentation. The author made the architecture, planning and technical decisions. The author reviewed and adapted all AI output before committing it. Commits that AI assisted carry a `Co-authored-by` line that names the tool.
+Artificial intelligence (AI) tools (Cursor and Claude Code) helped with brainstorming, implementation, debugging and documentation. The author made the architecture, planning and technical decisions. The author reviewed and adapted all AI output before committing it. Commits that AI assisted carry a `Co-authored-by` line that names the tool.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

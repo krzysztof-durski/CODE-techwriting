@@ -23,7 +23,7 @@ The site is for anyone who follows several shows or films at once and wants one 
 - **Discovery** through search, daily trending titles, personal recommendations, collections and filmographies.
 - **A library and a profile** with several named watchlists, five favorites and a public profile.
 - **Observing other people** to see their ratings, and privacy controls over your own.
-- **Import and export** of your history from a Letterboxd or CSV file.
+- **Import and export** of your history from a Letterboxd or comma-separated values (CSV) file.
 - **Your language and region** for titles, release dates and streaming availability.
 - **Plans and rewards** with different limits. Payments for paid plans are not available yet.
 
