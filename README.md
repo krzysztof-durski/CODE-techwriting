@@ -24,7 +24,7 @@ Visit the live site at [watchpapa.tv](https://watchpapa.tv). Krzysztof Durski cr
 - [Change log](#change-log)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [Licence and terms of use](#licence-and-terms-of-use)
+- [License and terms of use](#license-and-terms-of-use)
 - [Acknowledgements](#acknowledgements)
 - [AI usage](#ai-usage)
 
@@ -118,16 +118,16 @@ To set up a local copy for development, read the [contributing guide](docs/contr
 <!-- CONTRIBUTING -->
 ## Contributing
 
-watchpapa.tv is a personal project under an all-rights-reserved licence. The project does not accept outside contributions without written permission. To offer help, contact the owner through the [contact page](https://watchpapa.tv/contact) first. If the owner agrees, follow [contributing.md](docs/contributing.md). It covers setup, configuration, development, deployment and troubleshooting.
+watchpapa.tv is a personal project under an all-rights-reserved license. The project does not accept outside contributions without written permission. To offer help, contact the owner through the [contact page](https://watchpapa.tv/contact) first. If the owner agrees, follow [contributing.md](docs/contributing.md). It covers setup, configuration, development, deployment and troubleshooting.
 
 To report a bug or ask a question, [open an issue](https://github.com/watchpapa/watchpapa/issues) or use the contact page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENCE -->
-## Licence and terms of use
+<!-- LICENSE -->
+## License and terms of use
 
-Copyright © 2026 Krzysztof Durski. All rights reserved. See [`LICENCE`](https://github.com/watchpapa/watchpapa/blob/production/LICENCE) for details.
+Copyright © 2026 Krzysztof Durski. All rights reserved. See [`LICENSE`](https://github.com/watchpapa/watchpapa/blob/production/LICENSE) for details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
