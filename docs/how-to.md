@@ -69,15 +69,15 @@ A free account lets you follow shows, rate what you watch and keep a personal re
 ### Steps
 
 1. Open [watchpapa.tv](https://watchpapa.tv).
-2. Select **Register** at the top right. On a phone, open the menu first and then select **Register**.
+2. Select **Register** at the top right. On a phone, open the menu first.
 3. Enter your email address.
-4. Enter a password. A checklist under the field shows five rules. Each rule turns green when you meet it.
+4. Enter a password that meets the five rules in the checklist below the field.
    - At least eight characters
    - One lowercase letter
    - One uppercase letter
    - One digit
    - One symbol, such as `!` or `@`
-5. Enter the same password in **Repeat password**. The message **Passwords match** appears when both entries agree.
+5. Repeat the password in **Repeat password**.
 6. Select **Continue**.
 
    <img src="images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="310">
@@ -88,32 +88,32 @@ A free account lets you follow shows, rate what you watch and keep a personal re
    > [!TIP]
    > To sign up with an existing account, select **Google** or **GitHub** below **or continue with** instead of entering a password. After you sign in with the provider, the **Almost there** page opens. Enter a username, enter your date of birth, accept the terms and select **Finish setup**. Skip the remaining steps in this guide.
 
-7. Enter a username. Use four to 50 characters. You can use letters, numbers, underscores and hyphens.
+7. Enter a username of four to 50 letters, numbers, underscores or hyphens.
 8. Enter your date of birth.
 
    > [!NOTE]
    > If you are younger than 16, the form shows "You must be at least 16 years old to register." You cannot create an account.
 
-9. Enter a referral or gift code. This field is optional.
+9. Optional: enter a referral or gift code.
 
    > [!IMPORTANT]
    > You can enter a referral code only while you register. The app has no way to add a code later. If you opened a referral link, the code is already filled in.
 
-10. Select the checkbox next to **I agree to the Terms and Privacy Policy**. You cannot continue without it.
-11. Leave the product updates checkbox clear, unless you want occasional emails. This checkbox is optional.
+10. Select **I agree to the Terms and Privacy Policy**.
+11. Optional: select the product updates checkbox for occasional emails.
 12. Select **Create account**.
 
     > [!NOTE]
     > If the email address already has an account, the form returns to step one and shows "This email is already in use. Try signing in instead." Select **Sign in** and use that account.
 
-13. Open your email inbox and find the message from watchpapa.tv. It contains a six-digit code.
+13. In your inbox, copy the six-digit code from watchpapa.tv.
 14. Enter the code on the **Check your inbox** page.
 15. Select **Verify email**.
 
     > [!NOTE]
     > If the code does not arrive, wait 30 seconds. Then select **Resend code**. If you entered the wrong address, select **Not you?** and correct it.
 
-The home page opens, and your avatar appears in a circle at the top right. Until you choose a picture, the circle shows the first letter of your username.
+The home page opens. A circle at the top right shows the first letter of your username.
 
 ### Summary
 
@@ -140,9 +140,9 @@ Sign in to use your follows, ratings and watchlists on any device. This guide sh
 ### Steps
 
 1. Open [watchpapa.tv](https://watchpapa.tv).
-2. Select **Sign in** at the top right. On a phone, select the **Sign in** tab at the bottom of the screen.
+2. Select **Sign in** at the top right. On a phone, select the **Sign in** tab.
 3. Enter your email address.
-4. Enter your password. To check what you typed, select the eye icon at the right end of the field.
+4. Enter your password. Select the eye icon to show it.
 5. Select **Sign in**.
 
    The home page opens.
@@ -154,9 +154,9 @@ Sign in to use your follows, ratings and watchlists on any device. This guide sh
    > If the form shows "Wrong email or password.", check both entries for typing errors. If you forgot the password, read [Resetting a forgotten password](#resetting-a-forgotten-password).
 
    > [!NOTE]
-   > If you never verified your email address, the **Check your inbox** page opens instead. Enter the six-digit code from your email and select **Verify email**. If the code has expired, select **Resend code**.
+   > If you never verified your email, the **Check your inbox** page opens. Enter the code from your email and select **Verify email**. If the code expired, select **Resend code**.
 
-6. To sign out, select your avatar at the top right. On a phone, select the **You** tab at the bottom of the screen.
+6. To sign out, select your avatar at the top right. On a phone, select the **You** tab.
 7. Select **Sign out** at the bottom of the menu.
 
    > [!NOTE]
@@ -194,12 +194,12 @@ If you forget your password, watchpapa.tv emails you a code and a link. Use eith
    > [!NOTE]
    > The page shows the same message whether or not an account exists for that address: "If an account exists for that email, a reset code and link are on their way."
 
-5. Open your email inbox and find the message from watchpapa.tv. It contains a six-digit code and a link.
+5. In your inbox, copy the six-digit code from watchpapa.tv.
 6. Enter the code on the **Check your inbox** page.
 7. Select **Continue**.
 
    > [!NOTE]
-   > If you prefer, skip steps six and seven. Select the link in the email instead. The **Choose a new password** page opens directly.
+   > To skip steps six and seven, select the link in the email. The **Choose a new password** page opens directly.
 
    > [!NOTE]
    > If the code does not arrive, select **Resend code**. If you entered the wrong address, select **Change** next to it and correct it.
@@ -207,7 +207,7 @@ If you forget your password, watchpapa.tv emails you a code and a link. Use eith
    > [!NOTE]
    > If the home page opens after you enter the code, you are already signed in. Open `watchpapa.tv/reset-password` in the same browser tab to continue.
 
-8. On the **Choose a new password** page, enter a new password. The same five rules as at sign-up apply.
+8. On the **Choose a new password** page, enter a password that meets the sign-up rules.
 9. Enter the new password again in **Repeat new password**.
 10. Select **Update password**.
 
@@ -240,7 +240,7 @@ Your profile is the page that other people see. This guide shows you how to choo
 - Sign in to watchpapa.tv.
 - Decide which title you want as your avatar. You can search for any movie or show.
 
-Each task below is independent. Do only the ones you need. Open the **Edit profile** page first for the avatar, favorites, banner and bio. Changing your username starts in Settings.
+Each task is independent. Avatar, favorites, banner and bio start on the **Edit profile** page. Your username starts in Settings.
 
 ### Opening the Edit profile page
 
@@ -284,7 +284,7 @@ You can set up to five favorites. They appear on your profile and on your profil
 
 ### Choosing your profile banner
 
-1. In the **Profile banner** section, choose where the banner artwork comes from. Select **Auto** to use your first favorite, or select the poster of another favorite.
+1. In the **Profile banner** section, select **Auto** to use your first favorite, or select the poster of another favorite.
 2. To change the crop, select **Crop**.
 3. Move the **Zoom** slider.
 4. Select **Save banner**.
@@ -294,7 +294,7 @@ You can set up to five favorites. They appear on your profile and on your profil
 
 ### Writing your bio
 
-1. In the **Bio** section, enter a short text of up to 200 characters. A counter shows how many characters you used.
+1. In the **Bio** section, enter up to 200 characters. A counter shows how many you used.
 2. Select **Save bio**. The button briefly reads **Saved**.
 3. To see the result, select **Back to profile**.
 
@@ -338,15 +338,14 @@ Deleting your account removes your profile, ratings, watchlists and follows. Thi
 ### Steps
 
 1. Select your avatar and then **Settings**.
-2. Optional: download a copy of your data. In the **Your data** section, select **Download CSV** next to **Export**. The file contains your movie ratings and your movie watchlist items.
+2. Optional: download a copy of your data. In the **Your data** section, select **Download CSV** next to **Export**. The file holds your movie ratings and watchlist items.
 
    > [!NOTE]
    > The export covers movies only. Ratings and watchlist entries for shows are not in the file.
 
 3. In the list of sections, select **Account**. It appears in red.
 4. Select **Delete my account**.
-5. Read the message in the **Delete your account?** window. It says "This permanently deletes all your data. There is no undo."
-6. Select **Yes, delete everything**.
+5. In the **Delete your account?** window, select **Yes, delete everything**.
 
    > [!NOTE]
    > To keep your account, select **Cancel** or close the window.
@@ -354,7 +353,7 @@ Deleting your account removes your profile, ratings, watchlists and follows. Thi
    > [!NOTE]
    > If the deletion fails, the window shows an error message. Try again later, or write to us through the [contact page](https://watchpapa.tv/contact).
 
-7. Read the **Account deleted** message and select **OK**. The sign-in page opens.
+6. In the **Account deleted** message, select **OK**. The sign-in page opens.
 
 The message says "Your remaining data will be permanently removed within 30 days." The delay covers encrypted backups.
 
