@@ -386,53 +386,52 @@ When you follow a show or a movie, its upcoming releases appear on your releases
 
 ### Following a show or a movie
 
-1. Select the search field at the top of the page. On a smaller screen, select the search icon at the top or the **Search** tab at the bottom.
-2. Enter the name of the show or movie, such as "Grey's Anatomy". Matching titles appear as you type.
-3. Select the show or movie in the list.
-4. On the show or movie page, select **Follow**.
+1. Select the search field at the top. On a small screen, select the **Search** tab.
+2. Enter a title, such as "Grey's Anatomy", and select it in the list.
+3. On the title page, select **Follow**.
 
    <img src="images/howto-follow-2-show-page.webp" alt="The Grey&#x27;s Anatomy page before following, with the Follow button below the title" width="720">
 
    The button changes to **Following** and shows a check mark.
 
    > [!NOTE]
-   > You can also select **Follow** on a title card in lists such as **Popular**. This works for shows and movies.
+   > You can also select **Follow** on a title card in lists such as **Popular**.
 
    > [!NOTE]
    > If you are not signed in, **Follow** opens a prompt to create an account or sign in.
 
    > [!NOTE]
-   > You cannot start following a show that has ended or a movie that is already released. A follow tracks only upcoming releases. In that case, the button is locked and shows **Ended**, **Canceled** or **Released**. Choose a show that is still running or a movie that is not released yet.
+   > A follow tracks only upcoming releases. For a show that has ended or a movie that is released, the button is locked and shows **Ended**, **Canceled** or **Released**.
 
    > [!NOTE]
-   > If you reach the limit of your plan, a message tells you so and the follow does not save. Unfollow a title that you no longer need, or read the **Plan & rewards** page.
+   > If you reach your plan's limit, the follow does not save. Unfollow a title or read the **Plan & rewards** page.
 
 ### Reading the releases calendar
 
-1. Select the calendar icon at the top right to open **Releases Radar**. On a narrow window, open your account menu and select **Releases Radar**. On a phone, select the **Radar** tab at the bottom of the screen.
-2. Find your show or movie on the calendar. Each episode appears on its air date with a code such as `S2E3`, which means season two, episode three. A movie appears in the same way, under the movie title. Today is highlighted.
+1. Select the calendar icon at the top right. On a narrow window, open your account menu and select **Releases Radar**. On a phone, select the **Radar** tab.
+2. Find your title. Each episode sits on its air date with a code such as `S2E3` (season two, episode three). A movie appears the same way, under its title.
 
    <img src="images/howto-follow-4-calendar.webp" alt="The October 2026 releases calendar with episodes of two followed shows and the Followed panel on the left" width="640">
 
 3. Select an entry to open its page.
-4. Select the arrows next to the month name to see earlier or later months. Select **Today** to return to the current month.
+4. Use the arrows next to the month name to change months. Select **Today** to return.
 
    > [!NOTE]
    > On a phone, the calendar shows a list. Select **Week** to see one week at a time, and select **List** to go back.
 
    > [!NOTE]
-   > If a show releases two or more episodes of one season on the same day, the calendar shows one entry named **Season** and the season number. Select it to open the season page.
+   > If a show releases several episodes of a season on one day, the calendar shows one **Season** entry. Select it to open the season page.
 
    > [!NOTE]
    > If you follow more titles than your plan allows, the calendar shows "You're over your follow limit" and stays blocked. Select **Manage follows** and unfollow titles until you are under the limit. This can happen after a temporary upgrade ends.
 
 ### Checking your follow limit
 
-1. Check the **Followed** panel at the left of the calendar. The bars show how many follows you have used. For example, **2/3** next to **Shows** means two of three.
+1. In the **Followed** panel at the left of the calendar, read the bars. **2/3** next to **Shows** means two of three follows used.
 
 ### Unfollowing a title
 
-1. In the **Followed** panel at the left of the calendar, select the minus button next to the name of the show or movie. The title stays visible for five seconds with an **Undo** button. After that, the unfollow is final.
+1. In the **Followed** panel, select the minus button next to the title. **Undo** stays available for five seconds.
 
    > [!TIP]
    > You can also unfollow from the title page. Select **Following** to turn it back to **Follow**.
@@ -461,15 +460,15 @@ A rating records what you think of a title. A watch log records when you saw it.
 
 ### Rating a title
 
-1. Open a title page. Search for the title, as in steps one to three of [Following a show or a movie](#following-a-show-or-a-movie). This guide uses *The Matrix*.
-2. Find the **Your activity** card on the page. Before you rate, it shows five empty hearts and the label **Rate this movie**.
+1. Open a title page, as in [Following a show or a movie](#following-a-show-or-a-movie). This guide uses *The Matrix*.
+2. Find the card with the heading **Rate this movie**. It shows five empty hearts.
 
-   <img src="images/howto-rate-1-panel.webp" alt="The Your activity card with five empty hearts and the Log watch, Watchlist and Share buttons" width="478">
+   <img src="images/howto-rate-1-panel.webp" alt="The rating card with five empty hearts and the Log watch, Watchlist and Share buttons" width="478">
 
    > [!NOTE]
    > Shows work the same way, with the label **Rate this show**. Season and episode pages show the hearts only. They have no **Log watch**, **Watchlist** or **Share** buttons.
 
-3. Move the pointer over the hearts. A score appears at the top right of the card. Each heart has two halves. The left half sets an odd score and the right half sets an even score, so the five hearts cover every score from one to 10. On a phone, tap a heart instead.
+3. Point at the hearts. A score shows at the top right of the card. Each heart has two halves: the left half sets an odd score and the right half an even score, so five hearts cover one to 10. On a phone, tap a heart.
 4. Select the half heart that matches your score. For 7 out of 10, select the left half of the fourth heart.
 
    > [!NOTE]
@@ -482,19 +481,19 @@ A rating records what you think of a title. A watch log records when you saw it.
 
 Once you rate a title, the hearts lock so that a stray tap cannot replace your score.
 
-1. Open the title page and find the **Your activity** card.
+1. Open the title page and find the rating card.
 2. To change the rating, select **Change** and then select a new score. To cancel the change, select **Cancel**.
 3. To remove the rating, select **Clear**.
 
 ### Logging a watch
 
-1. Open the title page and find the **Your activity** card.
+1. Open the title page and find the rating card.
 2. Select **Log watch**. The button logs today's date and changes to **Watched**.
 
 ### Logging another watch
 
-1. On the title page, select **Watched**. On a computer, the **Rewatch diary** opens as a panel. On a phone, it opens from the bottom of the screen.
-2. Under **Log another watch**, choose the date that you watched the title. You cannot choose a future date.
+1. On the title page, select **Watched** to open the **Rewatch diary**.
+2. Under **Log another watch**, choose the date. It cannot be in the future.
 3. Select **Log**. The button now reads **Watched** followed by the number of watches, for example **Watched · 2×**.
 
    <img src="images/howto-rate-4-diary.webp" alt="The Rewatch diary panel with two logged watches and the Watched · 2× button below it" width="357">
@@ -533,12 +532,12 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
 ### Steps
 
 1. Open the page of a movie or a show, as in [Following a show or a movie](#following-a-show-or-a-movie).
-2. In the **Your activity** card, select **Watchlist**.
+2. In the rating card, select **Watchlist**.
 
-   If you have no list yet, watchpapa.tv creates a list named **My Watchlist** and adds the title. If you already have lists, it adds the title to your first list. A bar shows the name of the list and the words "on your watchlist". The button changes to **Watchlisted**.
+   watchpapa.tv adds the title to your first list, or creates **My Watchlist** if you have none. The button changes to **Watchlisted**, and a bar shows the list name.
 
    > [!NOTE]
-   > If you have more than one list, select the list name in the bar to open the list of your watchlists. Select a list to add or remove the title. A title can be on several lists. On a phone, the lists open in a sheet from the bottom.
+   > With several lists, select the list name in the bar, then select a list to add or remove the title. A title can be on several lists.
 
    > [!NOTE]
    > To remove a title from a list, select **Watchlisted**. In the bar that appears, select the list name and then select the list to clear its check mark.
@@ -546,7 +545,7 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
    > [!NOTE]
    > If you are not signed in, **Watchlist** opens a prompt to create an account.
 
-3. To open your lists, select your avatar and then **Watchlists**. On a phone, select the **You** tab first. The **My Watchlists** page shows one tab for each list.
+3. To open your lists, select your avatar and then **Watchlists**. On a phone, select the **You** tab first. Each list has its own tab.
 
    <img src="images/howto-watchlist-2-page.webp" alt="The My Watchlists page with a list named Weekend picks and three titles" width="640">
 
@@ -559,7 +558,7 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
 
 7. To change the order of the titles, select **Sort by** and choose **Date added** or **Rating**.
 8. To mark a title as seen, select **Watched** below its poster. watchpapa.tv logs a watch and takes the title off the list.
-9. To remove a title without logging a watch, point to its poster and select the trash can. Then select **Remove**. On a touch screen, the trash can is always visible.
+9. To remove a title without logging a watch, select the trash can on its poster and then **Remove**. On a computer, the trash can appears when you point at the poster.
 10. To rename a list, select **Rename**, enter the new name and select **Save**.
 11. To delete a list, select **Delete**. Then confirm in the **Delete this watchlist?** window.
 
