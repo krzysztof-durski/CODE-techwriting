@@ -314,7 +314,7 @@ Deleting your account removes your profile, ratings, watchlists and follows. Thi
 ### Steps
 
 1. Select your avatar and then **Settings**.
-2. Optional: download a copy of your data. In the **Your data** section, select **Download CSV** next to **Export**. The file holds your movie ratings and watchlist items.
+2. Optional: download a copy of your data as a comma-separated values (CSV) file. In the **Your data** section, select **Download CSV** next to **Export**. The file holds your movie ratings and watchlist items.
 
    **Note:** The export covers movies only. Ratings and watchlist entries for shows are not in the file.
 
