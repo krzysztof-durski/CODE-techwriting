@@ -25,17 +25,15 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 
 **Tracking what you watch**
 
-- [Following a show or movie and reading the releases calendar](#following-a-show-or-movie-and-reading-the-releases-calendar)
-  - [Following a show or a movie](#following-a-show-or-a-movie)
-  - [Reading the releases calendar](#reading-the-releases-calendar)
-  - [Checking your follow limit](#checking-your-follow-limit)
-  - [Unfollowing a title](#unfollowing-a-title)
-- [Rating a title and logging a watch](#rating-a-title-and-logging-a-watch)
-  - [Rating a title](#rating-a-title)
-  - [Changing or clearing a rating](#changing-or-clearing-a-rating)
-  - [Logging a watch](#logging-a-watch)
-  - [Logging another watch](#logging-another-watch)
-  - [Removing a watch](#removing-a-watch)
+- [Following a show or a movie](#following-a-show-or-a-movie)
+- [Reading the releases calendar](#reading-the-releases-calendar)
+- [Checking your follow limit](#checking-your-follow-limit)
+- [Unfollowing a title](#unfollowing-a-title)
+- [Rating a title](#rating-a-title)
+- [Changing or clearing a rating](#changing-or-clearing-a-rating)
+- [Logging a watch](#logging-a-watch)
+- [Logging another watch](#logging-another-watch)
+- [Removing a watch](#removing-a-watch)
 - [Creating and using watchlists](#creating-and-using-watchlists)
 
 **Finding what to watch**
@@ -48,17 +46,14 @@ Screenshots show a demo account with real titles from The Movie Database (TMDB).
 **People, privacy and plans**
 
 - [Observing other people](#observing-other-people)
-- [Making your account private or blocking a user](#making-your-account-private-or-blocking-a-user)
-  - [Making your account private](#making-your-account-private)
-  - [Controlling profile sharing](#controlling-profile-sharing)
-  - [Blocking a person](#blocking-a-person)
-  - [Unblocking a person](#unblocking-a-person)
-- [Inviting friends and claiming a reward code](#inviting-friends-and-claiming-a-reward-code)
-  - [Inviting a friend](#inviting-a-friend)
-  - [Claiming a reward code](#claiming-a-reward-code)
-- [Sharing a title or a profile card](#sharing-a-title-or-a-profile-card)
-  - [Sharing a title](#sharing-a-title)
-  - [Sharing your profile card](#sharing-your-profile-card)
+- [Making your account private](#making-your-account-private)
+- [Controlling profile sharing](#controlling-profile-sharing)
+- [Blocking a person](#blocking-a-person)
+- [Unblocking a person](#unblocking-a-person)
+- [Inviting a friend](#inviting-a-friend)
+- [Claiming a reward code](#claiming-a-reward-code)
+- [Sharing a title](#sharing-a-title)
+- [Sharing your profile card](#sharing-your-profile-card)
 
 ---
 
@@ -133,8 +128,8 @@ Congratulations. You now have a verified watchpapa.tv account and you are signed
 ### Next steps
 
 - [Edit your profile](#editing-your-profile)
-- [Follow a show or movie and read the releases calendar](#following-a-show-or-movie-and-reading-the-releases-calendar)
-- [Rate a title and log a watch](#rating-a-title-and-logging-a-watch)
+- [Follow a show or a movie](#following-a-show-or-a-movie)
+- [Rate a title](#rating-a-title)
 
 <p align="right">(<a href="#how-to-guides">back to top</a>)</p>
 
@@ -254,7 +249,7 @@ Congratulations. You chose a new password for your account. Use it the next time
 
 ## Editing your profile
 
-Your profile is the page that other people see. This guide shows you how to choose an avatar, set up to five favorite titles, pick a banner and write a short bio. It also shows you how to change your username. It does not cover privacy settings. For those, read [Making your account private or blocking a user](#making-your-account-private-or-blocking-a-user).
+Your profile is the page that other people see. This guide shows you how to choose an avatar, set up to five favorite titles, pick a banner and write a short bio. It also shows you how to change your username. It does not cover privacy settings. For those, read [Making your account private](#making-your-account-private).
 
 ### Before you begin
 
@@ -344,8 +339,8 @@ Congratulations. Your profile now shows your avatar, banner, bio and favorite ti
 
 ### Next steps
 
-- [Share your profile card](#sharing-a-title-or-a-profile-card)
-- [Make your account private](#making-your-account-private-or-blocking-a-user)
+- [Share your profile card](#sharing-your-profile-card)
+- [Make your account private](#making-your-account-private)
 
 <p align="right">(<a href="#how-to-guides">back to top</a>)</p>
 
@@ -406,7 +401,7 @@ You deleted your account. watchpapa.tv no longer shows your profile, and your da
 
 ---
 
-## Following a show or movie and reading the releases calendar
+## Follows and the releases calendar
 
 When you follow a show or a movie, its upcoming releases appear on your releases calendar. This guide shows you how to follow a show or a movie, read the calendar and unfollow a title. It does not cover importing a watch history.
 
@@ -484,14 +479,14 @@ Congratulations. You followed a show or a movie, found its upcoming releases on 
 
 ### Next steps
 
-- [Rate a title and log a watch](#rating-a-title-and-logging-a-watch)
+- [Rate a title](#rating-a-title)
 - Open **Follows** in your account menu to manage all your follows in one place.
 
 <p align="right">(<a href="#how-to-guides">back to top</a>)</p>
 
 ---
 
-## Rating a title and logging a watch
+## Ratings and watches
 
 A rating records what you think of a title. A watch log records when you saw it. This guide shows you how to rate a movie or a show, change or clear the rating, and log more than one watch. It does not cover watchlists or sharing.
 
@@ -502,7 +497,7 @@ A rating records what you think of a title. A watch log records when you saw it.
 
 ### Rating a title
 
-1. Open a title page. Search for the title, as in steps one to three of [Following a show or movie and reading the releases calendar](#following-a-show-or-movie-and-reading-the-releases-calendar). This guide uses *The Matrix*.
+1. Open a title page. Search for the title, as in steps one to three of [Following a show or a movie](#following-a-show-or-a-movie). This guide uses *The Matrix*.
 2. Find the **Your activity** card on the page. Before you rate, it shows five empty hearts and the label **Rate this movie**.
 
    ![The Your activity card with five empty hearts and the Log watch, Watchlist and Share buttons](images/howto-rate-1-panel.webp)
@@ -558,7 +553,7 @@ Congratulations. You rated a title, logged your first watch and added a rewatch.
 
 - [Create a watchlist for titles you plan to watch](#creating-and-using-watchlists)
 - [Get recommendations based on your ratings](#getting-recommendations)
-- [Follow a show or movie and read the releases calendar](#following-a-show-or-movie-and-reading-the-releases-calendar)
+- [Follow a show or a movie](#following-a-show-or-a-movie)
 
 <p align="right">(<a href="#how-to-guides">back to top</a>)</p>
 
@@ -575,7 +570,7 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
 
 ### Steps
 
-1. Open the page of a movie or a show, as in [Following a show or movie and reading the releases calendar](#following-a-show-or-movie-and-reading-the-releases-calendar).
+1. Open the page of a movie or a show, as in [Following a show or a movie](#following-a-show-or-a-movie).
 2. In the **Your activity** card, select **Watchlist**.
 
    If you have no list yet, watchpapa.tv creates a list named **My Watchlist** and adds the title. If you already have lists, it adds the title to your first list. A bar shows the name of the list and the words "on your watchlist". The button changes to **Watchlisted**.
@@ -619,7 +614,7 @@ Congratulations. You added a title to a watchlist and learned how to manage your
 
 ### Next steps
 
-- [Rate a title and log a watch](#rating-a-title-and-logging-a-watch)
+- [Rate a title](#rating-a-title)
 - [Find where to stream a title](#finding-where-to-stream-a-title)
 
 <p align="right">(<a href="#how-to-guides">back to top</a>)</p>
@@ -692,7 +687,7 @@ The **Suggested For You** row on the home page shows titles that match your tast
 ### Before you begin
 
 - Sign in to watchpapa.tv.
-- Rate at least a few titles. Read [Rating a title and logging a watch](#rating-a-title-and-logging-a-watch).
+- Rate at least a few titles. Read [Rating a title](#rating-a-title).
 
 ### Steps
 
@@ -882,14 +877,14 @@ Congratulations. You observe people whose taste you like, and you decide who can
 
 ### Next steps
 
-- [Make your account private](#making-your-account-private-or-blocking-a-user)
-- [Rate a title and log a watch](#rating-a-title-and-logging-a-watch)
+- [Make your account private](#making-your-account-private)
+- [Rate a title](#rating-a-title)
 
 <p align="right">(<a href="#how-to-guides">back to top</a>)</p>
 
 ---
 
-## Making your account private or blocking a user
+## Privacy and blocking
 
 Privacy settings decide who can observe you and see your ratings. This guide shows you how to make your account private, how to control profile sharing, and how to block and unblock a person. It does not cover deleting your account.
 
@@ -940,14 +935,14 @@ Congratulations. You control who can observe you, who can share your profile car
 
 ### Next steps
 
-- [Share a profile card](#sharing-a-title-or-a-profile-card)
+- [Share your profile card](#sharing-your-profile-card)
 - [Edit your profile](#editing-your-profile)
 
 <p align="right">(<a href="#how-to-guides">back to top</a>)</p>
 
 ---
 
-## Inviting friends and claiming a reward code
+## Invites and reward codes
 
 You earn upgrades by inviting friends and by claiming reward codes. This guide shows you how to share your invite link and how to claim a code. It does not cover buying a plan. watchpapa.tv has no payments yet.
 
@@ -996,14 +991,14 @@ Congratulations. You shared your invite link and, if you had one, claimed a rewa
 
 ### Next steps
 
-- [Follow a show or movie and read the releases calendar](#following-a-show-or-movie-and-reading-the-releases-calendar)
+- [Follow a show or a movie](#following-a-show-or-a-movie)
 - [Create a watchlist](#creating-and-using-watchlists)
 
 <p align="right">(<a href="#how-to-guides">back to top</a>)</p>
 
 ---
 
-## Sharing a title or a profile card
+## Share cards
 
 A share card is an image that shows a title or your profile. You can post it in stories, posts or chats. This guide shows you how to create a card for a title and for your profile. It does not cover sharing a link.
 
@@ -1060,6 +1055,6 @@ Congratulations. You created a share card for a title and for your profile. The 
 ### Next steps
 
 - [Edit your profile](#editing-your-profile)
-- [Control who can share your profile](#making-your-account-private-or-blocking-a-user)
+- [Control who can share your profile](#controlling-profile-sharing)
 
 <p align="right">(<a href="#how-to-guides">back to top</a>)</p>
