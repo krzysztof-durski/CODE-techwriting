@@ -80,7 +80,7 @@ A free account lets you follow shows, rate what you watch and keep a personal re
 5. Enter the same password in **Repeat password**. The message **Passwords match** appears when both entries agree.
 6. Select **Continue**.
 
-   ![Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password](images/howto-register-1-account.webp)
+   <img src="images/howto-register-1-account.webp" alt="Step one of the sign-up form with an email address, a password that meets all five rules and a matching repeated password" width="310">
 
    > [!NOTE]
    > If your password appears on a list of known data breaches, the form shows the message "This password has appeared in a known data breach." Choose a different password.
@@ -251,7 +251,7 @@ Each task below is independent. Do only the ones you need. Open the **Edit profi
 
 1. In the **Avatar** section, choose one of the options.
 
-   ![The Avatar section with the Initials, Poster and Photo options](images/howto-profile-1-avatar.webp)
+   <img src="images/howto-profile-1-avatar.webp" alt="The Avatar section with the Initials, Poster and Photo options" width="720">
 
    - **Initials** shows the first letter of your username.
    - **Poster** shows the poster of any movie or show. Select **Poster**, enter a title in the search field and select the result.
@@ -274,7 +274,7 @@ You can set up to five favorites. They appear on your profile and on your profil
 1. In the **Favourites** section, select an empty slot. A **Pick a title** window opens.
 2. Enter the name of a movie or show and select it in the results.
 
-   ![The Favourites section with three favorite titles and two empty slots](images/howto-profile-3-favourites.webp)
+   <img src="images/howto-profile-3-favourites.webp" alt="The Favourites section with three favorite titles and two empty slots" width="720">
 
 3. To replace a favorite, select its slot and pick another title.
 4. To remove a favorite, select the **×** at the corner of its poster.
@@ -392,7 +392,7 @@ When you follow a show or a movie, its upcoming releases appear on your releases
 3. Select the show or movie in the list.
 4. On the show or movie page, select **Follow**.
 
-   ![The Grey's Anatomy page before following, with the Follow button below the title](images/howto-follow-2-show-page.webp)
+   <img src="images/howto-follow-2-show-page.webp" alt="The Grey&#x27;s Anatomy page before following, with the Follow button below the title" width="720">
 
    The button changes to **Following** and shows a check mark.
 
@@ -413,7 +413,7 @@ When you follow a show or a movie, its upcoming releases appear on your releases
 1. Select the calendar icon at the top right to open **Releases Radar**. On a narrow window, open your account menu and select **Releases Radar**. On a phone, select the **Radar** tab at the bottom of the screen.
 2. Find your show or movie on the calendar. Each episode appears on its air date with a code such as `S2E3`, which means season two, episode three. A movie appears in the same way, under the movie title. Today is highlighted.
 
-   ![The October 2026 releases calendar with episodes of two followed shows and the Followed panel on the left](images/howto-follow-4-calendar.webp)
+   <img src="images/howto-follow-4-calendar.webp" alt="The October 2026 releases calendar with episodes of two followed shows and the Followed panel on the left" width="640">
 
 3. Select an entry to open its page.
 4. Select the arrows next to the month name to see earlier or later months. Select **Today** to return to the current month.
@@ -465,7 +465,7 @@ A rating records what you think of a title. A watch log records when you saw it.
 1. Open a title page. Search for the title, as in steps one to three of [Following a show or a movie](#following-a-show-or-a-movie). This guide uses *The Matrix*.
 2. Find the **Your activity** card on the page. Before you rate, it shows five empty hearts and the label **Rate this movie**.
 
-   ![The Your activity card with five empty hearts and the Log watch, Watchlist and Share buttons](images/howto-rate-1-panel.webp)
+   <img src="images/howto-rate-1-panel.webp" alt="The Your activity card with five empty hearts and the Log watch, Watchlist and Share buttons" width="478">
 
    > [!NOTE]
    > Shows work the same way, with the label **Rate this show**. Season and episode pages show the hearts only. They have no **Log watch**, **Watchlist** or **Share** buttons.
@@ -498,7 +498,7 @@ Once you rate a title, the hearts lock so that a stray tap cannot replace your s
 2. Under **Log another watch**, choose the date that you watched the title. You cannot choose a future date.
 3. Select **Log**. The button now reads **Watched** followed by the number of watches, for example **Watched · 2×**.
 
-   ![The Rewatch diary panel with two logged watches and the Watched · 2× button below it](images/howto-rate-4-diary.webp)
+   <img src="images/howto-rate-4-diary.webp" alt="The Rewatch diary panel with two logged watches and the Watched · 2× button below it" width="357">
 
 ### Removing a watch
 
@@ -549,7 +549,7 @@ A watchlist holds titles that you plan to watch. This guide shows you how to add
 
 3. To open your lists, select your avatar and then **Watchlists**. On a phone, select the **You** tab first. The **My Watchlists** page shows one tab for each list.
 
-   ![The My Watchlists page with a list named Weekend picks and three titles](images/howto-watchlist-2-page.webp)
+   <img src="images/howto-watchlist-2-page.webp" alt="The My Watchlists page with a list named Weekend picks and three titles" width="640">
 
 4. To create another list, select **New list**.
 5. Enter a name of up to 60 characters.
@@ -597,7 +597,7 @@ The **Where to watch** panel shows which services stream, rent or sell a title i
    - **Free** and **Free with ads** list services that cost nothing.
    - **Rent** and **Buy** list services that charge for the title.
 
-   ![The Where to watch panel with the tabs US and GB and the groups Stream, Rent and Buy](images/howto-stream-1-panel.webp)
+   <img src="images/howto-stream-1-panel.webp" alt="The Where to watch panel with the tabs US and GB and the groups Stream, Rent and Buy" width="720">
 
 4. Select a country tab, such as **US** or **GB**, to compare services in another country.
 
@@ -656,7 +656,7 @@ The **Suggested For You** row on the home page shows titles that match your tast
 2. Select **Popular** in the top navigation to open the home page. On a phone, select the **Home** tab.
 3. Scroll to the **Suggested For You** row.
 
-   ![The Suggested For You row with movies similar to the user's ratings](images/howto-recommend-1-row.webp)
+   <img src="images/howto-recommend-1-row.webp" alt="The Suggested For You row with movies similar to the user&#x27;s ratings" width="720">
 
 4. Scroll the row sideways. Select the arrow at the right end to load more titles.
 5. Select a title to open its page. From there you can follow it, rate it or add it to a watchlist.
@@ -739,7 +739,7 @@ You can change the order of the rows on your home page and hide rows that you do
 1. Select your avatar and then **Settings**. On a phone, select the **You** tab first.
 2. In the list of sections, select **Home page**. The **Rows** list shows every row in its current order.
 
-   ![The Home page section with seven rows, each with arrows and a Shown button](images/howto-homepage-1-rows.webp)
+   <img src="images/howto-homepage-1-rows.webp" alt="The Home page section with seven rows, each with arrows and a Shown button" width="696">
 
 3. Select the up arrow or the down arrow next to a row to move it. The first row appears at the top of the home page.
 4. Select **Shown** next to a row to hide it. The button changes to **Hidden**. Select it again to show the row.
@@ -789,7 +789,7 @@ When you observe a person, you see their ratings in your activity feed and on th
 3. Select the name of a person to open their profile.
 4. Select **Observe**.
 
-   ![The profile of cinephile_jo with the Observe and Block buttons](images/howto-observe-2-profile.webp)
+   <img src="images/howto-observe-2-profile.webp" alt="The profile of cinephile_jo with the Observe and Block buttons" width="720">
 
    The button changes to **Observing**.
 
@@ -837,7 +837,7 @@ Privacy settings decide who can observe you and see your ratings. This guide sho
 2. In the list of sections, select **Privacy**.
 3. To make your account private, turn on **Private account**. People must then request to observe you, and your ratings stay hidden until you approve them.
 
-   ![The Privacy section with Private account off, Allow profile sharing on and one blocked user](images/howto-privacy-1-section.webp)
+   <img src="images/howto-privacy-1-section.webp" alt="The Privacy section with Private account off, Allow profile sharing on and one blocked user" width="720">
 
    > [!NOTE]
    > You answer requests on the **Observe Requests** page. Read [Observing other people](#observing-other-people).
@@ -894,7 +894,7 @@ You earn upgrades by inviting friends and by claiming reward codes. This guide s
 3. Find **Invite friends**. Your personal code appears there, for example `ALEX7Q2K`.
 4. Select **Copy link** to copy the invite link. Select **Copy code** to copy only the code.
 
-   ![The Plan and rewards section with the invite code, the Copy code and Copy link buttons and the reward code field](images/howto-rewards-1-section.webp)
+   <img src="images/howto-rewards-1-section.webp" alt="The Plan and rewards section with the invite code, the Copy code and Copy link buttons and the reward code field" width="720">
 
    > [!TIP]
    > For a shortcut, open your account menu and select **Invite friends**. The menu copies your invite link and shows "Link copied!".
@@ -951,7 +951,7 @@ A share card is an image that shows a title or your profile. You can post it in 
    - **Rich** adds the genres.
 4. Optional: enter a short text of up to 125 characters in **Add a thought**.
 
-   ![The Share movie window with a card preview for The Matrix, the detail levels and the Download button](images/howto-share-1-movie.webp)
+   <img src="images/howto-share-1-movie.webp" alt="The Share movie window with a card preview for The Matrix, the detail levels and the Download button" width="640">
 
 5. Select **Download** to save the image.
 
@@ -974,7 +974,7 @@ A share card is an image that shows a title or your profile. You can post it in 
    - **Wide · 16:9** fits wide screens.
 4. Select **Share** to send the card to another app, or select **Download** to save the image.
 
-   ![The Share profile window with the Story format and a preview of the profile card](images/howto-share-2-profile.webp)
+   <img src="images/howto-share-2-profile.webp" alt="The Share profile window with the Story format and a preview of the profile card" width="640">
 
    > [!NOTE]
    > The card contains your avatar, bio, favorite titles and rating statistics.
